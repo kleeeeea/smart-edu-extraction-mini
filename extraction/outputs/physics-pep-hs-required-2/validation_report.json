@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "errors": [],
+  "records": 66,
+  "chapters": 4,
+  "sections": 18,
+  "research_records": 1,
+  "example_fields": 9,
+  "supplementary_worked_examples": 10,
+  "page_images": 114,
+  "image_references": 123,
+  "source_pdf_sha256_verified": true,
+  "checks": [
+    "UTF-8 BOM and eight fields",
+    "continuous unique IDs",
+    "nonempty core fields",
+    "all 18 outline sections",
+    "physical source-page ranges",
+    "standalone unique image references per field",
+    "image files and field-level provenance",
+    "math delimiter pairing",
+    "encoding checks",
+    "source PDF hash"
+  ],
+  "visual_content_review": "Recorded separately in visual_review.jsonl; program checks do not certify semantics."
+}

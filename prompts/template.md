@@ -2,4 +2,4 @@
 抽取规则参考https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md
 技能参考/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/skills/smartedu-math
 应用到
-/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/02_初中_物理_人教版_八年级_下册_（根据2022年版课程标准修订）义务教育教科书·物理八年级下册_aec6de38-33d2-417a-bbdb-e39154a046a9.pdf
+/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中物理pdf/03_高中_物理_人教版_高中年级_必修_第一册_普通高中教科书·物理必修_第一册_708256b6-6f06-4d14-89c7-4df16dfe3b81.pdf

@@ -1,0 +1,447 @@
+{
+  "resource_id": "708256b6-6f06-4d14-89c7-4df16dfe3b81",
+  "order_and_hierarchy_basis": "website/ebook_mapping.json 官方实际电子书导航节点；按page_number排序",
+  "names_basis": "同版PDF P4及节标题；没有声称官方映射返回了名称",
+  "front_page": 5,
+  "nodes": [
+    {
+      "node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
+      "node_path": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
+      "page_number": 7,
+      "name": "序言 物理学：研究物质及其运动规律的科学",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 2,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-001",
+        "RJ-PHYSICS-SC1-002",
+        "RJ-PHYSICS-SC1-003"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011",
+      "node_path": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011",
+      "page_number": 15,
+      "name": "第一章 运动的描述",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 10,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-004",
+        "RJ-PHYSICS-SC1-005",
+        "RJ-PHYSICS-SC1-006",
+        "RJ-PHYSICS-SC1-007",
+        "RJ-PHYSICS-SC1-008",
+        "RJ-PHYSICS-SC1-009",
+        "RJ-PHYSICS-SC1-010",
+        "RJ-PHYSICS-SC1-011",
+        "RJ-PHYSICS-SC1-012",
+        "RJ-PHYSICS-SC1-013",
+        "RJ-PHYSICS-SC1-014",
+        "RJ-PHYSICS-SC1-015",
+        "RJ-PHYSICS-SC1-016",
+        "RJ-PHYSICS-SC1-017",
+        "RJ-PHYSICS-SC1-018",
+        "RJ-PHYSICS-SC1-019",
+        "RJ-PHYSICS-SC1-020",
+        "RJ-PHYSICS-SC1-021",
+        "RJ-PHYSICS-SC1-022"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "7a9ebc82-8622-3d48-929f-bd30e06cd1f2",
+      "node_path": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011/7a9ebc82-8622-3d48-929f-bd30e06cd1f2",
+      "page_number": 16,
+      "name": "1. 质点 参考系",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 11,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-005",
+        "RJ-PHYSICS-SC1-006"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
+      "node_path": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011/c0056fc7-7cf6-355f-a103-b8116c2c48ea",
+      "page_number": 20,
+      "name": "2. 时间 位移",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 15,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-007",
+        "RJ-PHYSICS-SC1-008",
+        "RJ-PHYSICS-SC1-009",
+        "RJ-PHYSICS-SC1-010",
+        "RJ-PHYSICS-SC1-011",
+        "RJ-PHYSICS-SC1-012",
+        "RJ-PHYSICS-SC1-013"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
+      "node_path": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011/5ca89ff3-d699-3a2c-bb9f-1d8469633713",
+      "page_number": 26,
+      "name": "3. 位置变化快慢的描述——速度",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 21,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-014",
+        "RJ-PHYSICS-SC1-015",
+        "RJ-PHYSICS-SC1-016",
+        "RJ-PHYSICS-SC1-017",
+        "RJ-PHYSICS-SC1-018"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
+      "node_path": "0b6285a5-64a9-3282-8ad0-6dbf4ae66011/79966a7c-853f-3cd9-9960-f61c61054784",
+      "page_number": 32,
+      "name": "4. 速度变化快慢的描述——加速度",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 27,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-019",
+        "RJ-PHYSICS-SC1-020",
+        "RJ-PHYSICS-SC1-021",
+        "RJ-PHYSICS-SC1-022"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d",
+      "node_path": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d",
+      "page_number": 40,
+      "name": "第二章 匀变速直线运动的研究",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 35,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-023",
+        "RJ-PHYSICS-SC1-024",
+        "RJ-PHYSICS-SC1-025",
+        "RJ-PHYSICS-SC1-026",
+        "RJ-PHYSICS-SC1-027",
+        "RJ-PHYSICS-SC1-028",
+        "RJ-PHYSICS-SC1-029",
+        "RJ-PHYSICS-SC1-030",
+        "RJ-PHYSICS-SC1-031",
+        "RJ-PHYSICS-SC1-032",
+        "RJ-PHYSICS-SC1-033",
+        "RJ-PHYSICS-SC1-034"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "f3c0b769-5653-320e-88be-04e6b23dab82",
+      "node_path": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d/f3c0b769-5653-320e-88be-04e6b23dab82",
+      "page_number": 41,
+      "name": "1. 实验：探究小车速度随时间变化的规律",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 36,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-023"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "ff783133-3173-347b-9f75-51df3456bad9",
+      "node_path": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d/ff783133-3173-347b-9f75-51df3456bad9",
+      "page_number": 44,
+      "name": "2. 匀变速直线运动的速度与时间的关系",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 39,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-024",
+        "RJ-PHYSICS-SC1-025"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "4859e5ad-b3c2-3229-8f33-f306a6055b37",
+      "node_path": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d/4859e5ad-b3c2-3229-8f33-f306a6055b37",
+      "page_number": 47,
+      "name": "3. 匀变速直线运动的位移与时间的关系",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 42,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-026",
+        "RJ-PHYSICS-SC1-027",
+        "RJ-PHYSICS-SC1-028"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "5f07e265-f85b-353c-ad40-179e10928b32",
+      "node_path": "0c0f0d9e-de4a-36a0-89bb-e3bc707ff75d/5f07e265-f85b-353c-ad40-179e10928b32",
+      "page_number": 52,
+      "name": "4. 自由落体运动",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 47,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-029",
+        "RJ-PHYSICS-SC1-030",
+        "RJ-PHYSICS-SC1-031",
+        "RJ-PHYSICS-SC1-032",
+        "RJ-PHYSICS-SC1-033",
+        "RJ-PHYSICS-SC1-034"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "416d1f10-8b17-3d7b-9380-7dee599c9a99",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99",
+      "page_number": 61,
+      "name": "第三章 相互作用——力",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 56,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-035",
+        "RJ-PHYSICS-SC1-036",
+        "RJ-PHYSICS-SC1-037",
+        "RJ-PHYSICS-SC1-038",
+        "RJ-PHYSICS-SC1-039",
+        "RJ-PHYSICS-SC1-040",
+        "RJ-PHYSICS-SC1-041",
+        "RJ-PHYSICS-SC1-042",
+        "RJ-PHYSICS-SC1-043",
+        "RJ-PHYSICS-SC1-044",
+        "RJ-PHYSICS-SC1-045",
+        "RJ-PHYSICS-SC1-046",
+        "RJ-PHYSICS-SC1-047",
+        "RJ-PHYSICS-SC1-048",
+        "RJ-PHYSICS-SC1-049",
+        "RJ-PHYSICS-SC1-050",
+        "RJ-PHYSICS-SC1-051",
+        "RJ-PHYSICS-SC1-052",
+        "RJ-PHYSICS-SC1-053",
+        "RJ-PHYSICS-SC1-054",
+        "RJ-PHYSICS-SC1-055",
+        "RJ-PHYSICS-SC1-056"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99/a4973833-8930-3a2e-9a72-ef15ff1799a9",
+      "page_number": 62,
+      "name": "1. 重力与弹力",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 57,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-036",
+        "RJ-PHYSICS-SC1-037",
+        "RJ-PHYSICS-SC1-038",
+        "RJ-PHYSICS-SC1-039",
+        "RJ-PHYSICS-SC1-040",
+        "RJ-PHYSICS-SC1-041",
+        "RJ-PHYSICS-SC1-042",
+        "RJ-PHYSICS-SC1-043"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99/8992ada9-b14a-380f-ac48-c612e84a269a",
+      "page_number": 68,
+      "name": "2. 摩擦力",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 63,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-044",
+        "RJ-PHYSICS-SC1-045",
+        "RJ-PHYSICS-SC1-046"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99/10c06505-ae59-3eae-a055-de26c98f94de",
+      "page_number": 73,
+      "name": "3. 牛顿第三定律",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 68,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-047",
+        "RJ-PHYSICS-SC1-048",
+        "RJ-PHYSICS-SC1-049",
+        "RJ-PHYSICS-SC1-050",
+        "RJ-PHYSICS-SC1-051"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "e9c61aab-fc16-3804-8aac-9d30a5717689",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99/e9c61aab-fc16-3804-8aac-9d30a5717689",
+      "page_number": 77,
+      "name": "4. 力的合成和分解",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 72,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-052",
+        "RJ-PHYSICS-SC1-053",
+        "RJ-PHYSICS-SC1-054"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "340a5325-509f-31b1-8874-e02faea2e2cf",
+      "node_path": "416d1f10-8b17-3d7b-9380-7dee599c9a99/340a5325-509f-31b1-8874-e02faea2e2cf",
+      "page_number": 81,
+      "name": "5. 共点力的平衡",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 76,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-055",
+        "RJ-PHYSICS-SC1-056"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "c2bc1165-3468-335a-98d1-92eb92ceef69",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69",
+      "page_number": 87,
+      "name": "第四章 运动和力的关系",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 82,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-057",
+        "RJ-PHYSICS-SC1-058",
+        "RJ-PHYSICS-SC1-059",
+        "RJ-PHYSICS-SC1-060",
+        "RJ-PHYSICS-SC1-061",
+        "RJ-PHYSICS-SC1-062",
+        "RJ-PHYSICS-SC1-063",
+        "RJ-PHYSICS-SC1-064",
+        "RJ-PHYSICS-SC1-065",
+        "RJ-PHYSICS-SC1-066",
+        "RJ-PHYSICS-SC1-067",
+        "RJ-PHYSICS-SC1-068",
+        "RJ-PHYSICS-SC1-069",
+        "RJ-PHYSICS-SC1-070",
+        "RJ-PHYSICS-SC1-071",
+        "RJ-PHYSICS-SC1-072",
+        "RJ-PHYSICS-SC1-073",
+        "RJ-PHYSICS-SC1-074",
+        "RJ-PHYSICS-SC1-075"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "8c4ed767-1988-39cb-8441-4fb47911fa06",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/8c4ed767-1988-39cb-8441-4fb47911fa06",
+      "page_number": 88,
+      "name": "1. 牛顿第一定律",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 83,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-058",
+        "RJ-PHYSICS-SC1-059",
+        "RJ-PHYSICS-SC1-060",
+        "RJ-PHYSICS-SC1-061"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "d984cca7-4337-3d58-91b8-ec188ed21564",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/d984cca7-4337-3d58-91b8-ec188ed21564",
+      "page_number": 93,
+      "name": "2. 实验：探究加速度与力、质量的关系",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 88,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-062",
+        "RJ-PHYSICS-SC1-063"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
+      "page_number": 99,
+      "name": "3. 牛顿第二定律",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 94,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-064",
+        "RJ-PHYSICS-SC1-065",
+        "RJ-PHYSICS-SC1-066"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/204e7962-d53e-3edd-99eb-596cba925d1c",
+      "page_number": 104,
+      "name": "4. 力学单位制",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 99,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-067",
+        "RJ-PHYSICS-SC1-068",
+        "RJ-PHYSICS-SC1-069",
+        "RJ-PHYSICS-SC1-070"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "9266dc39-eca9-3fdf-8a4c-1e918f91f778",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/9266dc39-eca9-3fdf-8a4c-1e918f91f778",
+      "page_number": 109,
+      "name": "5. 牛顿运动定律的应用",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 104,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-071",
+        "RJ-PHYSICS-SC1-072"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "fa9c6166-88c6-3eb4-91e6-fb90efb02bd6",
+      "node_path": "c2bc1165-3468-335a-98d1-92eb92ceef69/fa9c6166-88c6-3eb4-91e6-fb90efb02bd6",
+      "page_number": 114,
+      "name": "6. 超重和失重",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 109,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-073",
+        "RJ-PHYSICS-SC1-074",
+        "RJ-PHYSICS-SC1-075"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "33c76c84-f2c5-3681-bf23-8308fe70a6cb",
+      "node_path": "33c76c84-f2c5-3681-bf23-8308fe70a6cb",
+      "page_number": 121,
+      "name": "课题研究",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 116,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-076"
+      ],
+      "status": "aligned"
+    },
+    {
+      "node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
+      "node_path": "8731fa65-7b89-3135-a168-f0a16165190b",
+      "page_number": 126,
+      "name": "学生实验",
+      "name_basis": "本地同版PDF P4 目录及节标题视觉核对；官方映射提供节点ID、层级和物理起页，不包含名称",
+      "printed_start": 121,
+      "record_ids": [
+        "RJ-PHYSICS-SC1-077",
+        "RJ-PHYSICS-SC1-078",
+        "RJ-PHYSICS-SC1-079",
+        "RJ-PHYSICS-SC1-080",
+        "RJ-PHYSICS-SC1-081",
+        "RJ-PHYSICS-SC1-082"
+      ],
+      "status": "aligned"
+    }
+  ],
+  "differences": [],
+  "chapter_intro_rule": "章引言保留章级位置；侧栏按出现位置就近归属"
+}

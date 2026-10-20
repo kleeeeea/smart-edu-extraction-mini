@@ -1,0 +1,416 @@
+{
+  "mode": "new_extraction",
+  "previous_published_ids": [],
+  "mappings": [
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-001",
+      "knowledge_point": "物理学的研究对象与研究方法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-002",
+      "knowledge_point": "电流的磁效应与电磁感应"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-003",
+      "knowledge_point": "牛顿学说的适用条件提示"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-004",
+      "knowledge_point": "机械运动与力学"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-005",
+      "knowledge_point": "质点与理想化模型"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-006",
+      "knowledge_point": "参考系与运动的相对性"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-007",
+      "knowledge_point": "时刻和时间间隔"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-008",
+      "knowledge_point": "位置、位移与路程"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-009",
+      "knowledge_point": "直线运动的位移"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-010",
+      "knowledge_point": "位移—时间图像"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-011",
+      "knowledge_point": "打点计时器及位移和时间的测量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-012",
+      "knowledge_point": "实验：练习使用打点计时器"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-013",
+      "knowledge_point": "全球卫星导航系统"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-014",
+      "knowledge_point": "速度的定义、方向与单位"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-015",
+      "knowledge_point": "平均速度、瞬时速度与速率"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-016",
+      "knowledge_point": "实验：测量纸带的平均速度和瞬时速度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-017",
+      "knowledge_point": "速度—时间图像"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-018",
+      "knowledge_point": "借助传感器与计算机测速度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-019",
+      "knowledge_point": "加速度的定义与单位"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-020",
+      "knowledge_point": "加速度的方向"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-021",
+      "knowledge_point": "从速度—时间图像看加速度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-022",
+      "knowledge_point": "变化率与速度、加速度的比较"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-023",
+      "knowledge_point": "实验：探究小车速度随时间变化的规律"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-024",
+      "knowledge_point": "匀变速直线运动"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-025",
+      "knowledge_point": "匀变速直线运动的速度与时间的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-026",
+      "knowledge_point": "匀变速直线运动的位移与时间的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-027",
+      "knowledge_point": "匀变速直线运动的速度与位移的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-028",
+      "knowledge_point": "位移公式的推导：微小量求和与极限思想"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-029",
+      "knowledge_point": "自由落体运动及空气阻力的影响"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-030",
+      "knowledge_point": "实验：研究自由落体运动的规律"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-031",
+      "knowledge_point": "自由落体加速度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-032",
+      "knowledge_point": "用手机测自由落体加速度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-033",
+      "knowledge_point": "自由落体运动的速度和位移公式"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-034",
+      "knowledge_point": "伽利略对自由落体运动的研究方法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-035",
+      "knowledge_point": "力与物体间的相互作用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-036",
+      "knowledge_point": "重力的大小、方向及单位"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-037",
+      "knowledge_point": "重心与悬挂法测重心"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-038",
+      "knowledge_point": "力的图示与力的示意图"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-039",
+      "knowledge_point": "形变、接触力与弹力"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-040",
+      "knowledge_point": "演示：通过平面镜观察桌面的微小形变"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-041",
+      "knowledge_point": "弹性形变与弹性限度"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-042",
+      "knowledge_point": "实验：探究弹簧弹力与形变量的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-043",
+      "knowledge_point": "胡克定律与劲度系数"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-044",
+      "knowledge_point": "滑动摩擦力与动摩擦因数"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-045",
+      "knowledge_point": "静摩擦力及其最大值"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-046",
+      "knowledge_point": "流体的阻力"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-047",
+      "knowledge_point": "作用力和反作用力"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-048",
+      "knowledge_point": "牛顿第三定律与弹簧测力计实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-049",
+      "knowledge_point": "用力传感器探究作用力和反作用力的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-050",
+      "knowledge_point": "物体受力的初步分析"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-051",
+      "knowledge_point": "平衡力与作用力、反作用力的区别"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-052",
+      "knowledge_point": "共点力、合力与分力"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-053",
+      "knowledge_point": "力的合成和分解与平行四边形定则"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-054",
+      "knowledge_point": "矢量与标量的运算法则"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-055",
+      "knowledge_point": "共点力平衡的条件"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-056",
+      "knowledge_point": "共点力平衡中的正交分解法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-057",
+      "knowledge_point": "运动学与动力学"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-058",
+      "knowledge_point": "理想斜面实验与逻辑推理"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-059",
+      "knowledge_point": "牛顿第一定律与惯性"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-060",
+      "knowledge_point": "惯性与质量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-061",
+      "knowledge_point": "惯性参考系与非惯性参考系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-062",
+      "knowledge_point": "实验：探究加速度与力、质量的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-063",
+      "knowledge_point": "控制变量法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-064",
+      "knowledge_point": "牛顿第二定律"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-065",
+      "knowledge_point": "力的单位与牛顿第二定律的表达式"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-066",
+      "knowledge_point": "用动力学方法测质量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-067",
+      "knowledge_point": "基本量、基本单位与导出单位"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-068",
+      "knowledge_point": "国际单位制"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-069",
+      "knowledge_point": "统一单位后的计算方法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-070",
+      "knowledge_point": "秒、米、千克的定义"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-071",
+      "knowledge_point": "从受力确定运动情况"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-072",
+      "knowledge_point": "从运动情况确定受力"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-073",
+      "knowledge_point": "重力的测量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-074",
+      "knowledge_point": "超重与失重"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-075",
+      "knowledge_point": "实验观察：下蹲、站起和电梯运动中的示数变化"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-076",
+      "knowledge_point": "研究样例：球形物体空气阻力大小与速率关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-077",
+      "knowledge_point": "粒子物理学、宇称及不同相互作用下的守恒性"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-078",
+      "knowledge_point": "引力波的观测与探测装置"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-079",
+      "knowledge_point": "误差、直接测量及误差来源"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-080",
+      "knowledge_point": "偶然误差和系统误差"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-081",
+      "knowledge_point": "绝对误差与相对误差"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SC1-082",
+      "knowledge_point": "有效数字与测量结果的记录"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中物理pdf/01_高中_物理_人教版_高中年级_必修_第二册_普通高中教科书·物理必修_第二册_55baa3cc-156f-4358-8e28-bfa21a864450.pdf",
+  "sha256": "367414e1cffd74c8f9a4d3ceac666f675a2b005f31c558449ebbef4f70183d8e",
+  "pdf_pages": 114,
+  "source_bytes": 12699093,
+  "book_id": "physics-pep-hs-required-2",
+  "title": "普通高中教科书·物理必修 第二册",
+  "publisher": "人民教育出版社",
+  "education_stage": "高中",
+  "edition_statement": "教育部审定2019；版权页未能确认明确的版次日期",
+  "curriculum_statement": "普通高中物理课程标准（2017年版）",
+  "smartedu_resource_id": "55baa3cc-156f-4358-8e28-bfa21a864450",
+  "website_resource_url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=55baa3cc-156f-4358-8e28-bfa21a864450",
+  "website_detail_api": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/55baa3cc-156f-4358-8e28-bfa21a864450.json",
+  "website_names_status": "ebook_mapping supplies node hierarchy, order and physical start pages; section names transcribed from visually checked local PDF TOC P4",
+  "page_numbering": "PDF physical pages; printed page = physical page - 5 for textbook numbered body",
+  "render": {
+    "engine": "PyMuPDF",
+    "scale": 1.8,
+    "type": "full_page",
+    "path": "images/physics-pep-hs-required-2/page-NNN.png"
+  },
+  "policy_local": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/skills/smartedu-math/references/extraction-policy.md",
+  "policy_requested": "https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md",
+  "policy_remote_status": "Earlier requested raw fetch returned 404; applied local policy with explicit user physics instructions",
+  "extraction_date": "2026-10-20"
+}

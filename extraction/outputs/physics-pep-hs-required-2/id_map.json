@@ -1,0 +1,464 @@
+[
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-001",
+    "final_id": "RJ-PHYSICS-HS-R2-001",
+    "knowledge_point": "曲线运动",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-002",
+    "final_id": "RJ-PHYSICS-HS-R2-002",
+    "knowledge_point": "曲线运动的速度方向与切线",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-003",
+    "final_id": "RJ-PHYSICS-HS-R2-003",
+    "knowledge_point": "物体做曲线运动的条件",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-004",
+    "final_id": "RJ-PHYSICS-HS-R2-004",
+    "knowledge_point": "用飞镖显示曲线运动的速度方向",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-005",
+    "final_id": "RJ-PHYSICS-HS-R2-005",
+    "knowledge_point": "蜡块运动的观察、坐标描述与合速度",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-006",
+    "final_id": "RJ-PHYSICS-HS-R2-006",
+    "knowledge_point": "运动的合成与分解",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-007",
+    "final_id": "RJ-PHYSICS-HS-R2-007",
+    "knowledge_point": "抛体运动与平抛运动",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-008",
+    "final_id": "RJ-PHYSICS-HS-R2-008",
+    "knowledge_point": "探究平抛运动特点的实验思路与方案",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-009",
+    "final_id": "RJ-PHYSICS-HS-R2-009",
+    "knowledge_point": "平抛运动竖直分运动的实验探究",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-010",
+    "final_id": "RJ-PHYSICS-HS-R2-010",
+    "knowledge_point": "平抛运动水平分运动与轨迹的实验探究",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-011",
+    "final_id": "RJ-PHYSICS-HS-R2-011",
+    "knowledge_point": "用传感器和计算机描绘平抛运动轨迹",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-012",
+    "final_id": "RJ-PHYSICS-HS-R2-012",
+    "knowledge_point": "平抛运动的速度及方向",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-013",
+    "final_id": "RJ-PHYSICS-HS-R2-013",
+    "knowledge_point": "平抛运动的位移与抛物线轨迹",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-014",
+    "final_id": "RJ-PHYSICS-HS-R2-014",
+    "knowledge_point": "一般抛体运动与斜抛运动",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-015",
+    "final_id": "RJ-PHYSICS-HS-R2-015",
+    "knowledge_point": "圆周运动",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-016",
+    "final_id": "RJ-PHYSICS-HS-R2-016",
+    "knowledge_point": "线速度与匀速圆周运动",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-017",
+    "final_id": "RJ-PHYSICS-HS-R2-017",
+    "knowledge_point": "角速度",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-018",
+    "final_id": "RJ-PHYSICS-HS-R2-018",
+    "knowledge_point": "周期与转速",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-019",
+    "final_id": "RJ-PHYSICS-HS-R2-019",
+    "knowledge_point": "线速度与角速度的关系",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-020",
+    "final_id": "RJ-PHYSICS-HS-R2-020",
+    "knowledge_point": "向心力及其来源",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-021",
+    "final_id": "RJ-PHYSICS-HS-R2-021",
+    "knowledge_point": "感受向心力",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-022",
+    "final_id": "RJ-PHYSICS-HS-R2-022",
+    "knowledge_point": "探究向心力大小的表达式",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-023",
+    "final_id": "RJ-PHYSICS-HS-R2-023",
+    "knowledge_point": "变速圆周运动和一般曲线运动的受力特点",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-024",
+    "final_id": "RJ-PHYSICS-HS-R2-024",
+    "knowledge_point": "向心加速度的方向与大小",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-025",
+    "final_id": "RJ-PHYSICS-HS-R2-025",
+    "knowledge_point": "推导向心加速度公式",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-026",
+    "final_id": "RJ-PHYSICS-HS-R2-026",
+    "knowledge_point": "火车转弯的受力分析",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-027",
+    "final_id": "RJ-PHYSICS-HS-R2-027",
+    "knowledge_point": "汽车过拱形桥的受力分析",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-028",
+    "final_id": "RJ-PHYSICS-HS-R2-028",
+    "knowledge_point": "航天器中的失重现象",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-029",
+    "final_id": "RJ-PHYSICS-HS-R2-029",
+    "knowledge_point": "离心运动及其应用和危害",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-030",
+    "final_id": "RJ-PHYSICS-HS-R2-030",
+    "knowledge_point": "开普勒定律与行星运动的近似处理",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-031",
+    "final_id": "RJ-PHYSICS-HS-R2-031",
+    "knowledge_point": "用细绳和图钉绘制椭圆",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": null,
+    "final_id": "RJ-PHYSICS-HS-R2-032",
+    "knowledge_point": "行星逆行与本轮、均轮模型",
+    "action": "insert mixed-sidebar physics content",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-032",
+    "final_id": "RJ-PHYSICS-HS-R2-033",
+    "knowledge_point": "行星与太阳间引力的推导",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-033",
+    "final_id": "RJ-PHYSICS-HS-R2-034",
+    "knowledge_point": "月—地检验",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-034",
+    "final_id": "RJ-PHYSICS-HS-R2-035",
+    "knowledge_point": "万有引力定律及引力常量",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-035",
+    "final_id": "RJ-PHYSICS-HS-R2-036",
+    "knowledge_point": "引力常量的测量",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-036",
+    "final_id": "RJ-PHYSICS-HS-R2-037",
+    "knowledge_point": "“称量”地球的质量",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-037",
+    "final_id": "RJ-PHYSICS-HS-R2-038",
+    "knowledge_point": "根据轨道运动计算天体质量",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-038",
+    "final_id": "RJ-PHYSICS-HS-R2-039",
+    "knowledge_point": "利用万有引力发现与预言天体",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-039",
+    "final_id": "RJ-PHYSICS-HS-R2-040",
+    "knowledge_point": "宇宙速度",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-040",
+    "final_id": "RJ-PHYSICS-HS-R2-041",
+    "knowledge_point": "地球同步卫星",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-041",
+    "final_id": "RJ-PHYSICS-HS-R2-042",
+    "knowledge_point": "航天技术的应用",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-042",
+    "final_id": "RJ-PHYSICS-HS-R2-043",
+    "knowledge_point": "逃逸速度与黑洞",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-043",
+    "final_id": "RJ-PHYSICS-HS-R2-044",
+    "knowledge_point": "相对论时空观与光速不变",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-044",
+    "final_id": "RJ-PHYSICS-HS-R2-045",
+    "knowledge_point": "时间延缓效应与长度收缩效应",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-045",
+    "final_id": "RJ-PHYSICS-HS-R2-046",
+    "knowledge_point": "牛顿力学的成就与局限性",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-046",
+    "final_id": "RJ-PHYSICS-HS-R2-047",
+    "knowledge_point": "宇宙的起源与演化及恒星的演化",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-047",
+    "final_id": "RJ-PHYSICS-HS-R2-048",
+    "knowledge_point": "功与能量变化的联系",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-048",
+    "final_id": "RJ-PHYSICS-HS-R2-049",
+    "knowledge_point": "功的定义、表达式与单位",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-049",
+    "final_id": "RJ-PHYSICS-HS-R2-050",
+    "knowledge_point": "正功、负功与总功",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-050",
+    "final_id": "RJ-PHYSICS-HS-R2-051",
+    "knowledge_point": "功率及功率与力、速度的关系",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-051",
+    "final_id": "RJ-PHYSICS-HS-R2-052",
+    "knowledge_point": "重力做功与路径无关",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-052",
+    "final_id": "RJ-PHYSICS-HS-R2-053",
+    "knowledge_point": "重力势能及其变化与重力做功的关系",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-053",
+    "final_id": "RJ-PHYSICS-HS-R2-054",
+    "knowledge_point": "物体沿曲面滑下时重力做的功",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-054",
+    "final_id": "RJ-PHYSICS-HS-R2-055",
+    "knowledge_point": "重力势能的相对性",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-055",
+    "final_id": "RJ-PHYSICS-HS-R2-056",
+    "knowledge_point": "弹性势能",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-056",
+    "final_id": "RJ-PHYSICS-HS-R2-057",
+    "knowledge_point": "动能的表达式及其推导",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-057",
+    "final_id": "RJ-PHYSICS-HS-R2-058",
+    "knowledge_point": "动能定理及其适用范围",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-058",
+    "final_id": "RJ-PHYSICS-HS-R2-059",
+    "knowledge_point": "从牛顿第二定律推导动能定理的演绎推理",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-059",
+    "final_id": "RJ-PHYSICS-HS-R2-060",
+    "knowledge_point": "追寻守恒量的斜面情境",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-060",
+    "final_id": "RJ-PHYSICS-HS-R2-061",
+    "knowledge_point": "动能与势能的相互转化及机械能",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-061",
+    "final_id": "RJ-PHYSICS-HS-R2-062",
+    "knowledge_point": "机械能守恒定律及其条件",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-062",
+    "final_id": "RJ-PHYSICS-HS-R2-063",
+    "knowledge_point": "验证机械能守恒定律的实验思路与测量",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-063",
+    "final_id": "RJ-PHYSICS-HS-R2-064",
+    "knowledge_point": "研究自由落体的机械能实验",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-064",
+    "final_id": "RJ-PHYSICS-HS-R2-065",
+    "knowledge_point": "研究沿斜面下滑物体的机械能实验",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  },
+  {
+    "provisional_id": "RJ-PHYSICS-HS-R2-065",
+    "final_id": "RJ-PHYSICS-HS-R2-066",
+    "knowledge_point": "甩手动作的物理原理研究",
+    "action": "retain / renumber provisional extraction",
+    "status": "provisional IDs were not published"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "policy": "同一知识、同类型原例仅录首次完整讲解；不同方法与必要对比保留",
+  "decisions": [
+    {
+      "content": "章节练习与复习题",
+      "action": "exclude",
+      "reason": "未解练习，不另行补答案或重复录入已讲知识"
+    },
+    {
+      "content": "向心加速度的动力学与运动学推导",
+      "action": "retain_both",
+      "reason": "方法不同，前者由牛顿第二定律求得，后者以速度矢量变化推得"
+    },
+    {
+      "content": "重力做功的竖直、斜面与曲面论证",
+      "action": "retain",
+      "reason": "不同路径条件及分段方法用于说明路径无关，属于必要对比"
+    },
+    {
+      "content": "动能定理的飞机与打夯原例",
+      "action": "retain_both",
+      "reason": "前者求牵引力，后者跨两个过程求落地速度和冲击力，条件与应用不同"
+    },
+    {
+      "content": "机械能守恒的纸带与气垫导轨实验",
+      "action": "retain_both",
+      "reason": "器材、测量与数据获取方法不同；均不补教材未提供的实验结果"
+    },
+    {
+      "content": "画椭圆栏目",
+      "action": "extract_once",
+      "reason": "从开普勒定律正文记录中分离，避免同一段实验重复收录"
+    },
+    {
+      "content": "原子钟与μ子观测",
+      "action": "retain_in_detail",
+      "reason": "相对论时空观的核心验证和说明，非可任意拆出的补充算例"
+    },
+    {
+      "content": "甩手研究样例",
+      "action": "retain_in_detail",
+      "reason": "模型、照片缩放、原数据与两种验证共同构成核心解释，不拆为孤立例题"
+    }
+  ]
+}

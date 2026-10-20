@@ -1,0 +1,1454 @@
+[
+  {
+    "pdf_page": 1,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-001.png",
+    "records": []
+  },
+  {
+    "pdf_page": 2,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-002.png",
+    "records": []
+  },
+  {
+    "pdf_page": 3,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-003.png",
+    "records": []
+  },
+  {
+    "pdf_page": 4,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-004.png",
+    "records": []
+  },
+  {
+    "pdf_page": 5,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-005.png",
+    "records": []
+  },
+  {
+    "pdf_page": 6,
+    "printed_page": 1,
+    "image": "images/physics-pep-senior-compulsory-1/page-006.png",
+    "records": []
+  },
+  {
+    "pdf_page": 7,
+    "printed_page": 2,
+    "image": "images/physics-pep-senior-compulsory-1/page-007.png",
+    "records": []
+  },
+  {
+    "pdf_page": 8,
+    "printed_page": 3,
+    "image": "images/physics-pep-senior-compulsory-1/page-008.png",
+    "records": []
+  },
+  {
+    "pdf_page": 9,
+    "printed_page": 4,
+    "image": "images/physics-pep-senior-compulsory-1/page-009.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-001",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 10,
+    "printed_page": 5,
+    "image": "images/physics-pep-senior-compulsory-1/page-010.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-002",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 11,
+    "printed_page": 6,
+    "image": "images/physics-pep-senior-compulsory-1/page-011.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-003",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 12,
+    "printed_page": 7,
+    "image": "images/physics-pep-senior-compulsory-1/page-012.png",
+    "records": []
+  },
+  {
+    "pdf_page": 13,
+    "printed_page": 8,
+    "image": "images/physics-pep-senior-compulsory-1/page-013.png",
+    "records": []
+  },
+  {
+    "pdf_page": 14,
+    "printed_page": 9,
+    "image": "images/physics-pep-senior-compulsory-1/page-014.png",
+    "records": []
+  },
+  {
+    "pdf_page": 15,
+    "printed_page": 10,
+    "image": "images/physics-pep-senior-compulsory-1/page-015.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-004",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 16,
+    "printed_page": 11,
+    "image": "images/physics-pep-senior-compulsory-1/page-016.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-005",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 17,
+    "printed_page": 12,
+    "image": "images/physics-pep-senior-compulsory-1/page-017.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-005",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 18,
+    "printed_page": 13,
+    "image": "images/physics-pep-senior-compulsory-1/page-018.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-005",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-006",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 19,
+    "printed_page": 14,
+    "image": "images/physics-pep-senior-compulsory-1/page-019.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-006",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 20,
+    "printed_page": 15,
+    "image": "images/physics-pep-senior-compulsory-1/page-020.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-007",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-008",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 21,
+    "printed_page": 16,
+    "image": "images/physics-pep-senior-compulsory-1/page-021.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-008",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-009",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 22,
+    "printed_page": 17,
+    "image": "images/physics-pep-senior-compulsory-1/page-022.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-009",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-010",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 23,
+    "printed_page": 18,
+    "image": "images/physics-pep-senior-compulsory-1/page-023.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-011",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-012",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 24,
+    "printed_page": 19,
+    "image": "images/physics-pep-senior-compulsory-1/page-024.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-013",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 25,
+    "printed_page": 20,
+    "image": "images/physics-pep-senior-compulsory-1/page-025.png",
+    "records": []
+  },
+  {
+    "pdf_page": 26,
+    "printed_page": 21,
+    "image": "images/physics-pep-senior-compulsory-1/page-026.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-014",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-015",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 27,
+    "printed_page": 22,
+    "image": "images/physics-pep-senior-compulsory-1/page-027.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-015",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-016",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 28,
+    "printed_page": 23,
+    "image": "images/physics-pep-senior-compulsory-1/page-028.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-016",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 29,
+    "printed_page": 24,
+    "image": "images/physics-pep-senior-compulsory-1/page-029.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-016",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-017",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 30,
+    "printed_page": 25,
+    "image": "images/physics-pep-senior-compulsory-1/page-030.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-018",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 31,
+    "printed_page": 26,
+    "image": "images/physics-pep-senior-compulsory-1/page-031.png",
+    "records": []
+  },
+  {
+    "pdf_page": 32,
+    "printed_page": 27,
+    "image": "images/physics-pep-senior-compulsory-1/page-032.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-019",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 33,
+    "printed_page": 28,
+    "image": "images/physics-pep-senior-compulsory-1/page-033.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-019",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-020",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-021",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 34,
+    "printed_page": 29,
+    "image": "images/physics-pep-senior-compulsory-1/page-034.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-021",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-022",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 35,
+    "printed_page": 30,
+    "image": "images/physics-pep-senior-compulsory-1/page-035.png",
+    "records": []
+  },
+  {
+    "pdf_page": 36,
+    "printed_page": 31,
+    "image": "images/physics-pep-senior-compulsory-1/page-036.png",
+    "records": []
+  },
+  {
+    "pdf_page": 37,
+    "printed_page": 32,
+    "image": "images/physics-pep-senior-compulsory-1/page-037.png",
+    "records": []
+  },
+  {
+    "pdf_page": 38,
+    "printed_page": 33,
+    "image": "images/physics-pep-senior-compulsory-1/page-038.png",
+    "records": []
+  },
+  {
+    "pdf_page": 39,
+    "printed_page": 34,
+    "image": "images/physics-pep-senior-compulsory-1/page-039.png",
+    "records": []
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": 35,
+    "image": "images/physics-pep-senior-compulsory-1/page-040.png",
+    "records": []
+  },
+  {
+    "pdf_page": 41,
+    "printed_page": 36,
+    "image": "images/physics-pep-senior-compulsory-1/page-041.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-023",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 42,
+    "printed_page": 37,
+    "image": "images/physics-pep-senior-compulsory-1/page-042.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-023",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 43,
+    "printed_page": 38,
+    "image": "images/physics-pep-senior-compulsory-1/page-043.png",
+    "records": []
+  },
+  {
+    "pdf_page": 44,
+    "printed_page": 39,
+    "image": "images/physics-pep-senior-compulsory-1/page-044.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-024",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-025",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 45,
+    "printed_page": 40,
+    "image": "images/physics-pep-senior-compulsory-1/page-045.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-025",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-025",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 46,
+    "printed_page": 41,
+    "image": "images/physics-pep-senior-compulsory-1/page-046.png",
+    "records": []
+  },
+  {
+    "pdf_page": 47,
+    "printed_page": 42,
+    "image": "images/physics-pep-senior-compulsory-1/page-047.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-026",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 48,
+    "printed_page": 43,
+    "image": "images/physics-pep-senior-compulsory-1/page-048.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-026",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 49,
+    "printed_page": 44,
+    "image": "images/physics-pep-senior-compulsory-1/page-049.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-027",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-027",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 50,
+    "printed_page": 45,
+    "image": "images/physics-pep-senior-compulsory-1/page-050.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-027",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-027",
+        "field": "example"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-028",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 51,
+    "printed_page": 46,
+    "image": "images/physics-pep-senior-compulsory-1/page-051.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-028",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 52,
+    "printed_page": 47,
+    "image": "images/physics-pep-senior-compulsory-1/page-052.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-029",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 53,
+    "printed_page": 48,
+    "image": "images/physics-pep-senior-compulsory-1/page-053.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-029",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-030",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 54,
+    "printed_page": 49,
+    "image": "images/physics-pep-senior-compulsory-1/page-054.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-031",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-032",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 55,
+    "printed_page": 50,
+    "image": "images/physics-pep-senior-compulsory-1/page-055.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-032",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-033",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-034",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 56,
+    "printed_page": 51,
+    "image": "images/physics-pep-senior-compulsory-1/page-056.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-034",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 57,
+    "printed_page": 52,
+    "image": "images/physics-pep-senior-compulsory-1/page-057.png",
+    "records": []
+  },
+  {
+    "pdf_page": 58,
+    "printed_page": 53,
+    "image": "images/physics-pep-senior-compulsory-1/page-058.png",
+    "records": []
+  },
+  {
+    "pdf_page": 59,
+    "printed_page": 54,
+    "image": "images/physics-pep-senior-compulsory-1/page-059.png",
+    "records": []
+  },
+  {
+    "pdf_page": 60,
+    "printed_page": 55,
+    "image": "images/physics-pep-senior-compulsory-1/page-060.png",
+    "records": []
+  },
+  {
+    "pdf_page": 61,
+    "printed_page": 56,
+    "image": "images/physics-pep-senior-compulsory-1/page-061.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-035",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 62,
+    "printed_page": 57,
+    "image": "images/physics-pep-senior-compulsory-1/page-062.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-036",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 63,
+    "printed_page": 58,
+    "image": "images/physics-pep-senior-compulsory-1/page-063.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-037",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-038",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-039",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 64,
+    "printed_page": 59,
+    "image": "images/physics-pep-senior-compulsory-1/page-064.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-039",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-040",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 65,
+    "printed_page": 60,
+    "image": "images/physics-pep-senior-compulsory-1/page-065.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-041",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-042",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 66,
+    "printed_page": 61,
+    "image": "images/physics-pep-senior-compulsory-1/page-066.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-042",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-043",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 67,
+    "printed_page": 62,
+    "image": "images/physics-pep-senior-compulsory-1/page-067.png",
+    "records": []
+  },
+  {
+    "pdf_page": 68,
+    "printed_page": 63,
+    "image": "images/physics-pep-senior-compulsory-1/page-068.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-044",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 69,
+    "printed_page": 64,
+    "image": "images/physics-pep-senior-compulsory-1/page-069.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-044",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-044",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 70,
+    "printed_page": 65,
+    "image": "images/physics-pep-senior-compulsory-1/page-070.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-044",
+        "field": "example"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-045",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 71,
+    "printed_page": 66,
+    "image": "images/physics-pep-senior-compulsory-1/page-071.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-045",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-046",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 72,
+    "printed_page": 67,
+    "image": "images/physics-pep-senior-compulsory-1/page-072.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-046",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 73,
+    "printed_page": 68,
+    "image": "images/physics-pep-senior-compulsory-1/page-073.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-047",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-048",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 74,
+    "printed_page": 69,
+    "image": "images/physics-pep-senior-compulsory-1/page-074.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-048",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 75,
+    "printed_page": 70,
+    "image": "images/physics-pep-senior-compulsory-1/page-075.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-049",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-050",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 76,
+    "printed_page": 71,
+    "image": "images/physics-pep-senior-compulsory-1/page-076.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-051",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 77,
+    "printed_page": 72,
+    "image": "images/physics-pep-senior-compulsory-1/page-077.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-052",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 78,
+    "printed_page": 73,
+    "image": "images/physics-pep-senior-compulsory-1/page-078.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-053",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 79,
+    "printed_page": 74,
+    "image": "images/physics-pep-senior-compulsory-1/page-079.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-053",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-053",
+        "field": "example"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-054",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": 75,
+    "image": "images/physics-pep-senior-compulsory-1/page-080.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-054",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 81,
+    "printed_page": 76,
+    "image": "images/physics-pep-senior-compulsory-1/page-081.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-055",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 82,
+    "printed_page": 77,
+    "image": "images/physics-pep-senior-compulsory-1/page-082.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-056",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 83,
+    "printed_page": 78,
+    "image": "images/physics-pep-senior-compulsory-1/page-083.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-056",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 84,
+    "printed_page": 79,
+    "image": "images/physics-pep-senior-compulsory-1/page-084.png",
+    "records": []
+  },
+  {
+    "pdf_page": 85,
+    "printed_page": 80,
+    "image": "images/physics-pep-senior-compulsory-1/page-085.png",
+    "records": []
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 81,
+    "image": "images/physics-pep-senior-compulsory-1/page-086.png",
+    "records": []
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 82,
+    "image": "images/physics-pep-senior-compulsory-1/page-087.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-057",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 83,
+    "image": "images/physics-pep-senior-compulsory-1/page-088.png",
+    "records": []
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 84,
+    "image": "images/physics-pep-senior-compulsory-1/page-089.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-058",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 90,
+    "printed_page": 85,
+    "image": "images/physics-pep-senior-compulsory-1/page-090.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-059",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-060",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 91,
+    "printed_page": 86,
+    "image": "images/physics-pep-senior-compulsory-1/page-091.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-060",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-061",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 92,
+    "printed_page": 87,
+    "image": "images/physics-pep-senior-compulsory-1/page-092.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-061",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 93,
+    "printed_page": 88,
+    "image": "images/physics-pep-senior-compulsory-1/page-093.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-062",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 94,
+    "printed_page": 89,
+    "image": "images/physics-pep-senior-compulsory-1/page-094.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-062",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 95,
+    "printed_page": 90,
+    "image": "images/physics-pep-senior-compulsory-1/page-095.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-062",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 96,
+    "printed_page": 91,
+    "image": "images/physics-pep-senior-compulsory-1/page-096.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-062",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 97,
+    "printed_page": 92,
+    "image": "images/physics-pep-senior-compulsory-1/page-097.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-062",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-063",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 98,
+    "printed_page": 93,
+    "image": "images/physics-pep-senior-compulsory-1/page-098.png",
+    "records": []
+  },
+  {
+    "pdf_page": 99,
+    "printed_page": 94,
+    "image": "images/physics-pep-senior-compulsory-1/page-099.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-064",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 100,
+    "printed_page": 95,
+    "image": "images/physics-pep-senior-compulsory-1/page-100.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-064",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-065",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 101,
+    "printed_page": 96,
+    "image": "images/physics-pep-senior-compulsory-1/page-101.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-064",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-064",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 102,
+    "printed_page": 97,
+    "image": "images/physics-pep-senior-compulsory-1/page-102.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-064",
+        "field": "example"
+      }
+    ]
+  },
+  {
+    "pdf_page": 103,
+    "printed_page": 98,
+    "image": "images/physics-pep-senior-compulsory-1/page-103.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-066",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 104,
+    "printed_page": 99,
+    "image": "images/physics-pep-senior-compulsory-1/page-104.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-067",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 105,
+    "printed_page": 100,
+    "image": "images/physics-pep-senior-compulsory-1/page-105.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-067",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-068",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 106,
+    "printed_page": 101,
+    "image": "images/physics-pep-senior-compulsory-1/page-106.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-069",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 107,
+    "printed_page": 102,
+    "image": "images/physics-pep-senior-compulsory-1/page-107.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-069",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-070",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 108,
+    "printed_page": 103,
+    "image": "images/physics-pep-senior-compulsory-1/page-108.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-070",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 109,
+    "printed_page": 104,
+    "image": "images/physics-pep-senior-compulsory-1/page-109.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-071",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 110,
+    "printed_page": 105,
+    "image": "images/physics-pep-senior-compulsory-1/page-110.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-071",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 111,
+    "printed_page": 106,
+    "image": "images/physics-pep-senior-compulsory-1/page-111.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-071",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-072",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 112,
+    "printed_page": 107,
+    "image": "images/physics-pep-senior-compulsory-1/page-112.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-072",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 113,
+    "printed_page": 108,
+    "image": "images/physics-pep-senior-compulsory-1/page-113.png",
+    "records": []
+  },
+  {
+    "pdf_page": 114,
+    "printed_page": 109,
+    "image": "images/physics-pep-senior-compulsory-1/page-114.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-073",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-074",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 115,
+    "printed_page": 110,
+    "image": "images/physics-pep-senior-compulsory-1/page-115.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-074",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-075",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 116,
+    "printed_page": 111,
+    "image": "images/physics-pep-senior-compulsory-1/page-116.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-074",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-075",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 117,
+    "printed_page": 112,
+    "image": "images/physics-pep-senior-compulsory-1/page-117.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-074",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 118,
+    "printed_page": 113,
+    "image": "images/physics-pep-senior-compulsory-1/page-118.png",
+    "records": []
+  },
+  {
+    "pdf_page": 119,
+    "printed_page": 114,
+    "image": "images/physics-pep-senior-compulsory-1/page-119.png",
+    "records": []
+  },
+  {
+    "pdf_page": 120,
+    "printed_page": 115,
+    "image": "images/physics-pep-senior-compulsory-1/page-120.png",
+    "records": []
+  },
+  {
+    "pdf_page": 121,
+    "printed_page": 116,
+    "image": "images/physics-pep-senior-compulsory-1/page-121.png",
+    "records": []
+  },
+  {
+    "pdf_page": 122,
+    "printed_page": 117,
+    "image": "images/physics-pep-senior-compulsory-1/page-122.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-076",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 123,
+    "printed_page": 118,
+    "image": "images/physics-pep-senior-compulsory-1/page-123.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-076",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 124,
+    "printed_page": 119,
+    "image": "images/physics-pep-senior-compulsory-1/page-124.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-076",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 125,
+    "printed_page": 120,
+    "image": "images/physics-pep-senior-compulsory-1/page-125.png",
+    "records": []
+  },
+  {
+    "pdf_page": 126,
+    "printed_page": 121,
+    "image": "images/physics-pep-senior-compulsory-1/page-126.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-077",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-078",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 127,
+    "printed_page": 122,
+    "image": "images/physics-pep-senior-compulsory-1/page-127.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-078",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 128,
+    "printed_page": 123,
+    "image": "images/physics-pep-senior-compulsory-1/page-128.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-079",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-080",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-081",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 129,
+    "printed_page": 124,
+    "image": "images/physics-pep-senior-compulsory-1/page-129.png",
+    "records": [
+      {
+        "id": "RJ-PHYSICS-SC1-081",
+        "field": "detail"
+      },
+      {
+        "id": "RJ-PHYSICS-SC1-082",
+        "field": "detail"
+      }
+    ]
+  },
+  {
+    "pdf_page": 130,
+    "printed_page": 125,
+    "image": "images/physics-pep-senior-compulsory-1/page-130.png",
+    "records": []
+  },
+  {
+    "pdf_page": 131,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-131.png",
+    "records": []
+  },
+  {
+    "pdf_page": 132,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-132.png",
+    "records": []
+  },
+  {
+    "pdf_page": 133,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-133.png",
+    "records": []
+  },
+  {
+    "pdf_page": 134,
+    "printed_page": null,
+    "image": "images/physics-pep-senior-compulsory-1/page-134.png",
+    "records": []
+  }
+]

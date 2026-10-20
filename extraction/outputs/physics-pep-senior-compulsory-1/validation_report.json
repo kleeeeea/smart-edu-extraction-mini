@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "records": 82,
+  "sections": 19,
+  "supplementary_example_fields": 7,
+  "physical_pdf_pages": 134,
+  "source_sha256_verified": true,
+  "csv_bom_and_fields": true,
+  "image_links_standalone_existing_and_deduplicated": true,
+  "cross_page_text_precedes_images": true,
+  "math_delimiters_and_braces": true,
+  "source_page_mapping": true,
+  "targeted_content_assertions": true,
+  "visual_review_evidence": "visual_review.jsonl",
+  "limitation": "程序断言仅验证结构和指定内容锚点；逐页视觉核对另记于 visual_review.jsonl。"
+}
