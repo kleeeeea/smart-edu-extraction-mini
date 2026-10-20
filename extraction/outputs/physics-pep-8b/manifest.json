@@ -1,0 +1,87 @@
+[
+  {
+    "path": "knowledge_points.csv",
+    "bytes": 104960,
+    "sha256": "8014a46cd141102a814b950bf160984dcee023d237234985a0bed5168f1a67fd"
+  },
+  {
+    "path": "knowledge_points.md",
+    "bytes": 104188,
+    "sha256": "7bec244a812c0f6a574f268061ac1c45904bfd856d0d478290493d03754b78ff"
+  },
+  {
+    "path": "book_metadata.json",
+    "bytes": 2368,
+    "sha256": "377480cca5727e45206122b7dd518759a9bb8b631351b95220f3c726a1aa938f"
+  },
+  {
+    "path": "outline_alignment.json",
+    "bytes": 14021,
+    "sha256": "fcf5c515f70568aea6f82eb8d2fe50d906443ade83f7c43f1c5ab86936b4b223"
+  },
+  {
+    "path": "page_map.json",
+    "bytes": 13549,
+    "sha256": "007b911e9004714d41813c843b39ff936b3aea776a1b6015b17593fd231423f0"
+  },
+  {
+    "path": "source_records.jsonl",
+    "bytes": 47277,
+    "sha256": "50bec0573dee386c7747f7948939c1cd3cfd4bcfff702f78d0681ab9d78c4889"
+  },
+  {
+    "path": "visual_review.jsonl",
+    "bytes": 69414,
+    "sha256": "3507412f17cf26a52f7d8fe99bf058aa491132578ade70e454c225f29786de73"
+  },
+  {
+    "path": "exclusion_audit.jsonl",
+    "bytes": 2064,
+    "sha256": "a44ecff88b1649564945a4dbf1e617f3868e242f1182e6459a3470deea5da124"
+  },
+  {
+    "path": "change_log.jsonl",
+    "bytes": 234171,
+    "sha256": "0f6f1d692e788dd5b00aaf0e4177c6637c6bbf5a6dd549f0af74da5159e7dea6"
+  },
+  {
+    "path": "id_map.json",
+    "bytes": 7033,
+    "sha256": "45dbd49483447c8e866abcf9d973bb18ce94dd0cb84a757fd22084d8cc19be5c"
+  },
+  {
+    "path": "validation_report.json",
+    "bytes": 777,
+    "sha256": "ce38ed28181730152d189ebf1cc3c164b9631bff1b952f9dd4afcbb5660c40fc"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3541,
+    "sha256": "b0920da8c5e0b2d2df725b5d73891d3b7391629f00a25748ecdc2248ac018ac1"
+  },
+  {
+    "path": "selection.tsv",
+    "bytes": 4082,
+    "sha256": "af83a07ca22734900119e7b06b8f5987a6e3d9511c61a41ba125f50dc0e7c707"
+  },
+  {
+    "path": "patches.json",
+    "bytes": 43729,
+    "sha256": "acaaad652c9b4aa835d53b761b46309faccc5e24b5e8e3e26b56455c0d66f630"
+  },
+  {
+    "path": "scripts/build.py",
+    "bytes": 6808,
+    "sha256": "3520e7538b6f711e96a7eef672a82d2a49075d36f6add469d73c1f23bef99322"
+  },
+  {
+    "path": "scripts/refine.py",
+    "bytes": 15118,
+    "sha256": "0a84b5d55bfad65775e2f0fe79b3c859613b61579e1b015af187f8a4fb859bff"
+  },
+  {
+    "path": "scripts/package_audit.py",
+    "bytes": 11455,
+    "sha256": "3f8ea2b25f3b49cc0c9c38a20855196a515010dfad9ae471e43fc9f8839aeba4"
+  }
+]

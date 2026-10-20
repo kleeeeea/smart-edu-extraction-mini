@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "records": 74,
+  "chapters": 6,
+  "sections": 24,
+  "website_nodes_matched": 30,
+  "pdf_pages": 131,
+  "page_visual_reviews": 131,
+  "full_page_enlargements": 21,
+  "supplementary_worked_examples": 9,
+  "image_references_checked": 128,
+  "errors": [],
+  "separate_checks": {
+    "schema_bom_ids": "pass",
+    "outline_coverage": "pass",
+    "source_pdf_hash_unchanged": "pass",
+    "image_paths_standalone_dedup": "pass",
+    "visual_content": "整册逐页视觉核对，公式空表及图示重点页另打开整页；见visual_review.jsonl",
+    "unprovided_experiment_results": "未补写；原有空表、空白测量值和探究留空保留",
+    "limits": "程序结构检查不证明原文忠实性；远端PDF未做逐字节哈希比对"
+  }
+}
