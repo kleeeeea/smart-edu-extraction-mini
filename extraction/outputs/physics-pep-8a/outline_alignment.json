@@ -1,0 +1,510 @@
+{
+  "status": "matched",
+  "website_resource_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/e5618f17-c06e-4c4c-944e-0ee8ced25391.json",
+  "ebook_id": "5370d999-5dd2-4c64-a9ed-089ec2694300",
+  "front_page": 7,
+  "nodes_matched": 36,
+  "name_basis": "网站 ebook_mapping 返回节点ID、父子层级与页序，不返回名称；名称取自同版本地PDF目录的逐页视觉核对。引言根节点和子节点同在P8，分别保留。",
+  "nodes": [
+    {
+      "node_id": "2e606375-db31-43e8-900e-502f1719a8b4",
+      "node_path": "2e606375-db31-43e8-900e-502f1719a8b4",
+      "page_number": 8,
+      "local_title": "开启科学探索之旅",
+      "local_pdf_page": 8,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "1241ed3b-3d8d-41dc-a14b-42defcd061af",
+      "node_path": "2e606375-db31-43e8-900e-502f1719a8b4/1241ed3b-3d8d-41dc-a14b-42defcd061af",
+      "page_number": 8,
+      "local_title": "开启科学探索之旅",
+      "local_pdf_page": 8,
+      "records": [
+        "RJ-PHYSICS-8A-001",
+        "RJ-PHYSICS-8A-002",
+        "RJ-PHYSICS-8A-003",
+        "RJ-PHYSICS-8A-004",
+        "RJ-PHYSICS-8A-005"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "d41838dd-0dc3-4199-a35e-8a7c75c16439",
+      "node_path": "d41838dd-0dc3-4199-a35e-8a7c75c16439",
+      "page_number": 17,
+      "local_title": "第一章 机械运动",
+      "local_pdf_page": 17,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "8dcaba4b-e01c-4ad7-aeb7-bfde61941f7a",
+      "node_path": "d41838dd-0dc3-4199-a35e-8a7c75c16439/8dcaba4b-e01c-4ad7-aeb7-bfde61941f7a",
+      "page_number": 18,
+      "local_title": "第1节 长度和时间的测量",
+      "local_pdf_page": 18,
+      "records": [
+        "RJ-PHYSICS-8A-006",
+        "RJ-PHYSICS-8A-007",
+        "RJ-PHYSICS-8A-008",
+        "RJ-PHYSICS-8A-009",
+        "RJ-PHYSICS-8A-010",
+        "RJ-PHYSICS-8A-011",
+        "RJ-PHYSICS-8A-012",
+        "RJ-PHYSICS-8A-013",
+        "RJ-PHYSICS-8A-014"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "0e1a9abe-9b64-4905-bf44-aea877cafc07",
+      "node_path": "d41838dd-0dc3-4199-a35e-8a7c75c16439/0e1a9abe-9b64-4905-bf44-aea877cafc07",
+      "page_number": 24,
+      "local_title": "第2节 运动的描述",
+      "local_pdf_page": 24,
+      "records": [
+        "RJ-PHYSICS-8A-015",
+        "RJ-PHYSICS-8A-016"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "963e56cc-f85c-42ea-be06-43af6f4a2301",
+      "node_path": "d41838dd-0dc3-4199-a35e-8a7c75c16439/963e56cc-f85c-42ea-be06-43af6f4a2301",
+      "page_number": 27,
+      "local_title": "第3节 运动的快慢",
+      "local_pdf_page": 27,
+      "records": [
+        "RJ-PHYSICS-8A-017",
+        "RJ-PHYSICS-8A-018",
+        "RJ-PHYSICS-8A-019"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "18dc650d-eed9-4522-951a-06edc1524e2b",
+      "node_path": "d41838dd-0dc3-4199-a35e-8a7c75c16439/18dc650d-eed9-4522-951a-06edc1524e2b",
+      "page_number": 32,
+      "local_title": "第4节 速度的测量",
+      "local_pdf_page": 32,
+      "records": [
+        "RJ-PHYSICS-8A-020",
+        "RJ-PHYSICS-8A-021",
+        "RJ-PHYSICS-8A-022",
+        "RJ-PHYSICS-8A-023"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "2bf8e109-3466-4b91-8dd3-e43eb9673013",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013",
+      "page_number": 38,
+      "local_title": "第二章 声现象",
+      "local_pdf_page": 38,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "5d5547fc-7443-4172-89dd-f40137abf5e9",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013/5d5547fc-7443-4172-89dd-f40137abf5e9",
+      "page_number": 39,
+      "local_title": "第1节 声音的产生与传播",
+      "local_pdf_page": 39,
+      "records": [
+        "RJ-PHYSICS-8A-024",
+        "RJ-PHYSICS-8A-025",
+        "RJ-PHYSICS-8A-026",
+        "RJ-PHYSICS-8A-027",
+        "RJ-PHYSICS-8A-028"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "3dd46eb6-83a5-4776-b7d3-101b83248917",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013/3dd46eb6-83a5-4776-b7d3-101b83248917",
+      "page_number": 44,
+      "local_title": "第2节 声音的特性",
+      "local_pdf_page": 44,
+      "records": [
+        "RJ-PHYSICS-8A-029",
+        "RJ-PHYSICS-8A-030",
+        "RJ-PHYSICS-8A-031",
+        "RJ-PHYSICS-8A-032",
+        "RJ-PHYSICS-8A-033"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "7211b2cb-6622-4f06-9fe6-69fed5ef1308",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013/7211b2cb-6622-4f06-9fe6-69fed5ef1308",
+      "page_number": 51,
+      "local_title": "第3节 声的利用",
+      "local_pdf_page": 51,
+      "records": [
+        "RJ-PHYSICS-8A-034",
+        "RJ-PHYSICS-8A-035",
+        "RJ-PHYSICS-8A-036"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "03288653-9f40-462c-a269-cc25c82f4a59",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013/03288653-9f40-462c-a269-cc25c82f4a59",
+      "page_number": 56,
+      "local_title": "第4节 噪声的危害和控制",
+      "local_pdf_page": 56,
+      "records": [
+        "RJ-PHYSICS-8A-037",
+        "RJ-PHYSICS-8A-038",
+        "RJ-PHYSICS-8A-039"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "a668413a-d390-4141-a29f-8cbb5c3d4604",
+      "node_path": "2bf8e109-3466-4b91-8dd3-e43eb9673013/a668413a-d390-4141-a29f-8cbb5c3d4604",
+      "page_number": 60,
+      "local_title": "第5节 跨学科实践：制作隔音房间模型",
+      "local_pdf_page": 60,
+      "records": [
+        "RJ-PHYSICS-8A-040"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2",
+      "page_number": 64,
+      "local_title": "第三章 物态变化",
+      "local_pdf_page": 64,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "7696a4a2-62dd-4ae9-821a-7841b76b6369",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2/7696a4a2-62dd-4ae9-821a-7841b76b6369",
+      "page_number": 65,
+      "local_title": "第1节 温度",
+      "local_pdf_page": 65,
+      "records": [
+        "RJ-PHYSICS-8A-041",
+        "RJ-PHYSICS-8A-042",
+        "RJ-PHYSICS-8A-043",
+        "RJ-PHYSICS-8A-044",
+        "RJ-PHYSICS-8A-045",
+        "RJ-PHYSICS-8A-046"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "db68b91d-9b0e-483e-946c-edbc1846796e",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2/db68b91d-9b0e-483e-946c-edbc1846796e",
+      "page_number": 71,
+      "local_title": "第2节 熔化和凝固",
+      "local_pdf_page": 71,
+      "records": [
+        "RJ-PHYSICS-8A-047",
+        "RJ-PHYSICS-8A-048",
+        "RJ-PHYSICS-8A-049",
+        "RJ-PHYSICS-8A-050",
+        "RJ-PHYSICS-8A-051"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "6d73ea08-9ba6-4593-8da8-e3055f70481c",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2/6d73ea08-9ba6-4593-8da8-e3055f70481c",
+      "page_number": 77,
+      "local_title": "第3节 汽化和液化",
+      "local_pdf_page": 77,
+      "records": [
+        "RJ-PHYSICS-8A-052",
+        "RJ-PHYSICS-8A-053",
+        "RJ-PHYSICS-8A-054",
+        "RJ-PHYSICS-8A-055",
+        "RJ-PHYSICS-8A-056",
+        "RJ-PHYSICS-8A-057",
+        "RJ-PHYSICS-8A-058",
+        "RJ-PHYSICS-8A-059"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "15292e39-0328-4dcb-9a9d-041cb1aab2c1",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2/15292e39-0328-4dcb-9a9d-041cb1aab2c1",
+      "page_number": 84,
+      "local_title": "第4节 升华和凝华",
+      "local_pdf_page": 84,
+      "records": [
+        "RJ-PHYSICS-8A-060",
+        "RJ-PHYSICS-8A-061",
+        "RJ-PHYSICS-8A-062",
+        "RJ-PHYSICS-8A-063"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "4a51e03a-9bbe-462e-8e06-c88be493701a",
+      "node_path": "94b8cbbc-201f-4e96-93ff-d8811fbec7e2/4a51e03a-9bbe-462e-8e06-c88be493701a",
+      "page_number": 88,
+      "local_title": "第5节 跨学科实践：探索厨房中的物态变化问题",
+      "local_pdf_page": 88,
+      "records": [
+        "RJ-PHYSICS-8A-064"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf",
+      "page_number": 94,
+      "local_title": "第四章 光现象",
+      "local_pdf_page": 94,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "a2b6a24e-16db-40b5-86fd-0cce09f51eaa",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf/a2b6a24e-16db-40b5-86fd-0cce09f51eaa",
+      "page_number": 95,
+      "local_title": "第1节 光的直线传播",
+      "local_pdf_page": 95,
+      "records": [
+        "RJ-PHYSICS-8A-065",
+        "RJ-PHYSICS-8A-066",
+        "RJ-PHYSICS-8A-067",
+        "RJ-PHYSICS-8A-068",
+        "RJ-PHYSICS-8A-069",
+        "RJ-PHYSICS-8A-070"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "bacca7fe-22be-49fe-8e78-c876658449bd",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf/bacca7fe-22be-49fe-8e78-c876658449bd",
+      "page_number": 100,
+      "local_title": "第2节 光的反射",
+      "local_pdf_page": 100,
+      "records": [
+        "RJ-PHYSICS-8A-071",
+        "RJ-PHYSICS-8A-072",
+        "RJ-PHYSICS-8A-073"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "cb40b940-286c-47b4-b4b7-76f38fb39ce0",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf/cb40b940-286c-47b4-b4b7-76f38fb39ce0",
+      "page_number": 105,
+      "local_title": "第3节 平面镜成像",
+      "local_pdf_page": 105,
+      "records": [
+        "RJ-PHYSICS-8A-074",
+        "RJ-PHYSICS-8A-075",
+        "RJ-PHYSICS-8A-076",
+        "RJ-PHYSICS-8A-077"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "e901a848-97fe-4b99-855f-6c0a9c871a5f",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf/e901a848-97fe-4b99-855f-6c0a9c871a5f",
+      "page_number": 110,
+      "local_title": "第4节 光的折射",
+      "local_pdf_page": 110,
+      "records": [
+        "RJ-PHYSICS-8A-078",
+        "RJ-PHYSICS-8A-079",
+        "RJ-PHYSICS-8A-080"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "9fd78239-6bd6-436e-a66f-9f90f520a4a6",
+      "node_path": "bfc985ce-f7a3-462d-9ee8-50bf9e0dadbf/9fd78239-6bd6-436e-a66f-9f90f520a4a6",
+      "page_number": 114,
+      "local_title": "第5节 光的色散",
+      "local_pdf_page": 114,
+      "records": [
+        "RJ-PHYSICS-8A-081",
+        "RJ-PHYSICS-8A-082",
+        "RJ-PHYSICS-8A-083",
+        "RJ-PHYSICS-8A-084",
+        "RJ-PHYSICS-8A-085"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "beb52a84-e9d2-4de4-9524-a4366a214529",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529",
+      "page_number": 120,
+      "local_title": "第五章 透镜及其应用",
+      "local_pdf_page": 120,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "ee200902-74cf-46c8-b96a-1d8289f808a7",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529/ee200902-74cf-46c8-b96a-1d8289f808a7",
+      "page_number": 121,
+      "local_title": "第1节 透镜",
+      "local_pdf_page": 121,
+      "records": [
+        "RJ-PHYSICS-8A-086",
+        "RJ-PHYSICS-8A-087",
+        "RJ-PHYSICS-8A-088"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "f5847407-da52-476e-91a8-a51a371008ab",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529/f5847407-da52-476e-91a8-a51a371008ab",
+      "page_number": 125,
+      "local_title": "第2节 生活中的透镜",
+      "local_pdf_page": 125,
+      "records": [
+        "RJ-PHYSICS-8A-089",
+        "RJ-PHYSICS-8A-090",
+        "RJ-PHYSICS-8A-091",
+        "RJ-PHYSICS-8A-092",
+        "RJ-PHYSICS-8A-093"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "a12b3786-86f9-472e-ae71-bc5b3ef7c8e5",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529/a12b3786-86f9-472e-ae71-bc5b3ef7c8e5",
+      "page_number": 129,
+      "local_title": "第3节 凸透镜成像的规律",
+      "local_pdf_page": 129,
+      "records": [
+        "RJ-PHYSICS-8A-094"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "f481a720-39bf-498d-9709-502d6304e692",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529/f481a720-39bf-498d-9709-502d6304e692",
+      "page_number": 133,
+      "local_title": "第4节 眼睛和眼镜",
+      "local_pdf_page": 133,
+      "records": [
+        "RJ-PHYSICS-8A-095",
+        "RJ-PHYSICS-8A-096",
+        "RJ-PHYSICS-8A-097",
+        "RJ-PHYSICS-8A-098"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "1f01d87f-4f36-4c06-aa93-e15c58ae8061",
+      "node_path": "beb52a84-e9d2-4de4-9524-a4366a214529/1f01d87f-4f36-4c06-aa93-e15c58ae8061",
+      "page_number": 137,
+      "local_title": "第5节 跨学科实践：制作望远镜",
+      "local_pdf_page": 137,
+      "records": [
+        "RJ-PHYSICS-8A-099",
+        "RJ-PHYSICS-8A-100",
+        "RJ-PHYSICS-8A-101"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326",
+      "node_path": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326",
+      "page_number": 145,
+      "local_title": "第六章 质量与密度",
+      "local_pdf_page": 145,
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "e088fabb-f445-4f57-9844-0b6409f705b3",
+      "node_path": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326/e088fabb-f445-4f57-9844-0b6409f705b3",
+      "page_number": 146,
+      "local_title": "第1节 质量",
+      "local_pdf_page": 146,
+      "records": [
+        "RJ-PHYSICS-8A-102",
+        "RJ-PHYSICS-8A-103",
+        "RJ-PHYSICS-8A-104",
+        "RJ-PHYSICS-8A-105",
+        "RJ-PHYSICS-8A-106"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "9a5387a7-8b95-4d82-aad3-bfeffbc919c6",
+      "node_path": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326/9a5387a7-8b95-4d82-aad3-bfeffbc919c6",
+      "page_number": 151,
+      "local_title": "第2节 密度",
+      "local_pdf_page": 151,
+      "records": [
+        "RJ-PHYSICS-8A-107",
+        "RJ-PHYSICS-8A-108",
+        "RJ-PHYSICS-8A-109",
+        "RJ-PHYSICS-8A-110"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "54c683c8-0c7e-4fd1-9f16-ffb00083a40e",
+      "node_path": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326/54c683c8-0c7e-4fd1-9f16-ffb00083a40e",
+      "page_number": 156,
+      "local_title": "第3节 测量液体和固体的密度",
+      "local_pdf_page": 156,
+      "records": [
+        "RJ-PHYSICS-8A-111",
+        "RJ-PHYSICS-8A-112",
+        "RJ-PHYSICS-8A-113"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    },
+    {
+      "node_id": "0d99cd05-a602-4bc6-bc67-2b3622e11754",
+      "node_path": "69d185de-3e4d-4dbc-9414-4a1cfc5d6326/0d99cd05-a602-4bc6-bc67-2b3622e11754",
+      "page_number": 159,
+      "local_title": "第4节 密度的应用",
+      "local_pdf_page": 159,
+      "records": [
+        "RJ-PHYSICS-8A-114",
+        "RJ-PHYSICS-8A-115",
+        "RJ-PHYSICS-8A-116",
+        "RJ-PHYSICS-8A-117",
+        "RJ-PHYSICS-8A-118"
+      ],
+      "name_basis": "PDF目录视觉核对",
+      "status": "page_and_hierarchy_matched"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "knowledge_points.csv": {
+    "bytes": 131001,
+    "sha256": "ee1628a738f3be8280a797470aef1731df11e6c821a99ca30075e40c34063403"
+  },
+  "knowledge_points.md": {
+    "bytes": 129343,
+    "sha256": "8d4110a551f03cbefe24269cfaf37615184ceb58091d583aad83b2a7318d5e49"
+  },
+  "book_metadata.json": {
+    "bytes": 2173,
+    "sha256": "051158a5ec779d685d6acf0299a43e44cd58037032035c4fa93cbcba6eb0f9b3"
+  },
+  "outline_alignment.json": {
+    "bytes": 17411,
+    "sha256": "fedec3b4237154b06f69ff21e3548a5c379779927e6a44a25049a75ddc807412"
+  },
+  "source_records.jsonl": {
+    "bytes": 69630,
+    "sha256": "0850d510187a69e7aa6cdfd96751f77bf64ffda5d5fc7594b1f657e727c8feda"
+  },
+  "visual_review.jsonl": {
+    "bytes": 66390,
+    "sha256": "b1fc90cc5bd1d279eafacd175351349ad4ae82b12b9ed6001732940089c31eaf"
+  },
+  "validation_report.json": {
+    "bytes": 823,
+    "sha256": "7028b438d0b2c34284fe2692c1084475bb7eb2cf8104404a13ac81e4b8384aa5"
+  },
+  "selection.tsv": {
+    "bytes": 6440,
+    "sha256": "9ac2b29a12d366e044d2d639dfab3fffb94f749d709bcdd41219415f727774b1"
+  },
+  "patches.json": {
+    "bytes": 65714,
+    "sha256": "688e58b56218cbc386a47525a6aa2b033652c05af67e17a6121000df73799c65"
+  }
+}

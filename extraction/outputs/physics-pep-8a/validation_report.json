@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "records": 118,
+  "chapters": 6,
+  "subchapters": 28,
+  "introduction": true,
+  "website_nodes_matched": 36,
+  "pdf_pages": 170,
+  "page_visual_reviews": 170,
+  "supplementary_worked_examples": 2,
+  "image_references_checked": 178,
+  "source_records": 118,
+  "errors": [],
+  "checks": {
+    "csv_schema_bom_ids": "pass",
+    "website_page_hierarchy_and_outline_coverage": "pass",
+    "image_paths_standalone_dedup": "pass",
+    "physical_page_mapping": "pass",
+    "formula_table_conditions": "visual transcription; see patches.json and visual_review.jsonl",
+    "experiment_results": "only textbook-stated results; blank observations not filled"
+  },
+  "limitation": "结构检查不替代视觉核对；网站映射未返回名称，名称依据本地同版目录；未取得远端PDF哈希。"
+}

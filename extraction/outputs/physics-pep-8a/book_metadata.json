@@ -1,0 +1,45 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/01_初中_物理_人教版_八年级_上册_（根据2022年版课程标准修订）义务教育教科书·物理八年级上册_e5618f17-c06e-4c4c-944e-0ee8ced25391.pdf",
+  "sha256": "1f6f8405e480209a157479615436ce6ff14d68d0cf2c7fc6f74ff754ed123819",
+  "pdf_pages": 170,
+  "book_id": "physics-pep-8a",
+  "education_stage": "初中",
+  "subject": "物理",
+  "publisher": "人民教育出版社",
+  "grade": "八年级",
+  "volume": "上册",
+  "revision": "根据2022年版课程标准修订",
+  "cover_approval": "国家教材委员会专家委员会审核通过2024",
+  "isbn": "978-7-107-38258-1",
+  "edition_statement": "PDF版权页未明示年月版次，不推断",
+  "smartedu_resource_id": "e5618f17-c06e-4c4c-944e-0ee8ced25391",
+  "smartedu_title": "（根据2022年版课程标准修订）义务教育教科书·物理八年级上册",
+  "website_resource_updated_at": "2026-08-18T12:12:32.721+0800",
+  "local_pdf_bytes": 19970967,
+  "website_pdf_bytes": 19970967,
+  "identity_evidence": [
+    "资源ID、修订标记、出版社、书名、年级与册次对应",
+    "网站PDF字节数与本地一致：19970967",
+    "网站36个目录节点的页序与父子层级全部对应本地目录"
+  ],
+  "remote_pdf_hash_verification": "not_performed; local SHA-256 retained",
+  "extraction_date": "2026-10-20",
+  "records": 118,
+  "chapters": 6,
+  "subchapters": 28,
+  "introduction_records": 5,
+  "source_images": 170,
+  "policy": {
+    "local_skill": "skills/smartedu-math/SKILL.md",
+    "local_policy": "skills/smartedu-math/references/extraction-policy.md",
+    "requested_github_policy": "https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md",
+    "remote_policy_status": "raw URL returned 404 in prior task; local policy applied",
+    "user_override": "适用于物理；按教材内容细分知识点；实验忠实转录；核心讲解与补充原例分工按本次要求"
+  },
+  "rendering": {
+    "engine": "PyMuPDF",
+    "matrix": 1.7,
+    "image_type": "whole_page",
+    "crop": false
+  }
+}
