@@ -1,0 +1,1554 @@
+[
+  {
+    "pdf_page": 1,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-001.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 2,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-002.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 3,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-003.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 4,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-004.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 5,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-005.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 6,
+    "printed_page": 1,
+    "image": "images/physics-pep-hs-required-3/page-006.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 7,
+    "printed_page": 2,
+    "image": "images/physics-pep-hs-required-3/page-007.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-001"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 8,
+    "printed_page": 3,
+    "image": "images/physics-pep-hs-required-3/page-008.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-001",
+      "RJ-PHYSICS-HS-R3-002"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 9,
+    "printed_page": 4,
+    "image": "images/physics-pep-hs-required-3/page-009.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-002",
+      "RJ-PHYSICS-HS-R3-003",
+      "RJ-PHYSICS-HS-R3-004"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 10,
+    "printed_page": 5,
+    "image": "images/physics-pep-hs-required-3/page-010.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-004",
+      "RJ-PHYSICS-HS-R3-005"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 11,
+    "printed_page": 6,
+    "image": "images/physics-pep-hs-required-3/page-011.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-006"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 12,
+    "printed_page": 7,
+    "image": "images/physics-pep-hs-required-3/page-012.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-006",
+      "RJ-PHYSICS-HS-R3-007"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 13,
+    "printed_page": 8,
+    "image": "images/physics-pep-hs-required-3/page-013.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-006",
+      "RJ-PHYSICS-HS-R3-007",
+      "RJ-PHYSICS-HS-R3-008"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 14,
+    "printed_page": 9,
+    "image": "images/physics-pep-hs-required-3/page-014.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-008",
+      "RJ-PHYSICS-HS-R3-009"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 15,
+    "printed_page": 10,
+    "image": "images/physics-pep-hs-required-3/page-015.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-009"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 16,
+    "printed_page": 11,
+    "image": "images/physics-pep-hs-required-3/page-016.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-010"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 17,
+    "printed_page": 12,
+    "image": "images/physics-pep-hs-required-3/page-017.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-011"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 18,
+    "printed_page": 13,
+    "image": "images/physics-pep-hs-required-3/page-018.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-011",
+      "RJ-PHYSICS-HS-R3-012"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 19,
+    "printed_page": 14,
+    "image": "images/physics-pep-hs-required-3/page-019.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-012",
+      "RJ-PHYSICS-HS-R3-013"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 20,
+    "printed_page": 15,
+    "image": "images/physics-pep-hs-required-3/page-020.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-013"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 21,
+    "printed_page": 16,
+    "image": "images/physics-pep-hs-required-3/page-021.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-014",
+      "RJ-PHYSICS-HS-R3-015"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 22,
+    "printed_page": 17,
+    "image": "images/physics-pep-hs-required-3/page-022.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 23,
+    "printed_page": 18,
+    "image": "images/physics-pep-hs-required-3/page-023.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-016",
+      "RJ-PHYSICS-HS-R3-017"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 24,
+    "printed_page": 19,
+    "image": "images/physics-pep-hs-required-3/page-024.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-017",
+      "RJ-PHYSICS-HS-R3-018"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 25,
+    "printed_page": 20,
+    "image": "images/physics-pep-hs-required-3/page-025.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-018",
+      "RJ-PHYSICS-HS-R3-019"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 26,
+    "printed_page": 21,
+    "image": "images/physics-pep-hs-required-3/page-026.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-020"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 27,
+    "printed_page": 22,
+    "image": "images/physics-pep-hs-required-3/page-027.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 28,
+    "printed_page": 23,
+    "image": "images/physics-pep-hs-required-3/page-028.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 29,
+    "printed_page": 24,
+    "image": "images/physics-pep-hs-required-3/page-029.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 30,
+    "printed_page": 25,
+    "image": "images/physics-pep-hs-required-3/page-030.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 31,
+    "printed_page": 26,
+    "image": "images/physics-pep-hs-required-3/page-031.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 32,
+    "printed_page": 27,
+    "image": "images/physics-pep-hs-required-3/page-032.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-021",
+      "RJ-PHYSICS-HS-R3-022"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 33,
+    "printed_page": 28,
+    "image": "images/physics-pep-hs-required-3/page-033.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-022",
+      "RJ-PHYSICS-HS-R3-023"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 34,
+    "printed_page": 29,
+    "image": "images/physics-pep-hs-required-3/page-034.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-023"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 35,
+    "printed_page": 30,
+    "image": "images/physics-pep-hs-required-3/page-035.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 36,
+    "printed_page": 31,
+    "image": "images/physics-pep-hs-required-3/page-036.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-024"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 37,
+    "printed_page": 32,
+    "image": "images/physics-pep-hs-required-3/page-037.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-024"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 38,
+    "printed_page": 33,
+    "image": "images/physics-pep-hs-required-3/page-038.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-024",
+      "RJ-PHYSICS-HS-R3-025"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 39,
+    "printed_page": 34,
+    "image": "images/physics-pep-hs-required-3/page-039.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": 35,
+    "image": "images/physics-pep-hs-required-3/page-040.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-026"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 41,
+    "printed_page": 36,
+    "image": "images/physics-pep-hs-required-3/page-041.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-026"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 42,
+    "printed_page": 37,
+    "image": "images/physics-pep-hs-required-3/page-042.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-026"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 43,
+    "printed_page": 38,
+    "image": "images/physics-pep-hs-required-3/page-043.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-027"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 44,
+    "printed_page": 39,
+    "image": "images/physics-pep-hs-required-3/page-044.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-027",
+      "RJ-PHYSICS-HS-R3-028"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 45,
+    "printed_page": 40,
+    "image": "images/physics-pep-hs-required-3/page-045.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-029"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 46,
+    "printed_page": 41,
+    "image": "images/physics-pep-hs-required-3/page-046.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-029",
+      "RJ-PHYSICS-HS-R3-030"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 47,
+    "printed_page": 42,
+    "image": "images/physics-pep-hs-required-3/page-047.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-030",
+      "RJ-PHYSICS-HS-R3-031"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 48,
+    "printed_page": 43,
+    "image": "images/physics-pep-hs-required-3/page-048.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 49,
+    "printed_page": 44,
+    "image": "images/physics-pep-hs-required-3/page-049.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-032"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 50,
+    "printed_page": 45,
+    "image": "images/physics-pep-hs-required-3/page-050.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-032"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 51,
+    "printed_page": 46,
+    "image": "images/physics-pep-hs-required-3/page-051.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-033"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 52,
+    "printed_page": 47,
+    "image": "images/physics-pep-hs-required-3/page-052.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-033",
+      "RJ-PHYSICS-HS-R3-034"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 53,
+    "printed_page": 48,
+    "image": "images/physics-pep-hs-required-3/page-053.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-035"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 54,
+    "printed_page": 49,
+    "image": "images/physics-pep-hs-required-3/page-054.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 55,
+    "printed_page": 50,
+    "image": "images/physics-pep-hs-required-3/page-055.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 56,
+    "printed_page": 51,
+    "image": "images/physics-pep-hs-required-3/page-056.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 57,
+    "printed_page": 52,
+    "image": "images/physics-pep-hs-required-3/page-057.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 58,
+    "printed_page": 53,
+    "image": "images/physics-pep-hs-required-3/page-058.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-036"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 59,
+    "printed_page": 54,
+    "image": "images/physics-pep-hs-required-3/page-059.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-036",
+      "RJ-PHYSICS-HS-R3-037"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 60,
+    "printed_page": 55,
+    "image": "images/physics-pep-hs-required-3/page-060.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-037",
+      "RJ-PHYSICS-HS-R3-038",
+      "RJ-PHYSICS-HS-R3-039"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 61,
+    "printed_page": 56,
+    "image": "images/physics-pep-hs-required-3/page-061.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-039"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 62,
+    "printed_page": 57,
+    "image": "images/physics-pep-hs-required-3/page-062.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-040",
+      "RJ-PHYSICS-HS-R3-041"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 63,
+    "printed_page": 58,
+    "image": "images/physics-pep-hs-required-3/page-063.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-041",
+      "RJ-PHYSICS-HS-R3-042"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 64,
+    "printed_page": 59,
+    "image": "images/physics-pep-hs-required-3/page-064.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-042",
+      "RJ-PHYSICS-HS-R3-043"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 65,
+    "printed_page": 60,
+    "image": "images/physics-pep-hs-required-3/page-065.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-043",
+      "RJ-PHYSICS-HS-R3-044"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 66,
+    "printed_page": 61,
+    "image": "images/physics-pep-hs-required-3/page-066.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 67,
+    "printed_page": 62,
+    "image": "images/physics-pep-hs-required-3/page-067.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-045"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 68,
+    "printed_page": 63,
+    "image": "images/physics-pep-hs-required-3/page-068.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-045"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 69,
+    "printed_page": 64,
+    "image": "images/physics-pep-hs-required-3/page-069.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-045",
+      "RJ-PHYSICS-HS-R3-046"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 70,
+    "printed_page": 65,
+    "image": "images/physics-pep-hs-required-3/page-070.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-046",
+      "RJ-PHYSICS-HS-R3-047"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 71,
+    "printed_page": 66,
+    "image": "images/physics-pep-hs-required-3/page-071.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-047"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 72,
+    "printed_page": 67,
+    "image": "images/physics-pep-hs-required-3/page-072.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-047"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 73,
+    "printed_page": 68,
+    "image": "images/physics-pep-hs-required-3/page-073.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-048",
+      "RJ-PHYSICS-HS-R3-049"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 74,
+    "printed_page": 69,
+    "image": "images/physics-pep-hs-required-3/page-074.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-049",
+      "RJ-PHYSICS-HS-R3-050"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 75,
+    "printed_page": 70,
+    "image": "images/physics-pep-hs-required-3/page-075.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-050",
+      "RJ-PHYSICS-HS-R3-051"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 76,
+    "printed_page": 71,
+    "image": "images/physics-pep-hs-required-3/page-076.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-051"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 77,
+    "printed_page": 72,
+    "image": "images/physics-pep-hs-required-3/page-077.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-052",
+      "RJ-PHYSICS-HS-R3-053"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 78,
+    "printed_page": 73,
+    "image": "images/physics-pep-hs-required-3/page-078.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-053",
+      "RJ-PHYSICS-HS-R3-054"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 79,
+    "printed_page": 74,
+    "image": "images/physics-pep-hs-required-3/page-079.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": 75,
+    "image": "images/physics-pep-hs-required-3/page-080.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 81,
+    "printed_page": 76,
+    "image": "images/physics-pep-hs-required-3/page-081.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 82,
+    "printed_page": 77,
+    "image": "images/physics-pep-hs-required-3/page-082.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 83,
+    "printed_page": 78,
+    "image": "images/physics-pep-hs-required-3/page-083.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 84,
+    "printed_page": 79,
+    "image": "images/physics-pep-hs-required-3/page-084.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-055"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 85,
+    "printed_page": 80,
+    "image": "images/physics-pep-hs-required-3/page-085.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-055",
+      "RJ-PHYSICS-HS-R3-056"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 81,
+    "image": "images/physics-pep-hs-required-3/page-086.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-056",
+      "RJ-PHYSICS-HS-R3-057"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 82,
+    "image": "images/physics-pep-hs-required-3/page-087.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-057"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 83,
+    "image": "images/physics-pep-hs-required-3/page-088.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-058"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 84,
+    "image": "images/physics-pep-hs-required-3/page-089.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-058",
+      "RJ-PHYSICS-HS-R3-059"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 90,
+    "printed_page": 85,
+    "image": "images/physics-pep-hs-required-3/page-090.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-059"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 91,
+    "printed_page": 86,
+    "image": "images/physics-pep-hs-required-3/page-091.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-059",
+      "RJ-PHYSICS-HS-R3-060"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 92,
+    "printed_page": 87,
+    "image": "images/physics-pep-hs-required-3/page-092.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-060",
+      "RJ-PHYSICS-HS-R3-061"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 93,
+    "printed_page": 88,
+    "image": "images/physics-pep-hs-required-3/page-093.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 94,
+    "printed_page": 89,
+    "image": "images/physics-pep-hs-required-3/page-094.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-062"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 95,
+    "printed_page": 90,
+    "image": "images/physics-pep-hs-required-3/page-095.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-062"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 96,
+    "printed_page": 91,
+    "image": "images/physics-pep-hs-required-3/page-096.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-062",
+      "RJ-PHYSICS-HS-R3-063"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 97,
+    "printed_page": 92,
+    "image": "images/physics-pep-hs-required-3/page-097.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 98,
+    "printed_page": 93,
+    "image": "images/physics-pep-hs-required-3/page-098.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-064",
+      "RJ-PHYSICS-HS-R3-065"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 99,
+    "printed_page": 94,
+    "image": "images/physics-pep-hs-required-3/page-099.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-065",
+      "RJ-PHYSICS-HS-R3-066"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 100,
+    "printed_page": 95,
+    "image": "images/physics-pep-hs-required-3/page-100.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-065",
+      "RJ-PHYSICS-HS-R3-066"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 101,
+    "printed_page": 96,
+    "image": "images/physics-pep-hs-required-3/page-101.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-066"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 102,
+    "printed_page": 97,
+    "image": "images/physics-pep-hs-required-3/page-102.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-067"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 103,
+    "printed_page": 98,
+    "image": "images/physics-pep-hs-required-3/page-103.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-067",
+      "RJ-PHYSICS-HS-R3-068"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 104,
+    "printed_page": 99,
+    "image": "images/physics-pep-hs-required-3/page-104.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-068"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 105,
+    "printed_page": 100,
+    "image": "images/physics-pep-hs-required-3/page-105.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 106,
+    "printed_page": 101,
+    "image": "images/physics-pep-hs-required-3/page-106.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 107,
+    "printed_page": 102,
+    "image": "images/physics-pep-hs-required-3/page-107.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 108,
+    "printed_page": 103,
+    "image": "images/physics-pep-hs-required-3/page-108.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 109,
+    "printed_page": 104,
+    "image": "images/physics-pep-hs-required-3/page-109.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-069"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 110,
+    "printed_page": 105,
+    "image": "images/physics-pep-hs-required-3/page-110.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-069"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 111,
+    "printed_page": 106,
+    "image": "images/physics-pep-hs-required-3/page-111.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-070",
+      "RJ-PHYSICS-HS-R3-071"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 112,
+    "printed_page": 107,
+    "image": "images/physics-pep-hs-required-3/page-112.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-071",
+      "RJ-PHYSICS-HS-R3-072"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 113,
+    "printed_page": 108,
+    "image": "images/physics-pep-hs-required-3/page-113.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-072"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 114,
+    "printed_page": 109,
+    "image": "images/physics-pep-hs-required-3/page-114.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-073",
+      "RJ-PHYSICS-HS-R3-074"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 115,
+    "printed_page": 110,
+    "image": "images/physics-pep-hs-required-3/page-115.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-073",
+      "RJ-PHYSICS-HS-R3-074"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 116,
+    "printed_page": 111,
+    "image": "images/physics-pep-hs-required-3/page-116.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-073",
+      "RJ-PHYSICS-HS-R3-075",
+      "RJ-PHYSICS-HS-R3-076"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 117,
+    "printed_page": 112,
+    "image": "images/physics-pep-hs-required-3/page-117.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-076",
+      "RJ-PHYSICS-HS-R3-077"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 118,
+    "printed_page": 113,
+    "image": "images/physics-pep-hs-required-3/page-118.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 119,
+    "printed_page": 114,
+    "image": "images/physics-pep-hs-required-3/page-119.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-078"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 120,
+    "printed_page": 115,
+    "image": "images/physics-pep-hs-required-3/page-120.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-078",
+      "RJ-PHYSICS-HS-R3-079"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 121,
+    "printed_page": 116,
+    "image": "images/physics-pep-hs-required-3/page-121.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-079",
+      "RJ-PHYSICS-HS-R3-080"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 122,
+    "printed_page": 117,
+    "image": "images/physics-pep-hs-required-3/page-122.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 123,
+    "printed_page": 118,
+    "image": "images/physics-pep-hs-required-3/page-123.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 124,
+    "printed_page": 119,
+    "image": "images/physics-pep-hs-required-3/page-124.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-081",
+      "RJ-PHYSICS-HS-R3-082"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 125,
+    "printed_page": 120,
+    "image": "images/physics-pep-hs-required-3/page-125.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-082",
+      "RJ-PHYSICS-HS-R3-083"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 126,
+    "printed_page": 121,
+    "image": "images/physics-pep-hs-required-3/page-126.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-084"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 127,
+    "printed_page": 122,
+    "image": "images/physics-pep-hs-required-3/page-127.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-085",
+      "RJ-PHYSICS-HS-R3-086"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 128,
+    "printed_page": 123,
+    "image": "images/physics-pep-hs-required-3/page-128.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-086"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 129,
+    "printed_page": 124,
+    "image": "images/physics-pep-hs-required-3/page-129.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-087"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 130,
+    "printed_page": 125,
+    "image": "images/physics-pep-hs-required-3/page-130.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-087",
+      "RJ-PHYSICS-HS-R3-088"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 131,
+    "printed_page": 126,
+    "image": "images/physics-pep-hs-required-3/page-131.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-088",
+      "RJ-PHYSICS-HS-R3-089"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 132,
+    "printed_page": 127,
+    "image": "images/physics-pep-hs-required-3/page-132.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-090"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 133,
+    "printed_page": 128,
+    "image": "images/physics-pep-hs-required-3/page-133.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 134,
+    "printed_page": 129,
+    "image": "images/physics-pep-hs-required-3/page-134.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 135,
+    "printed_page": 130,
+    "image": "images/physics-pep-hs-required-3/page-135.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 136,
+    "printed_page": 131,
+    "image": "images/physics-pep-hs-required-3/page-136.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-091"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 137,
+    "printed_page": 132,
+    "image": "images/physics-pep-hs-required-3/page-137.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-091"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 138,
+    "printed_page": 133,
+    "image": "images/physics-pep-hs-required-3/page-138.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet_and_individual_enlargement",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-091"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 139,
+    "printed_page": 134,
+    "image": "images/physics-pep-hs-required-3/page-139.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-091"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 140,
+    "printed_page": 135,
+    "image": "images/physics-pep-hs-required-3/page-140.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [
+      "RJ-PHYSICS-HS-R3-091"
+    ],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 141,
+    "printed_page": 136,
+    "image": "images/physics-pep-hs-required-3/page-141.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 142,
+    "printed_page": 137,
+    "image": "images/physics-pep-hs-required-3/page-142.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 143,
+    "printed_page": null,
+    "image": "images/physics-pep-hs-required-3/page-143.png",
+    "visual_inspected": true,
+    "inspection": "contact_sheet",
+    "record_ids": [],
+    "note": "逐页检查正文、公式、单位、图示、栏目与跨页；无记录页的排除理由见exclusion_audit.json"
+  }
+]

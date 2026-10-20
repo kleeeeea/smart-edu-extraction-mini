@@ -1,0 +1,548 @@
+[
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-001",
+    "knowledge_point": "电荷、电荷量与摩擦起电",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-002",
+    "knowledge_point": "静电感应与感应起电",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-003",
+    "knowledge_point": "验电器",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-004",
+    "knowledge_point": "电荷守恒定律",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-005",
+    "knowledge_point": "元电荷与电子的比荷",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-006",
+    "knowledge_point": "库仑定律与点电荷模型",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-007",
+    "knowledge_point": "库仑扭秤实验",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-008",
+    "knowledge_point": "微观粒子间静电力与万有引力的比较",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-009",
+    "knowledge_point": "静电力的叠加",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-010",
+    "knowledge_point": "电场与静电场",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-011",
+    "knowledge_point": "电场强度的定义、单位和方向",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-012",
+    "knowledge_point": "点电荷的电场与电场强度的叠加",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-013",
+    "knowledge_point": "电场线与模拟电场线的演示",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-014",
+    "knowledge_point": "匀强电场",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-015",
+    "knowledge_point": "用比值定义物理量的方法",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-016",
+    "knowledge_point": "导体的静电平衡",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-017",
+    "knowledge_point": "尖端放电及其防止与利用",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-018",
+    "knowledge_point": "静电屏蔽及其演示",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-019",
+    "knowledge_point": "雷火炼殿中的放电现象",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-020",
+    "knowledge_point": "静电吸附：除尘、喷漆与复印",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-021",
+    "knowledge_point": "静电力做功与路径无关",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-022",
+    "knowledge_point": "电势能及其变化与零势能位置",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-023",
+    "knowledge_point": "电势：定义、单位、方向变化与相对性",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-024",
+    "knowledge_point": "电势差与静电力做功",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-025",
+    "knowledge_point": "等势面及其与电场线的关系",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-026",
+    "knowledge_point": "匀强电场中电势差与电场强度的关系",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-027",
+    "knowledge_point": "电容器及充、放电实验",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-028",
+    "knowledge_point": "用传感器观察电容器的放电过程",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-029",
+    "knowledge_point": "电容及电荷量与电势差关系的演示",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-030",
+    "knowledge_point": "平行板电容器电容的影响因素与公式",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-031",
+    "knowledge_point": "固定电容器、可变电容器与超级电容器",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-032",
+    "knowledge_point": "带电粒子的加速及分析方法",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-033",
+    "knowledge_point": "带电粒子在匀强电场中的偏转",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-034",
+    "knowledge_point": "示波管的原理",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-035",
+    "knowledge_point": "范德格拉夫静电加速器",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-036",
+    "knowledge_point": "电源维持导体间的电势差",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-037",
+    "knowledge_point": "恒定电场与恒定电流",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-038",
+    "knowledge_point": "电流的微观解释",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-039",
+    "knowledge_point": "锂离子电池与电池容量",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-040",
+    "knowledge_point": "电阻与导体的U-I图像",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-041",
+    "knowledge_point": "研究导体电阻与长度、横截面积及材料的定量关系",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-042",
+    "knowledge_point": "导体的电阻率及材料电阻率表",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-043",
+    "knowledge_point": "电阻率与温度的关系及超导现象",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-044",
+    "knowledge_point": "伏安特性曲线与线性、非线性元件",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-045",
+    "knowledge_point": "游标卡尺的结构、原理、读数与使用",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-046",
+    "knowledge_point": "螺旋测微器的结构、原理、读数与使用",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-047",
+    "knowledge_point": "金属丝电阻率的测量",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-048",
+    "knowledge_point": "串、并联电路中的电流",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-049",
+    "knowledge_point": "串、并联电路中的电压",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-050",
+    "knowledge_point": "串、并联电路的总电阻",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-051",
+    "knowledge_point": "电压表和电流表的改装",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-052",
+    "knowledge_point": "多用电表的结构与使用前调节",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-053",
+    "knowledge_point": "多用电表测电压与电流",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-054",
+    "knowledge_point": "多用电表测电阻与数字式多用电表",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-055",
+    "knowledge_point": "电功与电功率",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-056",
+    "knowledge_point": "焦耳定律与电热功率",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-057",
+    "knowledge_point": "电动机的能量转化与功率关系",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-058",
+    "knowledge_point": "闭合电路、非静电力与电动势",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-059",
+    "knowledge_point": "闭合电路欧姆定律及其能量分析",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-060",
+    "knowledge_point": "路端电压与负载、断路和短路",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-061",
+    "knowledge_point": "电阻表的原理",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-062",
+    "knowledge_point": "电池电动势和内阻的测量与数据分析",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-063",
+    "knowledge_point": "水果电池电动势和内阻的测量",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-064",
+    "knowledge_point": "能量守恒定律",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-065",
+    "knowledge_point": "能量转移或转化的方向性与耗散",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-066",
+    "knowledge_point": "能源的分类、太阳能转化与发电应用",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-067",
+    "knowledge_point": "化石能源的环境影响与可持续发展",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-068",
+    "knowledge_point": "汽车行驶时的功率分配与节能技术",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-069",
+    "knowledge_point": "电流的磁效应与磁场",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-070",
+    "knowledge_point": "磁场的方向、磁感线与铁屑演示",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-071",
+    "knowledge_point": "直线电流、环形电流与螺线管的安培定则",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-072",
+    "knowledge_point": "安培分子电流假说与磁化、退磁",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-073",
+    "knowledge_point": "电流元与磁感应强度",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-074",
+    "knowledge_point": "探究影响通电导线受力的因素",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-075",
+    "knowledge_point": "匀强磁场",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-076",
+    "knowledge_point": "磁通量的定义、投影面积与单位",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-077",
+    "knowledge_point": "地磁场与地磁偏角",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-078",
+    "knowledge_point": "电磁感应与感应电流",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-079",
+    "knowledge_point": "产生感应电流的条件及探究实验",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-080",
+    "knowledge_point": "电磁感应现象的应用",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-081",
+    "knowledge_point": "变化的电场、磁场与统一电磁场",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-082",
+    "knowledge_point": "电磁波的产生、传播与光的电磁理论",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-083",
+    "knowledge_point": "捕捉电磁波的实验",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-084",
+    "knowledge_point": "波长、频率、波速与电磁波谱",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-085",
+    "knowledge_point": "电磁波的能量",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-086",
+    "knowledge_point": "电磁波通信",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-087",
+    "knowledge_point": "热辐射与黑体",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-088",
+    "knowledge_point": "能量子、普朗克常量与光子",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-089",
+    "knowledge_point": "原子能级、跃迁与分立的发射光谱",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-090",
+    "knowledge_point": "射电望远镜与不同波段的宇宙观测",
+    "action": "new extraction; contiguous final numbering after selection"
+  },
+  {
+    "old_id": null,
+    "final_id": "RJ-PHYSICS-HS-R3-091",
+    "knowledge_point": "充电宝不同电量时的电动势和内阻研究",
+    "action": "new extraction; contiguous final numbering after selection"
+  }
+]

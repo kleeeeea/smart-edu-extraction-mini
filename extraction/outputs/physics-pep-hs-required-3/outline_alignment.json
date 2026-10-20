@@ -1,0 +1,276 @@
+{
+  "resource_id": "dcd8cc6b-5380-4008-a2d0-a061f24d34dd",
+  "identity_evidence": [
+    "local filename resource UUID equals website UUID",
+    "title / publisher / volume match",
+    "local and website PDF both 14530590 bytes; website images specify143 pages",
+    "all29 actual website node hierarchy/order/start pages align with the PDF"
+  ],
+  "remote_pdf_hash_verified": false,
+  "remote_pdf_status": 401,
+  "remote_titles_available": false,
+  "title_note": "网站映射无标题字符串；名称依PDF目录视觉转录并逐项按节点起页对齐，不声称远端返回了名称。",
+  "nodes": [
+    {
+      "node_id": "2a680bad-29ef-312b-a784-ecbd422b361b",
+      "node_path": "2a680bad-29ef-312b-a784-ecbd422b361b",
+      "page_number": 6,
+      "title": "第九章 静电场及其应用",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 1,
+      "matched": true
+    },
+    {
+      "node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
+      "node_path": "2a680bad-29ef-312b-a784-ecbd422b361b/69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
+      "page_number": 7,
+      "title": "1. 电荷",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 2,
+      "matched": true
+    },
+    {
+      "node_id": "3235404f-a36b-3a30-b1cb-18cb944e2098",
+      "node_path": "2a680bad-29ef-312b-a784-ecbd422b361b/3235404f-a36b-3a30-b1cb-18cb944e2098",
+      "page_number": 11,
+      "title": "2. 库仑定律",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 6,
+      "matched": true
+    },
+    {
+      "node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
+      "node_path": "2a680bad-29ef-312b-a784-ecbd422b361b/873057b7-92bb-3214-81da-0d0028c0f060",
+      "page_number": 16,
+      "title": "3. 电场 电场强度",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 11,
+      "matched": true
+    },
+    {
+      "node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
+      "node_path": "2a680bad-29ef-312b-a784-ecbd422b361b/e67cadde-1a49-341c-afd0-b23ce4b232b7",
+      "page_number": 23,
+      "title": "4. 静电的防止与利用",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 18,
+      "matched": true
+    },
+    {
+      "node_id": "05ada5f3-7472-3570-85a9-f9f1caa55af2",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2",
+      "page_number": 30,
+      "title": "第十章 静电场中的能量",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 25,
+      "matched": true
+    },
+    {
+      "node_id": "1eb3c003-23f1-315f-8bff-2a9462ff833d",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2/1eb3c003-23f1-315f-8bff-2a9462ff833d",
+      "page_number": 31,
+      "title": "1. 电势能和电势",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 26,
+      "matched": true
+    },
+    {
+      "node_id": "399e2d25-b3c0-3e19-b71b-9ba46f161eb0",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2/399e2d25-b3c0-3e19-b71b-9ba46f161eb0",
+      "page_number": 36,
+      "title": "2. 电势差",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 31,
+      "matched": true
+    },
+    {
+      "node_id": "be9bd393-9cdd-3375-a13b-a060e1720865",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2/be9bd393-9cdd-3375-a13b-a060e1720865",
+      "page_number": 40,
+      "title": "3. 电势差与电场强度的关系",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 35,
+      "matched": true
+    },
+    {
+      "node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2/3f1bbd42-0213-32b2-88f5-8db797b00765",
+      "page_number": 43,
+      "title": "4. 电容器的电容",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 38,
+      "matched": true
+    },
+    {
+      "node_id": "e1846db2-c878-3564-87ed-de680a716535",
+      "node_path": "05ada5f3-7472-3570-85a9-f9f1caa55af2/e1846db2-c878-3564-87ed-de680a716535",
+      "page_number": 49,
+      "title": "5. 带电粒子在电场中的运动",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 44,
+      "matched": true
+    },
+    {
+      "node_id": "0332b921-0a6d-3386-b740-3a8b280327cd",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd",
+      "page_number": 57,
+      "title": "第十一章 电路及其应用",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 52,
+      "matched": true
+    },
+    {
+      "node_id": "87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd/87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
+      "page_number": 58,
+      "title": "1. 电源和电流",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 53,
+      "matched": true
+    },
+    {
+      "node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd/fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
+      "page_number": 62,
+      "title": "2. 导体的电阻",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 57,
+      "matched": true
+    },
+    {
+      "node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd/34167e9d-ab08-3d19-9ac3-0e4f091453dd",
+      "page_number": 67,
+      "title": "3. 实验：导体电阻率的测量",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 62,
+      "matched": true
+    },
+    {
+      "node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd/60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
+      "page_number": 73,
+      "title": "4. 串联电路和并联电路",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 68,
+      "matched": true
+    },
+    {
+      "node_id": "ecd3e0e6-6849-3247-ad69-dac815369bc7",
+      "node_path": "0332b921-0a6d-3386-b740-3a8b280327cd/ecd3e0e6-6849-3247-ad69-dac815369bc7",
+      "page_number": 77,
+      "title": "5. 实验：练习使用多用电表",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 72,
+      "matched": true
+    },
+    {
+      "node_id": "b98e5c04-bfa0-32fe-8350-d03fb51b199e",
+      "node_path": "b98e5c04-bfa0-32fe-8350-d03fb51b199e",
+      "page_number": 83,
+      "title": "第十二章 电能 能量守恒定律",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 78,
+      "matched": true
+    },
+    {
+      "node_id": "97325014-ef2c-3aee-a300-60acde1696e0",
+      "node_path": "b98e5c04-bfa0-32fe-8350-d03fb51b199e/97325014-ef2c-3aee-a300-60acde1696e0",
+      "page_number": 84,
+      "title": "1. 电路中的能量转化",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 79,
+      "matched": true
+    },
+    {
+      "node_id": "46e3a242-fee0-39bd-add0-37ad8c469c69",
+      "node_path": "b98e5c04-bfa0-32fe-8350-d03fb51b199e/46e3a242-fee0-39bd-add0-37ad8c469c69",
+      "page_number": 88,
+      "title": "2. 闭合电路的欧姆定律",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 83,
+      "matched": true
+    },
+    {
+      "node_id": "a2937765-ae63-3940-aaa6-a3b4444803f6",
+      "node_path": "b98e5c04-bfa0-32fe-8350-d03fb51b199e/a2937765-ae63-3940-aaa6-a3b4444803f6",
+      "page_number": 94,
+      "title": "3. 实验：电池电动势和内阻的测量",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 89,
+      "matched": true
+    },
+    {
+      "node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
+      "node_path": "b98e5c04-bfa0-32fe-8350-d03fb51b199e/609e7e01-fe2d-3d13-92f5-17588b660b36",
+      "page_number": 98,
+      "title": "4. 能源与可持续发展",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 93,
+      "matched": true
+    },
+    {
+      "node_id": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b",
+      "page_number": 108,
+      "title": "第十三章 电磁感应与电磁波初步",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 103,
+      "matched": true
+    },
+    {
+      "node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b/42c8040e-86a9-37a1-bccd-5d1469c12d8f",
+      "page_number": 109,
+      "title": "1. 磁场 磁感线",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 104,
+      "matched": true
+    },
+    {
+      "node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b/af9f94e2-5e59-39b2-9584-53a8027c1733",
+      "page_number": 114,
+      "title": "2. 磁感应强度 磁通量",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 109,
+      "matched": true
+    },
+    {
+      "node_id": "95c97125-9819-3609-aba6-56b62344a820",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b/95c97125-9819-3609-aba6-56b62344a820",
+      "page_number": 119,
+      "title": "3. 电磁感应现象及应用",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 114,
+      "matched": true
+    },
+    {
+      "node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b/ed2ef00b-3a15-3f18-8182-432ebc944c35",
+      "page_number": 124,
+      "title": "4. 电磁波的发现及应用",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 119,
+      "matched": true
+    },
+    {
+      "node_id": "992e3206-5b27-349a-8f26-20f7c5c2de14",
+      "node_path": "ebdf16dd-243e-3b7c-9fcf-6efe407f917b/992e3206-5b27-349a-8f26-20f7c5c2de14",
+      "page_number": 129,
+      "title": "5. 能量量子化",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 124,
+      "matched": true
+    },
+    {
+      "node_id": "e821a735-8d12-3d51-93ea-bd98f4fbbebb",
+      "node_path": "e821a735-8d12-3d51-93ea-bd98f4fbbebb",
+      "page_number": 136,
+      "title": "课题研究",
+      "title_source": "PDF P4-P5 visual TOC, aligned to website actual node",
+      "printed_page": 131,
+      "matched": true
+    }
+  ]
+}

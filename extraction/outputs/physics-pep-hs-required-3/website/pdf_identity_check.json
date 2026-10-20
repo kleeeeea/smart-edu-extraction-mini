@@ -1,0 +1,9 @@
+{
+  "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/dcd8cc6b-5380-4008-a2d0-a061f24d34dd.pkg/9787107338120_普通高中教科书·物理_高二年级_必修第三册_人民教育出版社_1787020903757.pdf",
+  "status_code": 401,
+  "bytes": 343,
+  "matches_local": false,
+  "response_sha256": "e2bbcbf5d0923cf6df12854515f6270478d11c5fe5d0abf59d6d746d4408352b",
+  "response_is_pdf": false,
+  "note": "401错误响应的哈希，不是远端PDF哈希"
+}

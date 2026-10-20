@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "errors": [],
+  "records": 91,
+  "chapters": 5,
+  "sections": 23,
+  "research_records": 1,
+  "example_fields": 5,
+  "page_images": 143,
+  "visual_page_reviews": 143,
+  "individually_enlarged_pages": [
+    10,
+    12,
+    13,
+    14,
+    18,
+    34,
+    41,
+    47,
+    50,
+    51,
+    52,
+    64,
+    68,
+    69,
+    70,
+    76,
+    92,
+    95,
+    115,
+    117,
+    130,
+    137,
+    138
+  ],
+  "image_references": 166,
+  "source_pdf_sha256_verified": true,
+  "chapter_counts": {
+    "第九章 静电场及其应用": 20,
+    "第十章 静电场中的能量": 15,
+    "第十一章 电路及其应用": 19,
+    "第十二章 电能 能量守恒定律": 14,
+    "第十三章 电磁感应与电磁波初步": 22,
+    "课题研究": 1
+  },
+  "checks": [
+    "8 fields + BOM",
+    "continuous unique IDs",
+    "23-section hierarchy coverage",
+    "page labels",
+    "image existence + unique standalone paths within each field",
+    "field provenance",
+    "encoding + math delimiters",
+    "source PDF hash unchanged"
+  ],
+  "limitations": [
+    "程序校验不代替视觉内容核对",
+    "网站PDF直接请求401，未做远端PDF哈希相等验证；身份依据资源UUID、元数据、字节数、143页及29节点映射"
+  ]
+}
