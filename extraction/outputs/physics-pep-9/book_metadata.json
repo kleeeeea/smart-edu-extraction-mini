@@ -1,0 +1,38 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/03_初中_物理_人教版_九年级_全一册_（根据2022年版课程标准修订）义务教育教科书·物理九年级全一册_ed5f6a59-0cc5-47e9-adc3-0033711700ea.pdf",
+  "sha256": "2ac4673d7a58f7c41876581413bcd95cff9e95d72bb62f1b75d8dfee48d488a6",
+  "pdf_pages": 218,
+  "book_id": "physics-pep-9",
+  "subject": "物理",
+  "education_stage": "初中",
+  "publisher": "人民教育出版社",
+  "grade": "九年级",
+  "volume": "全一册",
+  "revision": "根据2022年版课程标准修订",
+  "cover_approval": "教育部审定2024",
+  "isbn": "978-7-107-38956-6",
+  "edition_statement": "PDF版权页未给出年月版次，未推断",
+  "smartedu_resource_id": "ed5f6a59-0cc5-47e9-adc3-0033711700ea",
+  "smartedu_title": "（根据2022年版课程标准修订）义务教育教科书·物理九年级全一册",
+  "website_resource_updated_at": "2026-08-18T12:13:33.617+0800",
+  "local_pdf_bytes": 26794457,
+  "website_pdf_bytes": 26794457,
+  "identity_evidence": [
+    "新版网站资源ID、修订标记、书名、学科、出版社、年级、册次相符",
+    "新版网站PDF字节数与本地PDF一致，均为26794457",
+    "新版网站218页与本地218页一致",
+    "网站ebook_mapping的50个章/节节点页序与本地视觉目录逐项一致"
+  ],
+  "remote_pdf_byte_hash_verification": "not_performed: direct private PDF URL returned 401; local SHA-256 recorded separately",
+  "policy_reference": {
+    "requested_github_url": "https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md",
+    "raw_github_fetch": "404 on 2026-10-20",
+    "applied_local_policy": "skills/smartedu-math/references/extraction-policy.md",
+    "user_instructions_override": "物理学科；按教材内容细分；保留实验；detail与example分工按本次明确要求"
+  },
+  "extraction_date": "2026-10-20",
+  "records": 129,
+  "chapters": 10,
+  "subchapters": 40,
+  "source_images": 218
+}

@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "records": 129,
+  "chapters": 10,
+  "subchapters": 40,
+  "website_nodes_matched": 50,
+  "pdf_pages": 218,
+  "page_visual_reviews": 218,
+  "supplementary_worked_examples": 3,
+  "image_references_checked": 212,
+  "errors": [],
+  "separate_checks": {
+    "schema_utf8_bom_ids": "pass",
+    "outline_coverage": "pass",
+    "image_paths_standalone_dedup": "pass",
+    "source_mapping": "pass",
+    "visual_content": "manual full-book page review plus enlarged equation/table review; see visual_review.jsonl",
+    "unprovided_experiment_results": "not added; open measurements retained",
+    "tests_do_not_prove": "程序结构检查不替代原文忠实性和逐页视觉核对"
+  }
+}

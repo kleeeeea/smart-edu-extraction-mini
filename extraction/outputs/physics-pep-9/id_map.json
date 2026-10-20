@@ -1,0 +1,647 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-001",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-002",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-003",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-004",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-005",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-006",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-007",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-008",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-009",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-010",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-011",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-012",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-013",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-014",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-015",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-016",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-017",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-018",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-019",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-020",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-021",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-022",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-023",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-024",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-025",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-026",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-027",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-028",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-029",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-030",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-031",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-032",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-033",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-034",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-035",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-036",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-037",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-038",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-039",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-040",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-041",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-042",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-043",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-044",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-045",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-046",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-047",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-048",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-049",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-050",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-051",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-052",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-053",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-054",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-055",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-056",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-057",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-058",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-059",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-060",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-061",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-062",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-063",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-064",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-065",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-066",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-067",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-068",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-069",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-070",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-071",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-072",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-073",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-074",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-075",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-076",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-077",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-078",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-079",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-080",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-081",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-082",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-083",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-084",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-085",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-086",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-087",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-088",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-089",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-090",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-091",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-092",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-093",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-094",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-095",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-096",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-097",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-098",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-099",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-100",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-101",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-102",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-103",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-104",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-105",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-106",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-107",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-108",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-109",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-110",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-111",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-112",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-113",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-114",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-115",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-116",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-117",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-118",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-119",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-120",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-121",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-122",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-123",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-124",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-125",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-126",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-127",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-128",
+    "action": "new_extraction"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-PHYSICS-9-129",
+    "action": "new_extraction"
+  }
+]
