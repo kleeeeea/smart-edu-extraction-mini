@@ -1,0 +1,39 @@
+{"pdf_pages": [1, 2, 3, 4, 5, 127, 128, 129, 130], "kind": "非知识正文", "reason": "封面、扉页、版权、目录、空白、后记、封底；身份信息仅进入元数据", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [6, 36, 66], "kind": "章引言重复概述", "reason": "对本章学习任务、价值与后文内容的概述不重复录入；P89新增光学分类另保留", "retained_in": ["RJ-PHY-S1-057"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [10], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [15, 16], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [21], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [25], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [29], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [33], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [34, 35], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [40], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [47], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [50], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [55], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [58], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [63], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [64, 65], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [71], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [75], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [78], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [83], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [86], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [87, 88], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [94], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [99], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [105], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [108], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [112], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [118], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [119, 120], "kind": "未解练习", "reason": "仅排除本页练习与应用、复习与提高中的未解题目；同页正文、演示及有效栏文另按来源记录收录", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [7, 37, 67, 90], "kind": "历史引语与人物脚注", "reason": "纯引语、人物年代、生平和评价不作为知识点", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [9], "kind": "一般性方法侧栏", "reason": "物理学家寻求规律与不变量的概括性评价，无新增物理概念；概念建立实验已完整保留", "retained_in": ["RJ-PHY-S1-001", "RJ-PHY-S1-002"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [14], "kind": "混合科学漫步中的历史片段", "reason": "运动量度争论的历史过程与评价排除；动量/动能与力的比较保留", "retained_in": ["RJ-PHY-S1-006"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [15], "kind": "历史新闻与任务评价", "reason": "汽车碰撞试验发生时间、新闻评价等排除；测量过程与冲击力影响因素保留", "retained_in": ["RJ-PHY-S1-007"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [18, 31], "kind": "未解思考问题", "reason": "弹簧分开小车的总动量提问及宇航员抛物体问题未给出原解；独立火箭喷气模型及完整原解保留", "retained_in": ["RJ-PHY-S1-018"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [29], "kind": "重复概念建立的方法性回顾", "reason": "抽象与概括栏目回顾动量概念，无新增物理定量规律；不重复建立动量记录", "retained_in": ["RJ-PHY-S1-001", "RJ-PHY-S1-002"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [32, 54, 62, 99, 104, 111, 112, 116, 117], "kind": "混合栏目的历史发展与评价", "reason": "分离发展年代、人物获奖、技术成就等纯历史评价；多级火箭、计时原理、振动控制、波粒二象性、衍射及激光有效物理内容保留", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [46], "kind": "泛化艺术评价", "reason": "艺术与1+1=2的评价句排除；音阶表、谐和音频率比及音高适用条件保留", "retained_in": ["RJ-PHY-S1-028"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [121, 125], "kind": "研究任务指标与未给结果", "reason": "排除问题提出中的任务询问、参考选题证明要求；完整杆线摆已讲解实验及参考选题已给操作保留，不补弹簧周期公式或实测结论", "retained_in": ["RJ-PHY-S1-082", "RJ-PHY-S1-083"], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}
+{"pdf_pages": [126], "kind": "索引重复", "reason": "索引只列已有名词及首次页码，无新增知识，不再次录入", "retained_in": [], "recovery": "pages.jsonl及images/physics-pep-selective-1/page-NNN.png保留全页原始来源"}

@@ -1,0 +1,1208 @@
+{
+  "method": "逐页查看122页原图的双页审阅图；公式、表格与疑点再查整页PNG。PDF文字层仅作候选；最终转录为patches.json。",
+  "source_page_count": 122,
+  "reviewed_page_count": 122,
+  "pages": [
+    {
+      "pdf_page": 1,
+      "visual_checked": true,
+      "review_sheet": "review/pages-001-002.jpg",
+      "records": [],
+      "notes": "封面：核对书名、人教版及教育部审定2019。",
+      "exclusions": "封面：核对书名、人教版及教育部审定2019。"
+    },
+    {
+      "pdf_page": 2,
+      "visual_checked": true,
+      "review_sheet": "review/pages-001-002.jpg",
+      "records": [],
+      "notes": "书名页：教材身份。",
+      "exclusions": "书名页：教材身份。"
+    },
+    {
+      "pdf_page": 3,
+      "visual_checked": true,
+      "review_sheet": "review/pages-003-004.jpg",
+      "records": [],
+      "notes": "编写人员与版权信息；无独立知识点。",
+      "exclusions": "编写人员与版权信息；无独立知识点。"
+    },
+    {
+      "pdf_page": 4,
+      "visual_checked": true,
+      "review_sheet": "review/pages-003-004.jpg",
+      "records": [],
+      "notes": "目录：5章19节及课题研究。",
+      "exclusions": "目录：5章19节及课题研究。"
+    },
+    {
+      "pdf_page": 5,
+      "visual_checked": true,
+      "review_sheet": "review/pages-005-006.jpg",
+      "records": [],
+      "notes": "空白页。",
+      "exclusions": "空白页。"
+    },
+    {
+      "pdf_page": 6,
+      "visual_checked": true,
+      "review_sheet": "review/pages-005-006.jpg",
+      "records": [],
+      "notes": "第一章引言，无独立核心讲解。",
+      "exclusions": "第一章引言，无独立核心讲解。"
+    },
+    {
+      "pdf_page": 7,
+      "visual_checked": true,
+      "review_sheet": "review/pages-007-008.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-001",
+        "RJ-PHYSICS-SEL2-002"
+      ],
+      "notes": "保留安培力与历史安培定义的物理条件，排除纪念性评价。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 8,
+      "visual_checked": true,
+      "review_sheet": "review/pages-007-008.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-001",
+        "RJ-PHYSICS-SEL2-003"
+      ],
+      "notes": "方向实验、左手定则与必要电场比较。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 9,
+      "visual_checked": true,
+      "review_sheet": "review/pages-009-010.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-004"
+      ],
+      "notes": "垂直、平行及一般夹角条件，分解公式。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 10,
+      "visual_checked": true,
+      "review_sheet": "review/pages-009-010.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-005"
+      ],
+      "notes": "磁电式电流表结构与径向磁场，指针响应。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 11,
+      "visual_checked": true,
+      "review_sheet": "review/pages-011-012.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-006"
+      ],
+      "notes": "科学漫步仅保留通电螺线管及导线相互作用；生平评价和练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 12,
+      "visual_checked": true,
+      "review_sheet": "review/pages-011-012.jpg",
+      "records": [],
+      "notes": "练习与应用：未解题。",
+      "exclusions": "练习与应用：未解题。"
+    },
+    {
+      "pdf_page": 13,
+      "visual_checked": true,
+      "review_sheet": "review/pages-013-014.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-007",
+        "RJ-PHYSICS-SEL2-008"
+      ],
+      "notes": "电子束实验与洛伦兹力，保留荧光板脚注。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 14,
+      "visual_checked": true,
+      "review_sheet": "review/pages-013-014.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-008",
+        "RJ-PHYSICS-SEL2-009"
+      ],
+      "notes": "合并跨页左手定则；未解的推导任务未补答案。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 15,
+      "visual_checked": true,
+      "review_sheet": "review/pages-015-016.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-009",
+        "RJ-PHYSICS-SEL2-010"
+      ],
+      "notes": "洛伦兹力公式与显像管讲解，未解偏转方向设问排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 16,
+      "visual_checked": true,
+      "review_sheet": "review/pages-015-016.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-010",
+        "RJ-PHYSICS-SEL2-011"
+      ],
+      "notes": "扫描跨页合并；正电子及云室实验保留，历史评价排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 17,
+      "visual_checked": true,
+      "review_sheet": "review/pages-017-018.jpg",
+      "records": [],
+      "notes": "练习与应用：包括速度选择器、磁流体发电等未解题，未补解。",
+      "exclusions": "练习与应用：包括速度选择器、磁流体发电等未解题，未补解。"
+    },
+    {
+      "pdf_page": 18,
+      "visual_checked": true,
+      "review_sheet": "review/pages-017-018.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-012"
+      ],
+      "notes": "正文、公式、图示与条件已核对。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 19,
+      "visual_checked": true,
+      "review_sheet": "review/pages-019-020.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-013",
+        "RJ-PHYSICS-SEL2-014"
+      ],
+      "notes": "半径公式与示踪实验。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 20,
+      "visual_checked": true,
+      "review_sheet": "review/pages-019-020.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-014",
+        "RJ-PHYSICS-SEL2-015"
+      ],
+      "notes": "实验现象、周期及原例前半；与P21合并原解。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 21,
+      "visual_checked": true,
+      "review_sheet": "review/pages-021-022.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-015"
+      ],
+      "notes": "保留完整已解原例，练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 22,
+      "visual_checked": true,
+      "review_sheet": "review/pages-021-022.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-016"
+      ],
+      "notes": "质谱仪装置及推导保留detail；纯历史评价排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 23,
+      "visual_checked": true,
+      "review_sheet": "review/pages-023-024.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-016",
+        "RJ-PHYSICS-SEL2-017"
+      ],
+      "notes": "合并质谱仪推导；回旋加速器核心情境。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 24,
+      "visual_checked": true,
+      "review_sheet": "review/pages-023-024.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-017"
+      ],
+      "notes": "回旋加速器结构、周期同步及盒缝可忽略条件。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 25,
+      "visual_checked": true,
+      "review_sheet": "review/pages-025-026.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-017"
+      ],
+      "notes": "保留回旋加速器同步失效条件；练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 26,
+      "visual_checked": true,
+      "review_sheet": "review/pages-025-026.jpg",
+      "records": [],
+      "notes": "复习与提高A组：未解题。",
+      "exclusions": "复习与提高A组：未解题。"
+    },
+    {
+      "pdf_page": 27,
+      "visual_checked": true,
+      "review_sheet": "review/pages-027-028.jpg",
+      "records": [],
+      "notes": "复习与提高续：未解题。",
+      "exclusions": "复习与提高续：未解题。"
+    },
+    {
+      "pdf_page": 28,
+      "visual_checked": true,
+      "review_sheet": "review/pages-027-028.jpg",
+      "records": [],
+      "notes": "第二章引言。",
+      "exclusions": "第二章引言。"
+    },
+    {
+      "pdf_page": 29,
+      "visual_checked": true,
+      "review_sheet": "review/pages-029-030.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-018"
+      ],
+      "notes": "条形磁体插拔实验；不补未明示的结果。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 30,
+      "visual_checked": true,
+      "review_sheet": "review/pages-029-030.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-018"
+      ],
+      "notes": "四种情况与表1；表2空白保留。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 31,
+      "visual_checked": true,
+      "review_sheet": "review/pages-031-032.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-018",
+        "RJ-PHYSICS-SEL2-019"
+      ],
+      "notes": "楞次定律及能量解释；未解金属环设问排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 32,
+      "visual_checked": true,
+      "review_sheet": "review/pages-031-032.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-019"
+      ],
+      "notes": "两道不同方法用途的已解原例完整保留。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 33,
+      "visual_checked": true,
+      "review_sheet": "review/pages-033-034.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-020",
+        "RJ-PHYSICS-SEL2-021"
+      ],
+      "notes": "右手定则与归纳推理；未解方向讨论排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 34,
+      "visual_checked": true,
+      "review_sheet": "review/pages-033-034.jpg",
+      "records": [],
+      "notes": "练习与应用：未解题。",
+      "exclusions": "练习与应用：未解题。"
+    },
+    {
+      "pdf_page": 35,
+      "visual_checked": true,
+      "review_sheet": "review/pages-035-036.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-022",
+        "RJ-PHYSICS-SEL2-023"
+      ],
+      "notes": "感应电动势与强磁体下落实验，无测量结果不补写。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 36,
+      "visual_checked": true,
+      "review_sheet": "review/pages-035-036.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-022",
+        "RJ-PHYSICS-SEL2-024"
+      ],
+      "notes": "磁通量变化率、n匝与单位，侧注移出跨页句子。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 37,
+      "visual_checked": true,
+      "review_sheet": "review/pages-037-038.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-024"
+      ],
+      "notes": "Blv推导及夹角条件，分式与sinθ校正。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 38,
+      "visual_checked": true,
+      "review_sheet": "review/pages-037-038.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-025"
+      ],
+      "notes": "动生电动势与能量讲解保留；练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 39,
+      "visual_checked": true,
+      "review_sheet": "review/pages-039-040.jpg",
+      "records": [],
+      "notes": "练习与应用续：未解题；不把题目中的装置设问当作已讲解原例。",
+      "exclusions": "练习与应用续：未解题；不把题目中的装置设问当作已讲解原例。"
+    },
+    {
+      "pdf_page": 40,
+      "visual_checked": true,
+      "review_sheet": "review/pages-039-040.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-026"
+      ],
+      "notes": "感生电场、电子感应加速器完整分析。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 41,
+      "visual_checked": true,
+      "review_sheet": "review/pages-041-042.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-027"
+      ],
+      "notes": "涡流定义、加热利用、减小和探测。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 42,
+      "visual_checked": true,
+      "review_sheet": "review/pages-041-042.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-027",
+        "RJ-PHYSICS-SEL2-028"
+      ],
+      "notes": "探雷器跨页合并；电磁阻尼定义；未解讨论不补解。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 43,
+      "visual_checked": true,
+      "review_sheet": "review/pages-043-044.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-028",
+        "RJ-PHYSICS-SEL2-029"
+      ],
+      "notes": "微安表做一做及铝框演示；只保留明示步骤及正文结论。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 44,
+      "visual_checked": true,
+      "review_sheet": "review/pages-043-044.jpg",
+      "records": [],
+      "notes": "练习与应用：未解题。",
+      "exclusions": "练习与应用：未解题。"
+    },
+    {
+      "pdf_page": 45,
+      "visual_checked": true,
+      "review_sheet": "review/pages-045-046.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-030",
+        "RJ-PHYSICS-SEL2-031"
+      ],
+      "notes": "互感、自感概念。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 46,
+      "visual_checked": true,
+      "review_sheet": "review/pages-045-046.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-031",
+        "RJ-PHYSICS-SEL2-032"
+      ],
+      "notes": "通电及断电灯泡演示，完整电路条件。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 47,
+      "visual_checked": true,
+      "review_sheet": "review/pages-047-048.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-032",
+        "RJ-PHYSICS-SEL2-033"
+      ],
+      "notes": "电流传感器实验及断电安全；未解设问排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 48,
+      "visual_checked": true,
+      "review_sheet": "review/pages-047-048.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-032",
+        "RJ-PHYSICS-SEL2-034"
+      ],
+      "notes": "自感公式、单位与磁场储能，侧注移至完整正文后。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 49,
+      "visual_checked": true,
+      "review_sheet": "review/pages-049-050.jpg",
+      "records": [],
+      "notes": "练习与应用：未解题。",
+      "exclusions": "练习与应用：未解题。"
+    },
+    {
+      "pdf_page": 50,
+      "visual_checked": true,
+      "review_sheet": "review/pages-049-050.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 51,
+      "visual_checked": true,
+      "review_sheet": "review/pages-051-052.jpg",
+      "records": [],
+      "notes": "复习与提高续：未解题。",
+      "exclusions": "复习与提高续：未解题。"
+    },
+    {
+      "pdf_page": 52,
+      "visual_checked": true,
+      "review_sheet": "review/pages-051-052.jpg",
+      "records": [],
+      "notes": "复习与提高续：未解题。",
+      "exclusions": "复习与提高续：未解题。"
+    },
+    {
+      "pdf_page": 53,
+      "visual_checked": true,
+      "review_sheet": "review/pages-053-054.jpg",
+      "records": [],
+      "notes": "第三章引言。",
+      "exclusions": "第三章引言。"
+    },
+    {
+      "pdf_page": 54,
+      "visual_checked": true,
+      "review_sheet": "review/pages-053-054.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-035"
+      ],
+      "notes": "交变电流与直流。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 55,
+      "visual_checked": true,
+      "review_sheet": "review/pages-055-056.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-035",
+        "RJ-PHYSICS-SEL2-036",
+        "RJ-PHYSICS-SEL2-037"
+      ],
+      "notes": "二极管演示只保留操作，不补明示外现象；发电机结构。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 56,
+      "visual_checked": true,
+      "review_sheet": "review/pages-055-056.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-037",
+        "RJ-PHYSICS-SEL2-038"
+      ],
+      "notes": "匀强磁场与转动发电机，跨页合并。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 57,
+      "visual_checked": true,
+      "review_sheet": "review/pages-057-058.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-038",
+        "RJ-PHYSICS-SEL2-039"
+      ],
+      "notes": "正弦推导、峰值和纯电阻条件；波形图保留。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 58,
+      "visual_checked": true,
+      "review_sheet": "review/pages-057-058.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-039"
+      ],
+      "notes": "保留上方发电机正文；下方练习排除。",
+      "exclusions": "保留上方发电机正文；下方练习排除。"
+    },
+    {
+      "pdf_page": 59,
+      "visual_checked": true,
+      "review_sheet": "review/pages-059-060.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-040"
+      ],
+      "notes": "周期频率与ω关系，未解读图题排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 60,
+      "visual_checked": true,
+      "review_sheet": "review/pages-059-060.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-041",
+        "RJ-PHYSICS-SEL2-042"
+      ],
+      "notes": "有效值核心原例留detail，正弦适用限制，波形图保留。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 61,
+      "visual_checked": true,
+      "review_sheet": "review/pages-061-062.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-043",
+        "RJ-PHYSICS-SEL2-044",
+        "RJ-PHYSICS-SEL2-045"
+      ],
+      "notes": "交流公式、感抗与容抗实验，分式根号校正。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 62,
+      "visual_checked": true,
+      "review_sheet": "review/pages-061-062.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-045"
+      ],
+      "notes": "保留上方电容器作用；练习排除。",
+      "exclusions": "保留上方电容器作用；练习排除。"
+    },
+    {
+      "pdf_page": 63,
+      "visual_checked": true,
+      "review_sheet": "review/pages-063-064.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-046",
+        "RJ-PHYSICS-SEL2-047"
+      ],
+      "notes": "变压器原理与实验。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 64,
+      "visual_checked": true,
+      "review_sheet": "review/pages-063-064.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-047"
+      ],
+      "notes": "控制变量、器材与量程安全，未补实验数据。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 65,
+      "visual_checked": true,
+      "review_sheet": "review/pages-065-066.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-048"
+      ],
+      "notes": "理想模型、匝数比、电压比及效率。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 66,
+      "visual_checked": true,
+      "review_sheet": "review/pages-065-066.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-049"
+      ],
+      "notes": "无线充电有效原理，重复互感表述仅一份。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 67,
+      "visual_checked": true,
+      "review_sheet": "review/pages-067-068.jpg",
+      "records": [],
+      "notes": "练习与应用：未解题。",
+      "exclusions": "练习与应用：未解题。"
+    },
+    {
+      "pdf_page": 68,
+      "visual_checked": true,
+      "review_sheet": "review/pages-067-068.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-050"
+      ],
+      "notes": "输电损耗与两条路径。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 69,
+      "visual_checked": true,
+      "review_sheet": "review/pages-069-070.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-050"
+      ],
+      "notes": "高压输电条件与技术限制，未解问题不补算。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 70,
+      "visual_checked": true,
+      "review_sheet": "review/pages-069-070.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-051"
+      ],
+      "notes": "电网供电层级与典型电压。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 71,
+      "visual_checked": true,
+      "review_sheet": "review/pages-071-072.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-052"
+      ],
+      "notes": "仅保留交流同步问题和直流输电转换原理。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 72,
+      "visual_checked": true,
+      "review_sheet": "review/pages-071-072.jpg",
+      "records": [],
+      "notes": "STSE历史工程叙述及练习排除。",
+      "exclusions": "STSE历史工程叙述及练习排除。"
+    },
+    {
+      "pdf_page": 73,
+      "visual_checked": true,
+      "review_sheet": "review/pages-073-074.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 74,
+      "visual_checked": true,
+      "review_sheet": "review/pages-073-074.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 75,
+      "visual_checked": true,
+      "review_sheet": "review/pages-075-076.jpg",
+      "records": [],
+      "notes": "第四章引言，航天历史与章节导入。",
+      "exclusions": "第四章引言，航天历史与章节导入。"
+    },
+    {
+      "pdf_page": 76,
+      "visual_checked": true,
+      "review_sheet": "review/pages-075-076.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-053"
+      ],
+      "notes": "振荡电路演示；跨页句子合并。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 77,
+      "visual_checked": true,
+      "review_sheet": "review/pages-077-078.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-053",
+        "RJ-PHYSICS-SEL2-054"
+      ],
+      "notes": "LC电路充放电阶段与i、q图示。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 78,
+      "visual_checked": true,
+      "review_sheet": "review/pages-077-078.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-054",
+        "RJ-PHYSICS-SEL2-055"
+      ],
+      "notes": "充放电续段及场能转换。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 79,
+      "visual_checked": true,
+      "review_sheet": "review/pages-079-080.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-055",
+        "RJ-PHYSICS-SEL2-056"
+      ],
+      "notes": "能量损耗补充、固有周期公式，未解问题排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 80,
+      "visual_checked": true,
+      "review_sheet": "review/pages-079-080.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-056"
+      ],
+      "notes": "完整频率范围原例、固有频率条件；练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 81,
+      "visual_checked": true,
+      "review_sheet": "review/pages-081-082.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-057",
+        "RJ-PHYSICS-SEL2-058"
+      ],
+      "notes": "变化B产生E与变化E产生B；侧栏历史评价不混入句子。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 82,
+      "visual_checked": true,
+      "review_sheet": "review/pages-081-082.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-059",
+        "RJ-PHYSICS-SEL2-060",
+        "RJ-PHYSICS-SEL2-061"
+      ],
+      "notes": "电磁波传播、互相垂直及赫兹实验前半。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 83,
+      "visual_checked": true,
+      "review_sheet": "review/pages-083-084.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-061"
+      ],
+      "notes": "赫兹实验续、明确观测与场能传播，历史评价排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 84,
+      "visual_checked": true,
+      "review_sheet": "review/pages-083-084.jpg",
+      "records": [],
+      "notes": "麦克斯韦生平与评价、练习排除；方程组仅为历史图示，没有展开讲解。",
+      "exclusions": "麦克斯韦生平与评价、练习排除；方程组仅为历史图示，没有展开讲解。"
+    },
+    {
+      "pdf_page": 85,
+      "visual_checked": true,
+      "review_sheet": "review/pages-085-086.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-062"
+      ],
+      "notes": "有效辐射的两项条件和开放电路。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 86,
+      "visual_checked": true,
+      "review_sheet": "review/pages-085-086.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-062",
+        "RJ-PHYSICS-SEL2-063",
+        "RJ-PHYSICS-SEL2-064"
+      ],
+      "notes": "跨页开放电路、调制、接收及调谐，侧注独立。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 87,
+      "visual_checked": true,
+      "review_sheet": "review/pages-087-088.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-064",
+        "RJ-PHYSICS-SEL2-065"
+      ],
+      "notes": "接收跨页合并，电视广播流程；练习排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 88,
+      "visual_checked": true,
+      "review_sheet": "review/pages-087-088.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-066",
+        "RJ-PHYSICS-SEL2-067"
+      ],
+      "notes": "电磁波谱定义、无线电波波段表前半、有效脚注。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 89,
+      "visual_checked": true,
+      "review_sheet": "review/pages-089-090.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-067",
+        "RJ-PHYSICS-SEL2-068"
+      ],
+      "notes": "续表各行与合并单元格、雷达、通信；Wi-Fi有效事实保留，任务不补结果。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 90,
+      "visual_checked": true,
+      "review_sheet": "review/pages-089-090.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-068",
+        "RJ-PHYSICS-SEL2-069"
+      ],
+      "notes": "红外、可见光表与频率单位、有效脚注。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 91,
+      "visual_checked": true,
+      "review_sheet": "review/pages-091-092.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-070",
+        "RJ-PHYSICS-SEL2-071",
+        "RJ-PHYSICS-SEL2-072"
+      ],
+      "notes": "紫外线、X与γ射线及STSE有效波长事实，排除纯历史。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 92,
+      "visual_checked": true,
+      "review_sheet": "review/pages-091-092.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-072"
+      ],
+      "notes": "保留混合STSE中的有效无线电信号事实，其余历史评价及未解练习排除。",
+      "exclusions": "保留混合STSE中的有效无线电信号事实，其余历史评价及未解练习排除。"
+    },
+    {
+      "pdf_page": 93,
+      "visual_checked": true,
+      "review_sheet": "review/pages-093-094.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 94,
+      "visual_checked": true,
+      "review_sheet": "review/pages-093-094.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 95,
+      "visual_checked": true,
+      "review_sheet": "review/pages-095-096.jpg",
+      "records": [],
+      "notes": "第五章引言，历史导入。",
+      "exclusions": "第五章引言，历史导入。"
+    },
+    {
+      "pdf_page": 96,
+      "visual_checked": true,
+      "review_sheet": "review/pages-095-096.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-073",
+        "RJ-PHYSICS-SEL2-074"
+      ],
+      "notes": "干簧管与声控光控必要情境。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 97,
+      "visual_checked": true,
+      "review_sheet": "review/pages-097-098.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-074"
+      ],
+      "notes": "传感器定义及实例完整保留detail。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 98,
+      "visual_checked": true,
+      "review_sheet": "review/pages-097-098.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-075"
+      ],
+      "notes": "分类及应用，与P99合并跨页句。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 99,
+      "visual_checked": true,
+      "review_sheet": "review/pages-099-100.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-075",
+        "RJ-PHYSICS-SEL2-076"
+      ],
+      "notes": "组成、转换、信号处理和应用框图。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 100,
+      "visual_checked": true,
+      "review_sheet": "review/pages-099-100.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-077"
+      ],
+      "notes": "电容式话筒必要核心原例与解释留detail；生平历史排除。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 101,
+      "visual_checked": true,
+      "review_sheet": "review/pages-101-102.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-078"
+      ],
+      "notes": "保留机器人中传感器的功能；历史、评价与练习排除。",
+      "exclusions": "保留机器人中传感器的功能；历史、评价与练习排除。"
+    },
+    {
+      "pdf_page": 102,
+      "visual_checked": true,
+      "review_sheet": "review/pages-101-102.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-079"
+      ],
+      "notes": "光敏电阻制作和对比实验，不补未给阻值。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 103,
+      "visual_checked": true,
+      "review_sheet": "review/pages-103-104.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-079",
+        "RJ-PHYSICS-SEL2-080",
+        "RJ-PHYSICS-SEL2-081"
+      ],
+      "notes": "光敏载流子机制、光电计数及温敏材料。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 104,
+      "visual_checked": true,
+      "review_sheet": "review/pages-103-104.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-082",
+        "RJ-PHYSICS-SEL2-083"
+      ],
+      "notes": "热敏实验、液位报警与应变片；跨页合并。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 105,
+      "visual_checked": true,
+      "review_sheet": "review/pages-105-106.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-083",
+        "RJ-PHYSICS-SEL2-084",
+        "RJ-PHYSICS-SEL2-085"
+      ],
+      "notes": "应变片、力传感器、电容传感器及压阻脚注。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 106,
+      "visual_checked": true,
+      "review_sheet": "review/pages-105-106.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-085",
+        "RJ-PHYSICS-SEL2-086"
+      ],
+      "notes": "电容位移与霍尔元件，插图文字不混入正文。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 107,
+      "visual_checked": true,
+      "review_sheet": "review/pages-107-108.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-086"
+      ],
+      "notes": "保留顶部霍尔元件跨页段落；未解练习排除。",
+      "exclusions": "保留顶部霍尔元件跨页段落；未解练习排除。"
+    },
+    {
+      "pdf_page": 108,
+      "visual_checked": true,
+      "review_sheet": "review/pages-107-108.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-087"
+      ],
+      "notes": "门窗报警器材、电路、观察和原理。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 109,
+      "visual_checked": true,
+      "review_sheet": "review/pages-109-110.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-087",
+        "RJ-PHYSICS-SEL2-088"
+      ],
+      "notes": "元件表1逐格核对；门窗操作与光控导入。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 110,
+      "visual_checked": true,
+      "review_sheet": "review/pages-109-110.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-088"
+      ],
+      "notes": "光控两套电路、三极管条件、继电器保护二极管。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 111,
+      "visual_checked": true,
+      "review_sheet": "review/pages-111-112.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-088"
+      ],
+      "notes": "元件表2逐格核对，明暗两种状态与操作。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 112,
+      "visual_checked": true,
+      "review_sheet": "review/pages-111-112.jpg",
+      "records": [],
+      "notes": "练习与应用：未解设计题，不补电路或结论。",
+      "exclusions": "练习与应用：未解设计题，不补电路或结论。"
+    },
+    {
+      "pdf_page": 113,
+      "visual_checked": true,
+      "review_sheet": "review/pages-113-114.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 114,
+      "visual_checked": true,
+      "review_sheet": "review/pages-113-114.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题。",
+      "exclusions": "复习与提高：未解题。"
+    },
+    {
+      "pdf_page": 115,
+      "visual_checked": true,
+      "review_sheet": "review/pages-115-116.jpg",
+      "records": [],
+      "notes": "复习与提高：未解题，霍尔电压公式为待证明设问，不追加到正文。",
+      "exclusions": "复习与提高：未解题，霍尔电压公式为待证明设问，不追加到正文。"
+    },
+    {
+      "pdf_page": 116,
+      "visual_checked": true,
+      "review_sheet": "review/pages-115-116.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-089"
+      ],
+      "notes": "压力传感器装置与初始质量条件，不录入任务目标。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 117,
+      "visual_checked": true,
+      "review_sheet": "review/pages-117-118.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-089"
+      ],
+      "notes": "16组数据、曲线与灵敏度明示结论。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 118,
+      "visual_checked": true,
+      "review_sheet": "review/pages-117-118.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-089",
+        "RJ-PHYSICS-SEL2-090"
+      ],
+      "notes": "工作区间与苹果分拣完整原理，核心情境留detail。",
+      "exclusions": "无关导语、未解设问、重复表述或纯历史评价按片段排除。"
+    },
+    {
+      "pdf_page": 119,
+      "visual_checked": true,
+      "review_sheet": "review/pages-119-120.jpg",
+      "records": [
+        "RJ-PHYSICS-SEL2-091"
+      ],
+      "notes": "保留热敏电阻研究装置方法，不补测量数据及结果；任务设想排除。",
+      "exclusions": "保留热敏电阻研究装置方法，不补测量数据及结果；任务设想排除。"
+    },
+    {
+      "pdf_page": 120,
+      "visual_checked": true,
+      "review_sheet": "review/pages-119-120.jpg",
+      "records": [],
+      "notes": "术语索引：重复定义定位，不重新录入。",
+      "exclusions": "术语索引：重复定义定位，不重新录入。"
+    },
+    {
+      "pdf_page": 121,
+      "visual_checked": true,
+      "review_sheet": "review/pages-121-122.jpg",
+      "records": [],
+      "notes": "后记：核对2017年版课程标准与2019审定信息，排除致谢。",
+      "exclusions": "后记：核对2017年版课程标准与2019审定信息，排除致谢。"
+    },
+    {
+      "pdf_page": 122,
+      "visual_checked": true,
+      "review_sheet": "review/pages-121-122.jpg",
+      "records": [],
+      "notes": "封底：ISBN 978-7-107-34592-0。",
+      "exclusions": "封底：ISBN 978-7-107-34592-0。"
+    }
+  ]
+}

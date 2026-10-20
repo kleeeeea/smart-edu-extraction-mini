@@ -1,0 +1,461 @@
+{
+  "operation": "initial_extraction",
+  "previous_records": 0,
+  "mapping": [
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-001",
+      "knowledge_point": "安培力与方向实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-002",
+      "knowledge_point": "历史上用安培力定义安培的条件"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-003",
+      "knowledge_point": "左手定则与安培力的方向"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-004",
+      "knowledge_point": "安培力的大小及夹角条件"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-005",
+      "knowledge_point": "磁电式电流表"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-006",
+      "knowledge_point": "通电螺线管与通电导线间的相互作用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-007",
+      "knowledge_point": "洛伦兹力与电子束偏转实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-008",
+      "knowledge_point": "洛伦兹力方向的左手定则"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-009",
+      "knowledge_point": "洛伦兹力的大小及夹角条件"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-010",
+      "knowledge_point": "电子束的磁偏转与扫描"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-011",
+      "knowledge_point": "正电子与云室径迹的判读"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-012",
+      "knowledge_point": "垂直射入匀强磁场的带电粒子运动"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-013",
+      "knowledge_point": "带电粒子圆周运动的半径"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-014",
+      "knowledge_point": "观察带电粒子的运动径迹"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-015",
+      "knowledge_point": "带电粒子圆周运动的周期"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-016",
+      "knowledge_point": "质谱仪的原理与比荷测定"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-017",
+      "knowledge_point": "回旋加速器的原理与限制"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-018",
+      "knowledge_point": "探究影响感应电流方向的因素"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-019",
+      "knowledge_point": "楞次定律与能量守恒"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-020",
+      "knowledge_point": "右手定则"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-021",
+      "knowledge_point": "归纳推理与楞次定律的研究方法"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-022",
+      "knowledge_point": "感应电动势与法拉第电磁感应定律"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-023",
+      "knowledge_point": "强磁体下落实验与感应电动势"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-024",
+      "knowledge_point": "导线切割磁感线时的感应电动势"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-025",
+      "knowledge_point": "动生电动势的非静电力与能量转化"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-026",
+      "knowledge_point": "感生电场与电子感应加速器"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-027",
+      "knowledge_point": "涡流及其利用与减小"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-028",
+      "knowledge_point": "电磁阻尼"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-029",
+      "knowledge_point": "电磁驱动与交流感应电动机"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-030",
+      "knowledge_point": "互感现象"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-031",
+      "knowledge_point": "自感现象与通电时的自感"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-032",
+      "knowledge_point": "断电时的自感与磁场的能量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-033",
+      "knowledge_point": "用电流传感器显示自感对电流的影响"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-034",
+      "knowledge_point": "自感系数"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-035",
+      "knowledge_point": "交变电流与直流"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-036",
+      "knowledge_point": "观察交变电流的方向"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-037",
+      "knowledge_point": "交变电流的产生"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-038",
+      "knowledge_point": "正弦式交变电流的变化规律"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-039",
+      "knowledge_point": "交流发电机的构造与能量转化"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-040",
+      "knowledge_point": "交变电流的周期和频率"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-041",
+      "knowledge_point": "交变电流的峰值"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-042",
+      "knowledge_point": "交变电流的有效值"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-043",
+      "knowledge_point": "正弦式交变电流的公式和图像"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-044",
+      "knowledge_point": "电感器对交变电流的阻碍作用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-045",
+      "knowledge_point": "电容器对交变电流的作用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-046",
+      "knowledge_point": "变压器的结构与互感原理"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-047",
+      "knowledge_point": "探究变压器原副线圈电压与匝数的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-048",
+      "knowledge_point": "理想变压器及电压与匝数的关系"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-049",
+      "knowledge_point": "变压器传输电能与无线充电"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-050",
+      "knowledge_point": "降低输电损耗与高压输电"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-051",
+      "knowledge_point": "电网供电"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-052",
+      "knowledge_point": "交流输电的限制与直流输电"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-053",
+      "knowledge_point": "振荡电流与LC振荡电路"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-054",
+      "knowledge_point": "LC电路中电磁振荡的产生过程"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-055",
+      "knowledge_point": "电磁振荡中的能量转化与损耗补充"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-056",
+      "knowledge_point": "电磁振荡的周期和频率"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-057",
+      "knowledge_point": "变化的磁场产生电场"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-058",
+      "knowledge_point": "变化的电场产生磁场"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-059",
+      "knowledge_point": "电磁场与电磁波的形成"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-060",
+      "knowledge_point": "电磁波的传播特点"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-061",
+      "knowledge_point": "赫兹实验与电磁波的能量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-062",
+      "knowledge_point": "无线电波的有效发射与开放电路"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-063",
+      "knowledge_point": "载波与调制：调幅和调频"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-064",
+      "knowledge_point": "无线电波的接收、调谐与解调"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-065",
+      "knowledge_point": "电视广播的发射和接收"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-066",
+      "knowledge_point": "电磁波谱"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-067",
+      "knowledge_point": "无线电波的波段与传播应用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-068",
+      "knowledge_point": "红外线与热成像"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-069",
+      "knowledge_point": "可见光与各色光的波长频率"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-070",
+      "knowledge_point": "紫外线"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-071",
+      "knowledge_point": "X射线与γ射线"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-072",
+      "knowledge_point": "射电望远镜与星际无线电信号"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-073",
+      "knowledge_point": "干簧管感知磁场"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-074",
+      "knowledge_point": "传感器及其信息转换作用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-075",
+      "knowledge_point": "传感器的种类与分类"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-076",
+      "knowledge_point": "传感器的组成与应用模式"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-077",
+      "knowledge_point": "电容式话筒的转换原理"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-078",
+      "knowledge_point": "机器人中传感器的应用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-079",
+      "knowledge_point": "光敏电阻的特性与实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-080",
+      "knowledge_point": "光电计数的原理"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-081",
+      "knowledge_point": "金属热电阻和热敏电阻"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-082",
+      "knowledge_point": "观察热敏电阻特性及液位报警"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-083",
+      "knowledge_point": "电阻应变效应与电阻应变片"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-084",
+      "knowledge_point": "应变式力传感器的结构与应用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-085",
+      "knowledge_point": "电容式传感器与位移测量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-086",
+      "knowledge_point": "霍尔元件与微小位移测量"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-087",
+      "knowledge_point": "门窗防盗报警装置的实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-088",
+      "knowledge_point": "光控开关的实验"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-089",
+      "knowledge_point": "半导体薄膜压力传感器特性的实验研究"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-090",
+      "knowledge_point": "压力传感器在苹果自动分拣中的应用"
+    },
+    {
+      "old_id": null,
+      "new_id": "RJ-PHYSICS-SEL2-091",
+      "knowledge_point": "热敏电阻特性的研究装置与方法"
+    }
+  ]
+}

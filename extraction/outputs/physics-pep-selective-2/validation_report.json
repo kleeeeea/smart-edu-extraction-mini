@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "errors": [],
+  "records": 91,
+  "chapters": 5,
+  "textbook_sections": 19,
+  "research_records": 3,
+  "example_fields": 3,
+  "solved_original_examples": 4,
+  "source_pages": 122,
+  "reviewed_pages": 122,
+  "full_page_images": 122,
+  "sections_with_records": 20,
+  "source_sha256": "e134c14fbfe6d4242a6dcb8677d43bd889fe6a6d48b3dc7358ed911f86033bed",
+  "checks": [
+    "UTF-8 BOM与8字段",
+    "连续唯一ID",
+    "来源记录一一对应",
+    "19节及课题研究覆盖",
+    "图片存在、来源页、一字段一路径一次及独立行",
+    "数学分隔符、乱码",
+    "原PDF哈希未变",
+    "无完全重复正文"
+  ],
+  "content_review": "人工视觉核对记录见visual_audit.json；程序检查不宣称证明全部原文忠实性。"
+}

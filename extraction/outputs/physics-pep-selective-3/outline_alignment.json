@@ -1,0 +1,401 @@
+{
+  "status": "same_resource_hierarchy_and_pages_aligned",
+  "identity_evidence": "资源ID、题名、143页及13,401,617字节匹配；2019审核标记及ISBN由原页核对。平台映射无名称字段，标签取PDF视觉目录，不声称独立取回平台目录文字。",
+  "nodes": [
+    {
+      "node_id": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c",
+      "node_path": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c",
+      "page_number": 6,
+      "pdf_visual_label": "第一章 分子动理论",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-001"
+      ]
+    },
+    {
+      "node_id": "cbd8e3b9-2b75-33e0-b90e-df4af1a67760",
+      "node_path": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c/cbd8e3b9-2b75-33e0-b90e-df4af1a67760",
+      "page_number": 7,
+      "pdf_visual_label": "1 分子动理论的基本内容",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-002",
+        "RJ-PHYSICS-SEL3-003",
+        "RJ-PHYSICS-SEL3-004",
+        "RJ-PHYSICS-SEL3-005",
+        "RJ-PHYSICS-SEL3-006",
+        "RJ-PHYSICS-SEL3-007",
+        "RJ-PHYSICS-SEL3-008"
+      ]
+    },
+    {
+      "node_id": "294bf017-3b15-3240-b31f-6e54d6768cb9",
+      "node_path": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c/294bf017-3b15-3240-b31f-6e54d6768cb9",
+      "page_number": 12,
+      "pdf_visual_label": "2 实验：用油膜法估测油酸分子的大小",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-009"
+      ]
+    },
+    {
+      "node_id": "647c3115-734c-3fc5-b5b8-cf22817454de",
+      "node_path": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c/647c3115-734c-3fc5-b5b8-cf22817454de",
+      "page_number": 15,
+      "pdf_visual_label": "3 分子运动速率分布规律",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-010",
+        "RJ-PHYSICS-SEL3-011",
+        "RJ-PHYSICS-SEL3-012",
+        "RJ-PHYSICS-SEL3-013"
+      ]
+    },
+    {
+      "node_id": "444696c1-783f-33ee-8552-f91107e11dca",
+      "node_path": "d3bdf54c-dedf-3b76-a7f6-a9a201e9b25c/444696c1-783f-33ee-8552-f91107e11dca",
+      "page_number": 19,
+      "pdf_visual_label": "4 分子动能和分子势能",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-014",
+        "RJ-PHYSICS-SEL3-015",
+        "RJ-PHYSICS-SEL3-016"
+      ]
+    },
+    {
+      "node_id": "57c8b29e-d89b-39c1-9727-98fc7123dd6b",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b",
+      "page_number": 23,
+      "pdf_visual_label": "第二章 气体、固体和液体",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": []
+    },
+    {
+      "node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b/1df662bf-7930-3f34-8995-04249d7cb88a",
+      "page_number": 24,
+      "pdf_visual_label": "1 温度和温标",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-017",
+        "RJ-PHYSICS-SEL3-018",
+        "RJ-PHYSICS-SEL3-019",
+        "RJ-PHYSICS-SEL3-020"
+      ]
+    },
+    {
+      "node_id": "8bf2eac9-a44e-3953-84c4-2c3ef41acfc4",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b/8bf2eac9-a44e-3953-84c4-2c3ef41acfc4",
+      "page_number": 28,
+      "pdf_visual_label": "2 气体的等温变化",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-021",
+        "RJ-PHYSICS-SEL3-022",
+        "RJ-PHYSICS-SEL3-023"
+      ]
+    },
+    {
+      "node_id": "7d9a72ef-e63c-3130-b8d1-093b7d505203",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b/7d9a72ef-e63c-3130-b8d1-093b7d505203",
+      "page_number": 31,
+      "pdf_visual_label": "3 气体的等压变化和等容变化",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-024",
+        "RJ-PHYSICS-SEL3-025",
+        "RJ-PHYSICS-SEL3-026",
+        "RJ-PHYSICS-SEL3-027",
+        "RJ-PHYSICS-SEL3-028",
+        "RJ-PHYSICS-SEL3-029"
+      ]
+    },
+    {
+      "node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b/f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
+      "page_number": 36,
+      "pdf_visual_label": "4 固体",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-030",
+        "RJ-PHYSICS-SEL3-031",
+        "RJ-PHYSICS-SEL3-032",
+        "RJ-PHYSICS-SEL3-033"
+      ]
+    },
+    {
+      "node_id": "eb34154e-edc8-3da3-973f-d7ad2b141618",
+      "node_path": "57c8b29e-d89b-39c1-9727-98fc7123dd6b/eb34154e-edc8-3da3-973f-d7ad2b141618",
+      "page_number": 41,
+      "pdf_visual_label": "5 液体",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-034",
+        "RJ-PHYSICS-SEL3-035",
+        "RJ-PHYSICS-SEL3-036",
+        "RJ-PHYSICS-SEL3-037",
+        "RJ-PHYSICS-SEL3-038"
+      ]
+    },
+    {
+      "node_id": "ce9f82cc-db21-3981-b45f-a127211fc6a6",
+      "node_path": "ce9f82cc-db21-3981-b45f-a127211fc6a6",
+      "page_number": 50,
+      "pdf_visual_label": "第三章 热力学定律",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": []
+    },
+    {
+      "node_id": "7899d625-d483-329d-8141-f9d77c664470",
+      "node_path": "ce9f82cc-db21-3981-b45f-a127211fc6a6/7899d625-d483-329d-8141-f9d77c664470",
+      "page_number": 51,
+      "pdf_visual_label": "1 功、热和内能的改变",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-039",
+        "RJ-PHYSICS-SEL3-040",
+        "RJ-PHYSICS-SEL3-041"
+      ]
+    },
+    {
+      "node_id": "8ed5cd65-8312-3fc9-9e16-2912b65ccf5a",
+      "node_path": "ce9f82cc-db21-3981-b45f-a127211fc6a6/8ed5cd65-8312-3fc9-9e16-2912b65ccf5a",
+      "page_number": 55,
+      "pdf_visual_label": "2 热力学第一定律",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-042",
+        "RJ-PHYSICS-SEL3-043",
+        "RJ-PHYSICS-SEL3-044"
+      ]
+    },
+    {
+      "node_id": "1e07b8b9-1b20-323a-b093-eb2fb255607a",
+      "node_path": "ce9f82cc-db21-3981-b45f-a127211fc6a6/1e07b8b9-1b20-323a-b093-eb2fb255607a",
+      "page_number": 59,
+      "pdf_visual_label": "3 能量守恒定律",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-045",
+        "RJ-PHYSICS-SEL3-046",
+        "RJ-PHYSICS-SEL3-047",
+        "RJ-PHYSICS-SEL3-048"
+      ]
+    },
+    {
+      "node_id": "19111565-0c26-322e-8493-5c130269cc04",
+      "node_path": "ce9f82cc-db21-3981-b45f-a127211fc6a6/19111565-0c26-322e-8493-5c130269cc04",
+      "page_number": 64,
+      "pdf_visual_label": "4 热力学第二定律",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-049",
+        "RJ-PHYSICS-SEL3-050",
+        "RJ-PHYSICS-SEL3-051",
+        "RJ-PHYSICS-SEL3-052"
+      ]
+    },
+    {
+      "node_id": "b7e79925-2df1-3c74-aff7-aa165285a581",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581",
+      "page_number": 71,
+      "pdf_visual_label": "第四章 原子结构和波粒二象性",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": []
+    },
+    {
+      "node_id": "fc83be8f-a783-3022-8790-152853a16f37",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581/fc83be8f-a783-3022-8790-152853a16f37",
+      "page_number": 72,
+      "pdf_visual_label": "1 普朗克黑体辐射理论",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-053",
+        "RJ-PHYSICS-SEL3-054",
+        "RJ-PHYSICS-SEL3-055"
+      ]
+    },
+    {
+      "node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581/cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
+      "page_number": 76,
+      "pdf_visual_label": "2 光电效应",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-056",
+        "RJ-PHYSICS-SEL3-057",
+        "RJ-PHYSICS-SEL3-058",
+        "RJ-PHYSICS-SEL3-059",
+        "RJ-PHYSICS-SEL3-060",
+        "RJ-PHYSICS-SEL3-061"
+      ]
+    },
+    {
+      "node_id": "b6245e4e-6bfe-32b2-9080-8751d185dd3e",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581/b6245e4e-6bfe-32b2-9080-8751d185dd3e",
+      "page_number": 83,
+      "pdf_visual_label": "3 原子的核式结构模型",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-062",
+        "RJ-PHYSICS-SEL3-063",
+        "RJ-PHYSICS-SEL3-064"
+      ]
+    },
+    {
+      "node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581/f8018a26-6c40-3508-8f2d-e03017094393",
+      "page_number": 89,
+      "pdf_visual_label": "4 氢原子光谱和玻尔的原子模型",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-065",
+        "RJ-PHYSICS-SEL3-066",
+        "RJ-PHYSICS-SEL3-067",
+        "RJ-PHYSICS-SEL3-068",
+        "RJ-PHYSICS-SEL3-069",
+        "RJ-PHYSICS-SEL3-070",
+        "RJ-PHYSICS-SEL3-071"
+      ]
+    },
+    {
+      "node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
+      "node_path": "b7e79925-2df1-3c74-aff7-aa165285a581/2937469c-5199-3f7e-a459-b1d1138386a9",
+      "page_number": 97,
+      "pdf_visual_label": "5 粒子的波动性和量子力学的建立",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-072",
+        "RJ-PHYSICS-SEL3-073",
+        "RJ-PHYSICS-SEL3-074",
+        "RJ-PHYSICS-SEL3-075"
+      ]
+    },
+    {
+      "node_id": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b",
+      "page_number": 105,
+      "pdf_visual_label": "第五章 原子核",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-076"
+      ]
+    },
+    {
+      "node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b/4db4bb0c-4258-3982-b9d0-75c0366519b2",
+      "page_number": 106,
+      "pdf_visual_label": "1 原子核的组成",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-077",
+        "RJ-PHYSICS-SEL3-078",
+        "RJ-PHYSICS-SEL3-079",
+        "RJ-PHYSICS-SEL3-080",
+        "RJ-PHYSICS-SEL3-081",
+        "RJ-PHYSICS-SEL3-082",
+        "RJ-PHYSICS-SEL3-083"
+      ]
+    },
+    {
+      "node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b/a4981866-c075-38d1-b7f2-dd61e9ef54d5",
+      "page_number": 113,
+      "pdf_visual_label": "2 放射性元素的衰变",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-084",
+        "RJ-PHYSICS-SEL3-085",
+        "RJ-PHYSICS-SEL3-086",
+        "RJ-PHYSICS-SEL3-087",
+        "RJ-PHYSICS-SEL3-088",
+        "RJ-PHYSICS-SEL3-089",
+        "RJ-PHYSICS-SEL3-090"
+      ]
+    },
+    {
+      "node_id": "57fce4ba-e602-328c-b541-7b7663bc930c",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b/57fce4ba-e602-328c-b541-7b7663bc930c",
+      "page_number": 120,
+      "pdf_visual_label": "3 核力与结合能",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-091",
+        "RJ-PHYSICS-SEL3-092",
+        "RJ-PHYSICS-SEL3-093"
+      ]
+    },
+    {
+      "node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b/0266b8b1-b654-3a68-8e7d-a9165682b41d",
+      "page_number": 124,
+      "pdf_visual_label": "4 核裂变与核聚变",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-094",
+        "RJ-PHYSICS-SEL3-095",
+        "RJ-PHYSICS-SEL3-096",
+        "RJ-PHYSICS-SEL3-097",
+        "RJ-PHYSICS-SEL3-098"
+      ]
+    },
+    {
+      "node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
+      "node_path": "49848abd-ae58-3cfe-9b1e-d9ab9f399b7b/6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
+      "page_number": 131,
+      "pdf_visual_label": "5 “基本”粒子",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": [
+        "RJ-PHYSICS-SEL3-099",
+        "RJ-PHYSICS-SEL3-100",
+        "RJ-PHYSICS-SEL3-101",
+        "RJ-PHYSICS-SEL3-102",
+        "RJ-PHYSICS-SEL3-103",
+        "RJ-PHYSICS-SEL3-104",
+        "RJ-PHYSICS-SEL3-105",
+        "RJ-PHYSICS-SEL3-106",
+        "RJ-PHYSICS-SEL3-107",
+        "RJ-PHYSICS-SEL3-108",
+        "RJ-PHYSICS-SEL3-109"
+      ]
+    },
+    {
+      "node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
+      "node_path": "54f20575-fff0-3d14-a56f-c372d65448d3",
+      "page_number": 137,
+      "pdf_visual_label": "课题研究",
+      "label_source": "PDF P4目录及正文标题视觉核对",
+      "platform_evidence": "官方ebook_mapping的节点路径、顺序和起始物理页；映射响应不含名称",
+      "records": []
+    }
+  ]
+}

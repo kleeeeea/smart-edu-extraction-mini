@@ -1,0 +1,34 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中物理pdf/04_高中_物理_人教版_高中年级_选择性必修_第二册_普通高中教科书·物理选择性必修_第二册_2ee7d7fa-1920-4d37-a179-91d5fd59b8c1.pdf",
+  "sha256": "e134c14fbfe6d4242a6dcb8677d43bd889fe6a6d48b3dc7358ed911f86033bed",
+  "pdf_pages": 122,
+  "local_bytes": 12047352,
+  "title": "普通高中教科书·物理选择性必修 第二册",
+  "stage": "高中",
+  "publisher": "人民教育出版社",
+  "subject": "物理",
+  "volume": "选择性必修第二册",
+  "resource_id": "2ee7d7fa-1920-4d37-a179-91d5fd59b8c1",
+  "curriculum_standard": "普通高中物理课程标准（2017年版）",
+  "approval": "教育部审定2019",
+  "edition_print_year_status": "未从本地版权信息确认具体版次与印次，不由审定年份推定",
+  "isbn": "978-7-107-34592-0",
+  "website_pdf_bytes": 12047352,
+  "website_pdf_pages": 122,
+  "website_resource_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/2ee7d7fa-1920-4d37-a179-91d5fd59b8c1.json",
+  "website_mapping_url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/2ee7d7fa-1920-4d37-a179-91d5fd59b8c1.pkg/ebook_mapping_1753321032529.txt",
+  "identity_basis": [
+    "指定本地文件与平台资源UUID一致",
+    "同名同册、122页及12,047,352字节一致",
+    "本地封面审定标识、目录5章19节及平台节点页序逐项匹配"
+  ],
+  "policy_reference": "https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md",
+  "policy_used": "本地skills/smartedu-math/references/extraction-policy.md与用户本次物理抽取要求",
+  "image_render": {
+    "tool": "PyMuPDF",
+    "matrix": 1.7,
+    "numbering": "physical_pdf_page",
+    "full_pages": 122
+  },
+  "created_date": "2026-10-20"
+}

@@ -1,0 +1,1441 @@
+[
+  {
+    "pdf_page": 1,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-001.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "封面；用于教材身份"
+  },
+  {
+    "pdf_page": 2,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-002.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "扉页；用于教材身份"
+  },
+  {
+    "pdf_page": 3,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-003.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "版权页；用于教材身份"
+  },
+  {
+    "pdf_page": 4,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-004.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "目录；用于层级对齐"
+  },
+  {
+    "pdf_page": 5,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-005.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "空白页"
+  },
+  {
+    "pdf_page": 6,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-006.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-001"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 7,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-007.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-002",
+      "RJ-PHYSICS-SEL3-003"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 8,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-008.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-002",
+      "RJ-PHYSICS-SEL3-004",
+      "RJ-PHYSICS-SEL3-005"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 9,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-009.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-005",
+      "RJ-PHYSICS-SEL3-006"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 10,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-010.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-007"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 11,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-011.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-008"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 12,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-012.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-009"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 13,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-013.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-009"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 14,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-014.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-009"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 15,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-015.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-010",
+      "RJ-PHYSICS-SEL3-011"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 16,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-016.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-011",
+      "RJ-PHYSICS-SEL3-012"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 17,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-017.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-013"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 18,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-018.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-013"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 19,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-019.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-014",
+      "RJ-PHYSICS-SEL3-015"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 20,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-020.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-015",
+      "RJ-PHYSICS-SEL3-016"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 21,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-021.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-016"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 22,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-022.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 23,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-023.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "章引言：重复概述及历史评价"
+  },
+  {
+    "pdf_page": 24,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-024.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-017"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 25,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-025.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-017",
+      "RJ-PHYSICS-SEL3-018"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 26,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-026.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-019",
+      "RJ-PHYSICS-SEL3-020"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 27,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-027.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-020"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 28,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-028.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-021"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 29,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-029.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-021",
+      "RJ-PHYSICS-SEL3-022"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 30,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-030.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-023"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 31,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-031.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-024",
+      "RJ-PHYSICS-SEL3-025"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 32,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-032.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-025"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 33,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-033.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-025",
+      "RJ-PHYSICS-SEL3-026"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 34,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-034.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-026",
+      "RJ-PHYSICS-SEL3-027",
+      "RJ-PHYSICS-SEL3-028"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 35,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-035.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-029"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 36,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-036.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-030"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 37,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-037.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-030"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 38,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-038.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-031",
+      "RJ-PHYSICS-SEL3-032"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 39,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-039.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-032",
+      "RJ-PHYSICS-SEL3-033"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 40,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-040.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "历史评价与未解练习"
+  },
+  {
+    "pdf_page": 41,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-041.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-034"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 42,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-042.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-034",
+      "RJ-PHYSICS-SEL3-035"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 43,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-043.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-035",
+      "RJ-PHYSICS-SEL3-036"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 44,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-044.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-036",
+      "RJ-PHYSICS-SEL3-037"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 45,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-045.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-037",
+      "RJ-PHYSICS-SEL3-038"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 46,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-046.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-038"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 47,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-047.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 48,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-048.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 49,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-049.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 50,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-050.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "章引言：历史概述与评价"
+  },
+  {
+    "pdf_page": 51,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-051.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-039",
+      "RJ-PHYSICS-SEL3-040"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 52,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-052.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-039"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 53,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-053.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-039",
+      "RJ-PHYSICS-SEL3-040"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 54,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-054.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-040",
+      "RJ-PHYSICS-SEL3-041"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 55,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-055.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-042"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 56,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-056.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-043"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 57,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-057.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-043",
+      "RJ-PHYSICS-SEL3-044"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 58,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-058.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-044"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 59,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-059.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-045"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 60,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-060.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-046"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 61,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-061.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-047"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 62,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-062.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-048"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 63,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-063.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "历史评价、人物引语及未解练习"
+  },
+  {
+    "pdf_page": 64,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-064.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-049"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 65,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-065.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-049",
+      "RJ-PHYSICS-SEL3-050"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 66,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-066.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-050",
+      "RJ-PHYSICS-SEL3-051"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 67,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-067.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-051",
+      "RJ-PHYSICS-SEL3-052"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 68,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-068.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-052"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 69,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-069.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 70,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-070.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 71,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-071.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "章引言：科学发展评价与概要"
+  },
+  {
+    "pdf_page": 72,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-072.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-053"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 73,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-073.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-054"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 74,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-074.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-054",
+      "RJ-PHYSICS-SEL3-055"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 75,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-075.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "人物传记、评价及未解练习"
+  },
+  {
+    "pdf_page": 76,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-076.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-056"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 77,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-077.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-056"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 78,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-078.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-056",
+      "RJ-PHYSICS-SEL3-057"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 79,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-079.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-058"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 80,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-080.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-058",
+      "RJ-PHYSICS-SEL3-059"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 81,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-081.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-060"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 82,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-082.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-061"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 83,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-083.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-062"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 84,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-084.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-062"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 85,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-085.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-062",
+      "RJ-PHYSICS-SEL3-063"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 86,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-086.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-063"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 87,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-087.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-063",
+      "RJ-PHYSICS-SEL3-064"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 88,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-088.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-064"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 89,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-089.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-065"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 90,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-090.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-065",
+      "RJ-PHYSICS-SEL3-066",
+      "RJ-PHYSICS-SEL3-067"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 91,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-091.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-067",
+      "RJ-PHYSICS-SEL3-068"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 92,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-092.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-068",
+      "RJ-PHYSICS-SEL3-069"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 93,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-093.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-069"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 94,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-094.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-069",
+      "RJ-PHYSICS-SEL3-070"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 95,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-095.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-071"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 96,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-096.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-071"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 97,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-097.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-072",
+      "RJ-PHYSICS-SEL3-073"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 98,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-098.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-073"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 99,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-099.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-074"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 100,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-100.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-074",
+      "RJ-PHYSICS-SEL3-075"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 101,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-101.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-075"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 102,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-102.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "索尔维会议史与未解练习"
+  },
+  {
+    "pdf_page": 103,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-103.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 104,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-104.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 105,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-105.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-076"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 106,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-106.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-077"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 107,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-107.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-078"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 108,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-108.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-078",
+      "RJ-PHYSICS-SEL3-079",
+      "RJ-PHYSICS-SEL3-080"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 109,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-109.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-080"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 110,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-110.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-080",
+      "RJ-PHYSICS-SEL3-081"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 111,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-111.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-082",
+      "RJ-PHYSICS-SEL3-083"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 112,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-112.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "练习与应用：未解题"
+  },
+  {
+    "pdf_page": 113,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-113.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-084"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 114,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-114.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-084"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 115,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-115.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-084",
+      "RJ-PHYSICS-SEL3-085"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 116,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-116.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-085",
+      "RJ-PHYSICS-SEL3-086"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 117,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-117.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-086",
+      "RJ-PHYSICS-SEL3-087"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 118,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-118.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-088",
+      "RJ-PHYSICS-SEL3-089"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 119,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-119.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-090"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 120,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-120.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-091"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 121,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-121.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-091",
+      "RJ-PHYSICS-SEL3-092"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 122,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-122.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-092",
+      "RJ-PHYSICS-SEL3-093"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 123,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-123.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-093"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 124,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-124.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-094"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 125,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-125.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-094"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 126,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-126.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-094",
+      "RJ-PHYSICS-SEL3-095",
+      "RJ-PHYSICS-SEL3-096"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 127,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-127.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-096"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 128,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-128.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-096",
+      "RJ-PHYSICS-SEL3-097"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 129,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-129.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-097",
+      "RJ-PHYSICS-SEL3-098"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 130,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-130.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-098"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 131,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-131.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-099"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 132,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-132.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-100",
+      "RJ-PHYSICS-SEL3-101"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 133,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-133.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-102",
+      "RJ-PHYSICS-SEL3-103",
+      "RJ-PHYSICS-SEL3-104"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 134,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-134.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-104"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 135,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-135.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-105",
+      "RJ-PHYSICS-SEL3-106",
+      "RJ-PHYSICS-SEL3-107",
+      "RJ-PHYSICS-SEL3-108",
+      "RJ-PHYSICS-SEL3-109"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 136,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-136.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "复习与提高：未解题"
+  },
+  {
+    "pdf_page": 137,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-137.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-110"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 138,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-138.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-110"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 139,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-139.png",
+    "status": "retained_content_and_original_figures",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-110"
+    ],
+    "notes": "已保留有效正文、实验、图示；历史评价、栏目任务和重复概述不另录"
+  },
+  {
+    "pdf_page": 140,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-140.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "参考选题：研究任务，无已给实验数据或结论"
+  },
+  {
+    "pdf_page": 141,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-141.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "索引；作覆盖复查，不重复抽取"
+  },
+  {
+    "pdf_page": 142,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-142.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "后记；用于课程标准与教材身份"
+  },
+  {
+    "pdf_page": 143,
+    "visual_inspection": "已查看整页渲染（双页并排）并针对公式、表格、侧栏及跨页转录复查",
+    "image": "images/physics-pep-selective-3/page-143.png",
+    "status": "excluded_or_identity_only",
+    "retained_ids": [],
+    "notes": "封底；用于ISBN确认"
+  }
+]

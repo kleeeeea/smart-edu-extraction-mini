@@ -1,0 +1,495 @@
+[
+  {
+    "pdf_page": 1,
+    "excluded": "封面；用于教材身份",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-001.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 2,
+    "excluded": "扉页；用于教材身份",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-002.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 3,
+    "excluded": "版权页；用于教材身份",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-003.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 4,
+    "excluded": "目录；用于层级对齐",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-004.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 5,
+    "excluded": "空白页",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-005.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 11,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-008"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-011.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 14,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-009"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-014.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 18,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-013"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-018.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 21,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-016"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-021.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 22,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-022.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 23,
+    "excluded": "章引言：重复概述及历史评价",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-023.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 27,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-020"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-027.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 30,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-023"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-030.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 35,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-029"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-035.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 37,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-030"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-037.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 40,
+    "excluded": "历史评价与未解练习",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-040.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 42,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-034",
+      "RJ-PHYSICS-SEL3-035"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-042.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 46,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-038"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-046.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 47,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-047.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 48,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-048.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 49,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-049.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 50,
+    "excluded": "章引言：历史概述与评价",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-050.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 54,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-040",
+      "RJ-PHYSICS-SEL3-041"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-054.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 56,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-043"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-056.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 58,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-044"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-058.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 62,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-048"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-062.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 63,
+    "excluded": "历史评价、人物引语及未解练习",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-063.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 65,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-049",
+      "RJ-PHYSICS-SEL3-050"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-065.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 66,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-050",
+      "RJ-PHYSICS-SEL3-051"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-066.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 68,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-052"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-068.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 69,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-069.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 70,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-070.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 71,
+    "excluded": "章引言：科学发展评价与概要",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-071.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 75,
+    "excluded": "人物传记、评价及未解练习",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-075.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 78,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-056",
+      "RJ-PHYSICS-SEL3-057"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-078.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 80,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-058",
+      "RJ-PHYSICS-SEL3-059"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-080.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 82,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-061"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-082.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 85,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-062",
+      "RJ-PHYSICS-SEL3-063"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-085.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 86,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-063"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-086.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 88,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-064"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-088.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 96,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-071"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-096.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 102,
+    "excluded": "索尔维会议史与未解练习",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-102.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 103,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-103.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 104,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-104.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 109,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-080"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-109.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 112,
+    "excluded": "练习与应用：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-112.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 114,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-084"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-114.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 115,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-084",
+      "RJ-PHYSICS-SEL3-085"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-115.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 119,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-090"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-119.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 121,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-091",
+      "RJ-PHYSICS-SEL3-092"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-121.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 123,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-093"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-123.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 128,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-096",
+      "RJ-PHYSICS-SEL3-097"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-128.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 130,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-098"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-130.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 135,
+    "excluded": "未解练习、思考中的纯任务部分及历史评价片段",
+    "retained_ids": [
+      "RJ-PHYSICS-SEL3-105",
+      "RJ-PHYSICS-SEL3-106",
+      "RJ-PHYSICS-SEL3-107",
+      "RJ-PHYSICS-SEL3-108",
+      "RJ-PHYSICS-SEL3-109"
+    ],
+    "restore_from": "images/physics-pep-selective-3/page-135.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 136,
+    "excluded": "复习与提高：未解题",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-136.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 140,
+    "excluded": "参考选题：研究任务，无已给实验数据或结论",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-140.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 141,
+    "excluded": "索引；作覆盖复查，不重复抽取",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-141.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 142,
+    "excluded": "后记；用于课程标准与教材身份",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-142.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  },
+  {
+    "pdf_page": 143,
+    "excluded": "封底；用于ISBN确认",
+    "retained_ids": [],
+    "restore_from": "images/physics-pep-selective-3/page-143.png",
+    "policy": "不补解未给结果；包含新概念、方法、实验及必要对比的片段保留"
+  }
+]

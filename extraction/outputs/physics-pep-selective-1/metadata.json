@@ -1,0 +1,39 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中物理pdf/06_高中_物理_人教版_高中年级_选择性必修_第一册_普通高中教科书·物理选择性必修_第一册_346c3c04-1663-472c-849e-ff876dcf293f.pdf",
+  "sha256": "4e9e5e29e6420035e008e2b0494c9d6ee2c64600c6d861f96bc63ec139aae79a",
+  "pdf_pages": 130,
+  "bytes": 11644106,
+  "book_id": "physics-pep-selective-1",
+  "title": "普通高中教科书·物理选择性必修 第一册",
+  "publisher": "人民教育出版社",
+  "education_stage": "高中",
+  "subject": "物理",
+  "volume": "选择性必修 第一册",
+  "curriculum_basis": "普通高中物理课程标准（2017年版），本地PDF物理P128后记明示",
+  "approval": "2019年国家教材委员会专家委员会审核通过，本地PDF物理P128明示",
+  "edition_date": "版权页未列明年月版次，不推断",
+  "isbn": "978-7-107-34591-3",
+  "smartedu_resource_id": "346c3c04-1663-472c-849e-ff876dcf293f",
+  "smartedu_updated_at": "2026-08-18T12:28:38.698+0800",
+  "website_pdf_bytes": 11644106,
+  "identity_evidence": [
+    "文件名资源ID与同版网站资源ID一致",
+    "网站教材名称、学段、学科、出版社及册次一致",
+    "本地PDF与网站PDF元数据均130页、11644106字节",
+    "网站目录预览图与本地P4逐项视觉一致",
+    "网站映射4章23节及课题研究共28个节点的父子层级和页序与本地一致"
+  ],
+  "remote_pdf_sha256_verification": "未下载远程整本PDF进行字节哈希比较；本地SHA-256单独保存，不将字节数相同当作哈希相同。",
+  "policy_reference": {
+    "local_skill": "skills/smartedu-math/SKILL.md",
+    "local_policy": "skills/smartedu-math/references/extraction-policy.md",
+    "requested_url": "https://github.com/yyyrrrr7/smartedu_math/blob/main/skills/smartedu-math/references/extraction-policy.md",
+    "user_override": "按本次用户要求应用于物理；教材自行识别知识点、保留实验、完整detail及可分离example。"
+  },
+  "extraction_date": "2026-10-20",
+  "records": 83,
+  "chapters": 4,
+  "sections": 23,
+  "page_images": 130,
+  "supplementary_example_fields": 8
+}

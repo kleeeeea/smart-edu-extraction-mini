@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "record_count": 110,
+  "chapter_counts": {
+    "第一章 分子动理论": 16,
+    "第二章 气体、固体和液体": 22,
+    "第三章 热力学定律": 14,
+    "第四章 原子结构和波粒二象性": 23,
+    "第五章 原子核": 34,
+    "课题研究": 1
+  },
+  "covered_sections": 23,
+  "research_sample_records": 1,
+  "rendered_and_visually_inspected_pdf_pages": 143,
+  "source_images": 143,
+  "image_references": 180,
+  "checks": [
+    "UTF-8 BOM与8字段顺序",
+    "连续且唯一ID",
+    "非空名称与detail",
+    "23节及课题研究覆盖",
+    "官方目录节点路径和起始页顺序",
+    "物理页号与记录源页",
+    "图片存在、独立行、同字段不重复",
+    "数学标记配对、花括号配对、无控制字符",
+    "源PDF SHA-256未改变"
+  ],
+  "content_review": "逐页渲染检查与两轮转录修订；公式、单位、表格、实验器材步骤现象结论、侧栏及跨页合并人工核对。结构断言不替代视觉检查。",
+  "limitations": [
+    "官方ebook_mapping未提供目录名称；名称依据同一PDF可视目录与正文，平台节点层级/顺序/页码已对齐",
+    "复杂图示、能级图、温度量级图及粒子标准模型图保留完整原页；未重绘或推导图中未给结论"
+  ],
+  "source_pdf_sha256": "f8c2e78365349f773f03185b70790c3088225de6c7469e5078c4049a12cfab9e"
+}
