@@ -1,0 +1,1083 @@
+{
+  "basis": "本轮154条候选顺序至最终153条；此前交付的001—047号保持不变。",
+  "mapping": [
+    {
+      "old_id": "RJ-CHEMISTRY-9A-001",
+      "old_name": "化学的研究内容与特征",
+      "new_id": "RJ-CHEMISTRY-9A-001",
+      "new_name": "化学的研究内容与特征",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-002",
+      "old_name": "科学探究与实验",
+      "new_id": "RJ-CHEMISTRY-9A-002",
+      "new_name": "科学探究与实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-003",
+      "old_name": "化学实验安全图标与操作要求",
+      "new_id": "RJ-CHEMISTRY-9A-003",
+      "new_name": "化学实验安全图标与操作要求",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-004",
+      "old_name": "物质变化的实验与化学变化、物理变化",
+      "new_id": "RJ-CHEMISTRY-9A-004",
+      "new_name": "物质变化的实验与化学变化、物理变化",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-005",
+      "old_name": "试剂溅入眼睛的处理及腐蚀性试剂注意事项",
+      "new_id": "RJ-CHEMISTRY-9A-005",
+      "new_name": "试剂溅入眼睛的处理及腐蚀性试剂注意事项",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-006",
+      "old_name": "实验现象的观察与描述",
+      "new_id": "RJ-CHEMISTRY-9A-006",
+      "new_name": "实验现象的观察与描述",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-007",
+      "old_name": "化学性质、物理性质及描述条件",
+      "new_id": "RJ-CHEMISTRY-9A-007",
+      "new_name": "化学性质、物理性质及描述条件",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-008",
+      "old_name": "氧气和二氧化碳的观察实验",
+      "new_id": "RJ-CHEMISTRY-9A-008",
+      "new_name": "氧气和二氧化碳的观察实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-009",
+      "old_name": "物质的性质决定用途",
+      "new_id": "RJ-CHEMISTRY-9A-009",
+      "new_name": "物质的性质决定用途",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-010",
+      "old_name": "化学以实验为基础",
+      "new_id": "RJ-CHEMISTRY-9A-010",
+      "new_name": "化学以实验为基础",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-011",
+      "old_name": "化学实验室的规则、布局与常用仪器",
+      "new_id": "RJ-CHEMISTRY-9A-011",
+      "new_name": "化学实验室的规则、布局与常用仪器",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-012",
+      "old_name": "化学试剂取用规则",
+      "new_id": "RJ-CHEMISTRY-9A-012",
+      "new_name": "化学试剂取用规则",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-013",
+      "old_name": "固体试剂的取用",
+      "new_id": "RJ-CHEMISTRY-9A-013",
+      "new_name": "固体试剂的取用",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-014",
+      "old_name": "液体试剂的倾倒",
+      "new_id": "RJ-CHEMISTRY-9A-014",
+      "new_name": "液体试剂的倾倒",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-015",
+      "old_name": "量筒量取液体与胶头滴管的使用",
+      "new_id": "RJ-CHEMISTRY-9A-015",
+      "new_name": "量筒量取液体与胶头滴管的使用",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-016",
+      "old_name": "液体试剂的取用实验",
+      "new_id": "RJ-CHEMISTRY-9A-016",
+      "new_name": "液体试剂的取用实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-017",
+      "old_name": "酒精灯的使用",
+      "new_id": "RJ-CHEMISTRY-9A-017",
+      "new_name": "酒精灯的使用",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-018",
+      "old_name": "用酒精灯加热试管中的液体",
+      "new_id": "RJ-CHEMISTRY-9A-018",
+      "new_name": "用酒精灯加热试管中的液体",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-019",
+      "old_name": "加热反应生成物的实验",
+      "new_id": "RJ-CHEMISTRY-9A-019",
+      "new_name": "加热反应生成物的实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-020",
+      "old_name": "仪器装置的连接与气密性检查",
+      "new_id": "RJ-CHEMISTRY-9A-020",
+      "new_name": "仪器装置的连接与气密性检查",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-021",
+      "old_name": "玻璃仪器的洗涤与实验结束整理",
+      "new_id": "RJ-CHEMISTRY-9A-021",
+      "new_name": "玻璃仪器的洗涤与实验结束整理",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-022",
+      "old_name": "观察与描述蜡烛及其燃烧",
+      "new_id": "RJ-CHEMISTRY-9A-022",
+      "new_name": "观察与描述蜡烛及其燃烧",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-023",
+      "old_name": "科学探究的证据、观察与推理",
+      "new_id": "RJ-CHEMISTRY-9A-023",
+      "new_name": "科学探究的证据、观察与推理",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-024",
+      "old_name": "空气组成的实验研究",
+      "new_id": "RJ-CHEMISTRY-9A-024",
+      "new_name": "空气组成的实验研究",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-025",
+      "old_name": "空气各成分的体积含量",
+      "new_id": "RJ-CHEMISTRY-9A-025",
+      "new_name": "空气各成分的体积含量",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-026",
+      "old_name": "探究空气中氧气含量",
+      "new_id": "RJ-CHEMISTRY-9A-026",
+      "new_name": "探究空气中氧气含量",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-027",
+      "old_name": "混合物与纯净物",
+      "new_id": "RJ-CHEMISTRY-9A-027",
+      "new_name": "混合物与纯净物",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-028",
+      "old_name": "测定空气中氧气含量的数字化实验",
+      "new_id": "RJ-CHEMISTRY-9A-028",
+      "new_name": "测定空气中氧气含量的数字化实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-029",
+      "old_name": "氧气的用途",
+      "new_id": "RJ-CHEMISTRY-9A-029",
+      "new_name": "氧气的用途",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-030",
+      "old_name": "氮气的性质和用途",
+      "new_id": "RJ-CHEMISTRY-9A-030",
+      "new_name": "氮气的性质和用途",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-031",
+      "old_name": "稀有气体的性质和用途",
+      "new_id": "RJ-CHEMISTRY-9A-031",
+      "new_name": "稀有气体的性质和用途",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-032",
+      "old_name": "利用氩氦刀治疗肿瘤",
+      "new_id": "RJ-CHEMISTRY-9A-032",
+      "new_name": "利用氩氦刀治疗肿瘤",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-033",
+      "old_name": "空气污染危害和大气保护",
+      "new_id": "RJ-CHEMISTRY-9A-033",
+      "new_name": "空气污染危害和大气保护",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-034",
+      "old_name": "空气质量指数及分级",
+      "new_id": "RJ-CHEMISTRY-9A-034",
+      "new_name": "空气质量指数及分级",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-035",
+      "old_name": "氧气的物理性质",
+      "new_id": "RJ-CHEMISTRY-9A-035",
+      "new_name": "氧气的物理性质",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-036",
+      "old_name": "氧气支持燃烧与带火星木条检验",
+      "new_id": "RJ-CHEMISTRY-9A-036",
+      "new_name": "氧气支持燃烧与带火星木条检验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-037",
+      "old_name": "木炭在空气和氧气中燃烧",
+      "new_id": "RJ-CHEMISTRY-9A-037",
+      "new_name": "木炭在空气和氧气中燃烧",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-038",
+      "old_name": "硫在空气和氧气中燃烧",
+      "new_id": "RJ-CHEMISTRY-9A-038",
+      "new_name": "硫在空气和氧气中燃烧",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-039",
+      "old_name": "铁丝在空气中加热与在氧气中燃烧",
+      "new_id": "RJ-CHEMISTRY-9A-039",
+      "new_name": "铁丝在空气中加热与在氧气中燃烧",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-040",
+      "old_name": "化合反应、氧化反应与缓慢氧化",
+      "new_id": "RJ-CHEMISTRY-9A-040",
+      "new_name": "化合反应、氧化反应与缓慢氧化",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-041",
+      "old_name": "高锰酸钾分解制取氧气",
+      "new_id": "RJ-CHEMISTRY-9A-041",
+      "new_name": "高锰酸钾分解制取氧气",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-042",
+      "old_name": "工业分离空气制取氧气",
+      "new_id": "RJ-CHEMISTRY-9A-042",
+      "new_name": "工业分离空气制取氧气",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-043",
+      "old_name": "过氧化氢分解探究与催化剂",
+      "new_id": "RJ-CHEMISTRY-9A-043",
+      "new_name": "过氧化氢分解探究与催化剂",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-044",
+      "old_name": "分解反应与分类方法",
+      "new_id": "RJ-CHEMISTRY-9A-044",
+      "new_name": "分解反应与分类方法",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-045",
+      "old_name": "实验探究的一般思路",
+      "new_id": "RJ-CHEMISTRY-9A-045",
+      "new_name": "实验探究的一般思路",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-046",
+      "old_name": "合成氨与石油炼制中的催化剂",
+      "new_id": "RJ-CHEMISTRY-9A-046",
+      "new_name": "合成氨与石油炼制中的催化剂",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-047",
+      "old_name": "氧气的实验室制取与性质综合实验",
+      "new_id": "RJ-CHEMISTRY-9A-047",
+      "new_name": "氧气的实验室制取与性质综合实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-048",
+      "old_name": "品红扩散实验与物质的微观构成",
+      "new_id": "RJ-CHEMISTRY-9A-048",
+      "new_name": "品红扩散实验与物质的微观构成",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-049",
+      "old_name": "分子的质量、体积与不断运动",
+      "new_id": "RJ-CHEMISTRY-9A-049",
+      "new_name": "分子的质量、体积与不断运动",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-050",
+      "old_name": "分子运动现象的探究",
+      "new_id": "RJ-CHEMISTRY-9A-050",
+      "new_name": "分子运动现象的探究",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-051",
+      "old_name": "分子间的间隔及其变化",
+      "new_id": "RJ-CHEMISTRY-9A-051",
+      "new_name": "分子间的间隔及其变化",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-052",
+      "old_name": "物理变化、化学变化中的分子与分子的定义",
+      "new_id": "RJ-CHEMISTRY-9A-052",
+      "new_name": "物理变化、化学变化中的分子与分子的定义",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-053",
+      "old_name": "分子由原子构成",
+      "new_id": "RJ-CHEMISTRY-9A-053",
+      "new_name": "分子由原子构成",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-054",
+      "old_name": "化学变化中的原子与原子的定义",
+      "new_id": "RJ-CHEMISTRY-9A-054",
+      "new_name": "化学变化中的原子与原子的定义",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-055",
+      "old_name": "分子探针及其应用",
+      "new_id": "RJ-CHEMISTRY-9A-055",
+      "new_name": "分子探针及其应用",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-056",
+      "old_name": "定比定律",
+      "new_id": "RJ-CHEMISTRY-9A-056",
+      "new_name": "定比定律",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-057",
+      "old_name": "酸碱当量定律",
+      "new_id": "RJ-CHEMISTRY-9A-057",
+      "new_name": "酸碱当量定律",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-058",
+      "old_name": "倍比定律及碳氧化合物的质量比",
+      "new_id": "RJ-CHEMISTRY-9A-058",
+      "new_name": "倍比定律及碳氧化合物的质量比",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-059",
+      "old_name": "原子的构成、电荷关系与粒子数",
+      "new_id": "RJ-CHEMISTRY-9A-059",
+      "new_name": "原子的构成、电荷关系与粒子数",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-060",
+      "old_name": "核外电子的分层排布与原子结构示意图",
+      "new_id": "RJ-CHEMISTRY-9A-060",
+      "new_name": "核外电子的分层排布与原子结构示意图",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-061",
+      "old_name": "最外层电子与化学性质",
+      "new_id": "RJ-CHEMISTRY-9A-061",
+      "new_name": "最外层电子与化学性质",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-062",
+      "old_name": "钠与氯气反应、离子的形成和分类",
+      "new_id": "RJ-CHEMISTRY-9A-062",
+      "new_name": "钠与氯气反应、离子的形成和分类",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-063",
+      "old_name": "相对原子质量与构成原子的粒子质量",
+      "new_id": "RJ-CHEMISTRY-9A-063",
+      "new_name": "相对原子质量与构成原子的粒子质量",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-064",
+      "old_name": "认识物质及其变化的模型方法",
+      "new_id": "RJ-CHEMISTRY-9A-064",
+      "new_name": "认识物质及其变化的模型方法",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-065",
+      "old_name": "原子模型的具体结构及演变",
+      "new_id": "RJ-CHEMISTRY-9A-065",
+      "new_name": "原子模型的具体结构及演变",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-066",
+      "old_name": "元素的定义及物质的元素组成",
+      "new_id": "RJ-CHEMISTRY-9A-066",
+      "new_name": "元素的定义及物质的元素组成",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-067",
+      "old_name": "地壳中的元素含量",
+      "new_id": "RJ-CHEMISTRY-9A-067",
+      "new_name": "地壳中的元素含量",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-068",
+      "old_name": "元素组成、粒子构成及化学变化中元素不变",
+      "new_id": "RJ-CHEMISTRY-9A-068",
+      "new_name": "元素组成、粒子构成及化学变化中元素不变",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-069",
+      "old_name": "元素符号的书写及含义",
+      "new_id": "RJ-CHEMISTRY-9A-069",
+      "new_name": "元素符号的书写及含义",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-070",
+      "old_name": "一些常见元素的名称、符号与相对原子质量",
+      "new_id": "RJ-CHEMISTRY-9A-070",
+      "new_name": "一些常见元素的名称、符号与相对原子质量",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-071",
+      "old_name": "元素中文名称与元素类别",
+      "new_id": "RJ-CHEMISTRY-9A-071",
+      "new_name": "元素中文名称与元素类别",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-072",
+      "old_name": "元素周期表的排列、周期、族和原子序数",
+      "new_id": "RJ-CHEMISTRY-9A-072",
+      "new_name": "元素周期表的排列、周期、族和原子序数",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-073",
+      "old_name": "地球与我国的水资源",
+      "new_id": "RJ-CHEMISTRY-9A-073",
+      "new_name": "地球与我国的水资源",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-074",
+      "old_name": "合理利用水资源与节水措施",
+      "new_id": "RJ-CHEMISTRY-9A-074",
+      "new_name": "合理利用水资源与节水措施",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-075",
+      "old_name": "防治水体污染与污水分级处理",
+      "new_id": "RJ-CHEMISTRY-9A-075",
+      "new_name": "防治水体污染与污水分级处理",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-076",
+      "old_name": "天然水的杂质与净化方法",
+      "new_id": "RJ-CHEMISTRY-9A-076",
+      "new_name": "天然水的杂质与净化方法",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-077",
+      "old_name": "明矾沉降净水实验",
+      "new_id": "RJ-CHEMISTRY-9A-077",
+      "new_name": "明矾沉降净水实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-078",
+      "old_name": "过滤实验的器材、操作及注意事项",
+      "new_id": "RJ-CHEMISTRY-9A-078",
+      "new_name": "过滤实验的器材、操作及注意事项",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-079",
+      "old_name": "吸附净水及其局限",
+      "new_id": "RJ-CHEMISTRY-9A-079",
+      "new_name": "吸附净水及其局限",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-080",
+      "old_name": "硬水、软水及硬水的影响",
+      "new_id": "RJ-CHEMISTRY-9A-080",
+      "new_name": "硬水、软水及硬水的影响",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-081",
+      "old_name": "蒸馏水及其制取实验",
+      "new_id": "RJ-CHEMISTRY-9A-081",
+      "new_name": "蒸馏水及其制取实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-082",
+      "old_name": "氢气的性质、验纯及燃烧生成水",
+      "new_id": "RJ-CHEMISTRY-9A-082",
+      "new_name": "氢气的性质、验纯及燃烧生成水",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-083",
+      "old_name": "电解水探究与水分子的组成",
+      "new_id": "RJ-CHEMISTRY-9A-083",
+      "new_name": "电解水探究与水分子的组成",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-084",
+      "old_name": "水组成研究中的生成与分解实验",
+      "new_id": "RJ-CHEMISTRY-9A-084",
+      "new_name": "水组成研究中的生成与分解实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-085",
+      "old_name": "水分子分解与化合物、氧化物、单质",
+      "new_id": "RJ-CHEMISTRY-9A-085",
+      "new_name": "水分子分解与化合物、氧化物、单质",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-086",
+      "old_name": "物质及其变化的分类方法",
+      "new_id": "RJ-CHEMISTRY-9A-086",
+      "new_name": "物质及其变化的分类方法",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-087",
+      "old_name": "化学式的定义及含义",
+      "new_id": "RJ-CHEMISTRY-9A-087",
+      "new_name": "化学式的定义及含义",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-088",
+      "old_name": "单质与化合物化学式的书写和读法",
+      "new_id": "RJ-CHEMISTRY-9A-088",
+      "new_name": "单质与化合物化学式的书写和读法",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-089",
+      "old_name": "化合价、原子个数比与根",
+      "new_id": "RJ-CHEMISTRY-9A-089",
+      "new_name": "化合价、原子个数比与根",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-090",
+      "old_name": "常见元素和根的化合价表",
+      "new_id": "RJ-CHEMISTRY-9A-090",
+      "new_name": "常见元素和根的化合价表",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-091",
+      "old_name": "依据化合价推求化学式",
+      "new_id": "RJ-CHEMISTRY-9A-091",
+      "new_name": "依据化合价推求化学式",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-092",
+      "old_name": "相对分子质量及其计算",
+      "new_id": "RJ-CHEMISTRY-9A-092",
+      "new_name": "相对分子质量及其计算",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-093",
+      "old_name": "计算物质组成元素的质量比",
+      "new_id": "RJ-CHEMISTRY-9A-093",
+      "new_name": "计算物质组成元素的质量比",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-094",
+      "old_name": "元素质量分数及硫酸铵计算原例",
+      "new_id": "RJ-CHEMISTRY-9A-094",
+      "new_name": "元素质量分数及硫酸铵计算原例",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-095",
+      "old_name": "水组成及变化探究的实验用品",
+      "new_id": "RJ-CHEMISTRY-9A-095",
+      "new_name": "水组成及变化探究的实验用品",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-096",
+      "old_name": "质量守恒定律的实验探究",
+      "new_id": "RJ-CHEMISTRY-9A-096",
+      "new_name": "质量守恒定律的实验探究",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-097",
+      "old_name": "开放装置中反应前后称量的比较实验",
+      "new_id": "RJ-CHEMISTRY-9A-097",
+      "new_name": "开放装置中反应前后称量的比较实验",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-098",
+      "old_name": "质量守恒的微观原因与化学反应实质",
+      "new_id": "RJ-CHEMISTRY-9A-098",
+      "new_name": "质量守恒的微观原因与化学反应实质",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-099",
+      "old_name": "化学方程式的定义及定性、定量含义",
+      "new_id": "RJ-CHEMISTRY-9A-099",
+      "new_name": "化学方程式的定义及定性、定量含义",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-100",
+      "old_name": "化学方程式书写原则、步骤及配平",
+      "new_id": "RJ-CHEMISTRY-9A-100",
+      "new_name": "化学方程式书写原则、步骤及配平",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-101",
+      "old_name": "化学方程式中气体、沉淀符号的使用",
+      "new_id": "RJ-CHEMISTRY-9A-101",
+      "new_name": "化学方程式中气体、沉淀符号的使用",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-102",
+      "old_name": "根据化学方程式计算的方法与高锰酸钾制氧原例",
+      "new_id": "RJ-CHEMISTRY-9A-102",
+      "new_name": "根据化学方程式计算的方法与高锰酸钾制氧原例",
+      "action": "retained"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-103",
+      "old_name": "根据产物质量计算原料质量及简化书写原例",
+      "new_id": "RJ-CHEMISTRY-9A-102",
+      "new_name": "根据化学方程式计算的方法与高锰酸钾制氧原例",
+      "action": "example_merged"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-104",
+      "old_name": "以化学方程式为工具定量认识反应",
+      "new_id": "RJ-CHEMISTRY-9A-103",
+      "new_name": "以化学方程式为工具定量认识反应",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-105",
+      "old_name": "同种元素形成不同单质与碳单质结构差异",
+      "new_id": "RJ-CHEMISTRY-9A-104",
+      "new_name": "同种元素形成不同单质与碳单质结构差异",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-106",
+      "old_name": "金刚石的性质与用途",
+      "new_id": "RJ-CHEMISTRY-9A-105",
+      "new_name": "金刚石的性质与用途",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-107",
+      "old_name": "石墨的性质与用途及类似结构碳材料",
+      "new_id": "RJ-CHEMISTRY-9A-106",
+      "new_name": "石墨的性质与用途及类似结构碳材料",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-108",
+      "old_name": "木炭、活性炭的吸附实验与用途",
+      "new_id": "RJ-CHEMISTRY-9A-107",
+      "new_name": "木炭、活性炭的吸附实验与用途",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-109",
+      "old_name": "C₆₀的结构、性质与应用",
+      "new_id": "RJ-CHEMISTRY-9A-108",
+      "new_name": "C₆₀的结构、性质与应用",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-110",
+      "old_name": "碳纳米管、石墨烯与新形态碳单质",
+      "new_id": "RJ-CHEMISTRY-9A-109",
+      "new_name": "碳纳米管、石墨烯与新形态碳单质",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-111",
+      "old_name": "碳单质常温稳定性及充分、不充分燃烧",
+      "new_id": "RJ-CHEMISTRY-9A-110",
+      "new_name": "碳单质常温稳定性及充分、不充分燃烧",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-112",
+      "old_name": "碳还原氧化铜实验与还原反应",
+      "new_id": "RJ-CHEMISTRY-9A-111",
+      "new_name": "碳还原氧化铜实验与还原反应",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-113",
+      "old_name": "碳与二氧化碳在高温下反应",
+      "new_id": "RJ-CHEMISTRY-9A-112",
+      "new_name": "碳与二氧化碳在高温下反应",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-114",
+      "old_name": "一氧化碳和二氧化碳的分子构成对比",
+      "new_id": "RJ-CHEMISTRY-9A-113",
+      "new_name": "一氧化碳和二氧化碳的分子构成对比",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-115",
+      "old_name": "二氧化碳倾倒与溶解性实验",
+      "new_id": "RJ-CHEMISTRY-9A-114",
+      "new_name": "二氧化碳倾倒与溶解性实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-116",
+      "old_name": "二氧化碳与水反应及碳酸分解的纸花实验",
+      "new_id": "RJ-CHEMISTRY-9A-115",
+      "new_name": "二氧化碳与水反应及碳酸分解的纸花实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-117",
+      "old_name": "澄清石灰水检验二氧化碳",
+      "new_id": "RJ-CHEMISTRY-9A-116",
+      "new_name": "澄清石灰水检验二氧化碳",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-118",
+      "old_name": "干冰的性质与二氧化碳的用途",
+      "new_id": "RJ-CHEMISTRY-9A-117",
+      "new_name": "干冰的性质与二氧化碳的用途",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-119",
+      "old_name": "二氧化碳含量对人体健康的影响",
+      "new_id": "RJ-CHEMISTRY-9A-118",
+      "new_name": "二氧化碳含量对人体健康的影响",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-120",
+      "old_name": "温室效应与自然界碳循环",
+      "new_id": "RJ-CHEMISTRY-9A-119",
+      "new_name": "温室效应与自然界碳循环",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-121",
+      "old_name": "控制二氧化碳含量的低碳措施",
+      "new_id": "RJ-CHEMISTRY-9A-120",
+      "new_name": "控制二氧化碳含量的低碳措施",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-122",
+      "old_name": "二氧化碳的捕集、利用与封存",
+      "new_id": "RJ-CHEMISTRY-9A-121",
+      "new_name": "二氧化碳的捕集、利用与封存",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-123",
+      "old_name": "一氧化碳的性质、燃烧及还原作用",
+      "new_id": "RJ-CHEMISTRY-9A-122",
+      "new_name": "一氧化碳的性质、燃烧及还原作用",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-124",
+      "old_name": "一氧化碳中毒的原因、预防和处理",
+      "new_id": "RJ-CHEMISTRY-9A-123",
+      "new_name": "一氧化碳中毒的原因、预防和处理",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-125",
+      "old_name": "实验室制取二氧化碳的反应原理",
+      "new_id": "RJ-CHEMISTRY-9A-124",
+      "new_name": "实验室制取二氧化碳的反应原理",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-126",
+      "old_name": "气体发生、收集装置的选择依据",
+      "new_id": "RJ-CHEMISTRY-9A-125",
+      "new_name": "气体发生、收集装置的选择依据",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-127",
+      "old_name": "实验室二氧化碳装置与检验、验满方法",
+      "new_id": "RJ-CHEMISTRY-9A-126",
+      "new_name": "实验室二氧化碳装置与检验、验满方法",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-128",
+      "old_name": "实验室制取气体的一般思路和方法",
+      "new_id": "RJ-CHEMISTRY-9A-127",
+      "new_name": "实验室制取气体的一般思路和方法",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-129",
+      "old_name": "二氧化碳制取与溶液对照、加热实验",
+      "new_id": "RJ-CHEMISTRY-9A-128",
+      "new_name": "二氧化碳制取与溶液对照、加热实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-130",
+      "old_name": "燃烧的定义、条件及白磷红磷对比实验",
+      "new_id": "RJ-CHEMISTRY-9A-129",
+      "new_name": "燃烧的定义、条件及白磷红磷对比实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-131",
+      "old_name": "燃烧探究中的控制变量方法",
+      "new_id": "RJ-CHEMISTRY-9A-130",
+      "new_name": "燃烧探究中的控制变量方法",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-132",
+      "old_name": "灭火的原理和方法",
+      "new_id": "RJ-CHEMISTRY-9A-131",
+      "new_name": "灭火的原理和方法",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-133",
+      "old_name": "简易灭火器的实验与装置原理",
+      "new_id": "RJ-CHEMISTRY-9A-132",
+      "new_name": "简易灭火器的实验与装置原理",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-134",
+      "old_name": "常见灭火器的原理和适用范围",
+      "new_id": "RJ-CHEMISTRY-9A-133",
+      "new_name": "常见灭火器的原理和适用范围",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-135",
+      "old_name": "火险应对与离开着火区域",
+      "new_id": "RJ-CHEMISTRY-9A-134",
+      "new_name": "火险应对与离开着火区域",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-136",
+      "old_name": "易燃物、易爆物及粉尘爆炸的预防",
+      "new_id": "RJ-CHEMISTRY-9A-135",
+      "new_name": "易燃物、易爆物及粉尘爆炸的预防",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-137",
+      "old_name": "爆炸极限与可燃气体的含量范围",
+      "new_id": "RJ-CHEMISTRY-9A-136",
+      "new_name": "爆炸极限与可燃气体的含量范围",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-138",
+      "old_name": "燃料充分燃烧的条件与作用",
+      "new_id": "RJ-CHEMISTRY-9A-137",
+      "new_name": "燃料充分燃烧的条件与作用",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-139",
+      "old_name": "乙醇燃烧与化学反应放热",
+      "new_id": "RJ-CHEMISTRY-9A-138",
+      "new_name": "乙醇燃烧与化学反应放热",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-140",
+      "old_name": "氧化钙与水反应实验及化学反应的能量变化",
+      "new_id": "RJ-CHEMISTRY-9A-139",
+      "new_name": "氧化钙与水反应实验及化学反应的能量变化",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-141",
+      "old_name": "化石能源的来源与不可再生性",
+      "new_id": "RJ-CHEMISTRY-9A-140",
+      "new_name": "化石能源的来源与不可再生性",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-142",
+      "old_name": "煤的组成及综合利用",
+      "new_id": "RJ-CHEMISTRY-9A-141",
+      "new_name": "煤的组成及综合利用",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-143",
+      "old_name": "石油的组成、炼制与液化石油气",
+      "new_id": "RJ-CHEMISTRY-9A-142",
+      "new_name": "石油的组成、炼制与液化石油气",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-144",
+      "old_name": "石油裂解与煤隔绝空气加强热的产品",
+      "new_id": "RJ-CHEMISTRY-9A-143",
+      "new_name": "石油裂解与煤隔绝空气加强热的产品",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-145",
+      "old_name": "天然气的组成与甲烷燃烧实验",
+      "new_id": "RJ-CHEMISTRY-9A-144",
+      "new_name": "天然气的组成与甲烷燃烧实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-146",
+      "old_name": "沼气的主要成分与制取",
+      "new_id": "RJ-CHEMISTRY-9A-145",
+      "new_name": "沼气的主要成分与制取",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-147",
+      "old_name": "可燃冰的形成条件、组成和利用",
+      "new_id": "RJ-CHEMISTRY-9A-146",
+      "new_name": "可燃冰的形成条件、组成和利用",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-148",
+      "old_name": "化石能源燃烧污染与减排措施",
+      "new_id": "RJ-CHEMISTRY-9A-147",
+      "new_name": "化石能源燃烧污染与减排措施",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-149",
+      "old_name": "氢能源的特点和开发限制",
+      "new_id": "RJ-CHEMISTRY-9A-148",
+      "new_name": "氢能源的特点和开发限制",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-150",
+      "old_name": "锌与稀硫酸制取氢气及收集装置",
+      "new_id": "RJ-CHEMISTRY-9A-149",
+      "new_name": "锌与稀硫酸制取氢气及收集装置",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-151",
+      "old_name": "其他能源及生物质能",
+      "new_id": "RJ-CHEMISTRY-9A-150",
+      "new_name": "其他能源及生物质能",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-152",
+      "old_name": "木块与煤块燃烧条件的对比实验",
+      "new_id": "RJ-CHEMISTRY-9A-151",
+      "new_name": "木块与煤块燃烧条件的对比实验",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-153",
+      "old_name": "常用仪器的用途与注意事项",
+      "new_id": "RJ-CHEMISTRY-9A-152",
+      "new_name": "常用仪器的用途与注意事项",
+      "action": "whole_book_resequence"
+    },
+    {
+      "old_id": "RJ-CHEMISTRY-9A-154",
+      "old_name": "相对原子质量表及其数据说明",
+      "new_id": "RJ-CHEMISTRY-9A-153",
+      "new_name": "相对原子质量表及其数据说明",
+      "action": "whole_book_resequence"
+    }
+  ]
+}

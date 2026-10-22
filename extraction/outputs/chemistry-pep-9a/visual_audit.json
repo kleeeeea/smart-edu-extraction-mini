@@ -1,0 +1,2124 @@
+[
+  {
+    "pdf_page": 1,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-001.png",
+    "review_spread": "review/pages-001-002.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 2,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-002.png",
+    "review_spread": "review/pages-001-002.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 3,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-003.png",
+    "review_spread": "review/pages-003-004.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 4,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-004.png",
+    "review_spread": "review/pages-003-004.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 5,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-005.png",
+    "review_spread": "review/pages-005-006.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 6,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-006.png",
+    "review_spread": "review/pages-005-006.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 7,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-007.png",
+    "review_spread": "review/pages-007-008.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 8,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-008.png",
+    "review_spread": "review/pages-007-008.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 9,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-009.png",
+    "review_spread": "review/pages-009-010.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 10,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-010.png",
+    "review_spread": "review/pages-009-010.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 11,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-011.png",
+    "review_spread": "review/pages-011-012.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-001"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 12,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-012.png",
+    "review_spread": "review/pages-011-012.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-001"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 13,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-013.png",
+    "review_spread": "review/pages-013-014.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 14,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-014.png",
+    "review_spread": "review/pages-013-014.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-002"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 15,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-015.png",
+    "review_spread": "review/pages-015-016.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-003",
+      "RJ-CHEMISTRY-9A-004"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 16,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-016.png",
+    "review_spread": "review/pages-015-016.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-004",
+      "RJ-CHEMISTRY-9A-005"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 17,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-017.png",
+    "review_spread": "review/pages-017-018.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-004",
+      "RJ-CHEMISTRY-9A-006"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 18,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-018.png",
+    "review_spread": "review/pages-017-018.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-004",
+      "RJ-CHEMISTRY-9A-007"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 19,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-019.png",
+    "review_spread": "review/pages-019-020.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-007",
+      "RJ-CHEMISTRY-9A-008",
+      "RJ-CHEMISTRY-9A-009"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 20,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-020.png",
+    "review_spread": "review/pages-019-020.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 21,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-021.png",
+    "review_spread": "review/pages-021-022.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-010",
+      "RJ-CHEMISTRY-9A-011"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 22,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-022.png",
+    "review_spread": "review/pages-021-022.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-011",
+      "RJ-CHEMISTRY-9A-012"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 23,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-023.png",
+    "review_spread": "review/pages-023-024.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-012",
+      "RJ-CHEMISTRY-9A-013"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 24,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-024.png",
+    "review_spread": "review/pages-023-024.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-014",
+      "RJ-CHEMISTRY-9A-015"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 25,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-025.png",
+    "review_spread": "review/pages-025-026.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-016",
+      "RJ-CHEMISTRY-9A-017"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 26,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-026.png",
+    "review_spread": "review/pages-025-026.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-018",
+      "RJ-CHEMISTRY-9A-019"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 27,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-027.png",
+    "review_spread": "review/pages-027-028.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-020",
+      "RJ-CHEMISTRY-9A-021"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 28,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-028.png",
+    "review_spread": "review/pages-027-028.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-021",
+      "RJ-CHEMISTRY-9A-022",
+      "RJ-CHEMISTRY-9A-023"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 29,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-029.png",
+    "review_spread": "review/pages-029-030.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-022"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 30,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-030.png",
+    "review_spread": "review/pages-029-030.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-023"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 31,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-031.png",
+    "review_spread": "review/pages-031-032.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 32,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-032.png",
+    "review_spread": "review/pages-031-032.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 33,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-033.png",
+    "review_spread": "review/pages-033-034.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 34,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-034.png",
+    "review_spread": "review/pages-033-034.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 35,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-035.png",
+    "review_spread": "review/pages-035-036.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 36,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-036.png",
+    "review_spread": "review/pages-035-036.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 37,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-037.png",
+    "review_spread": "review/pages-037-038.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-024"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 38,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-038.png",
+    "review_spread": "review/pages-037-038.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-024",
+      "RJ-CHEMISTRY-9A-025",
+      "RJ-CHEMISTRY-9A-026"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 39,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-039.png",
+    "review_spread": "review/pages-039-040.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-027",
+      "RJ-CHEMISTRY-9A-028"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 40,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-040.png",
+    "review_spread": "review/pages-039-040.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-029",
+      "RJ-CHEMISTRY-9A-030"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 41,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-041.png",
+    "review_spread": "review/pages-041-042.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-030",
+      "RJ-CHEMISTRY-9A-031"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 42,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-042.png",
+    "review_spread": "review/pages-041-042.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-032",
+      "RJ-CHEMISTRY-9A-033"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 43,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-043.png",
+    "review_spread": "review/pages-043-044.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-034"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 44,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-044.png",
+    "review_spread": "review/pages-043-044.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 45,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-045.png",
+    "review_spread": "review/pages-045-046.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-035",
+      "RJ-CHEMISTRY-9A-036",
+      "RJ-CHEMISTRY-9A-037"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 46,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-046.png",
+    "review_spread": "review/pages-045-046.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-037",
+      "RJ-CHEMISTRY-9A-038"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 47,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-047.png",
+    "review_spread": "review/pages-047-048.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-038",
+      "RJ-CHEMISTRY-9A-039"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 48,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-048.png",
+    "review_spread": "review/pages-047-048.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-040"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 49,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-049.png",
+    "review_spread": "review/pages-049-050.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 50,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-050.png",
+    "review_spread": "review/pages-049-050.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-041"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 51,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-051.png",
+    "review_spread": "review/pages-051-052.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-041",
+      "RJ-CHEMISTRY-9A-042",
+      "RJ-CHEMISTRY-9A-043"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 52,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-052.png",
+    "review_spread": "review/pages-051-052.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-043"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 53,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-053.png",
+    "review_spread": "review/pages-053-054.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-043",
+      "RJ-CHEMISTRY-9A-044"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 54,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-054.png",
+    "review_spread": "review/pages-053-054.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-045",
+      "RJ-CHEMISTRY-9A-046"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 55,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-055.png",
+    "review_spread": "review/pages-055-056.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 56,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-056.png",
+    "review_spread": "review/pages-055-056.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 57,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-057.png",
+    "review_spread": "review/pages-057-058.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 58,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-058.png",
+    "review_spread": "review/pages-057-058.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 59,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-059.png",
+    "review_spread": "review/pages-059-060.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-047"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 60,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-060.png",
+    "review_spread": "review/pages-059-060.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-047"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 61,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-061.png",
+    "review_spread": "review/pages-061-062.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 62,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-062.png",
+    "review_spread": "review/pages-061-062.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 63,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-063.png",
+    "review_spread": "review/pages-063-064.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-048"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 64,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-064.png",
+    "review_spread": "review/pages-063-064.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-048",
+      "RJ-CHEMISTRY-9A-049"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 65,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-065.png",
+    "review_spread": "review/pages-065-066.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-050"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 66,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-066.png",
+    "review_spread": "review/pages-065-066.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-050",
+      "RJ-CHEMISTRY-9A-051",
+      "RJ-CHEMISTRY-9A-052"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 67,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-067.png",
+    "review_spread": "review/pages-067-068.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-053",
+      "RJ-CHEMISTRY-9A-054"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 68,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-068.png",
+    "review_spread": "review/pages-067-068.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-055"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 69,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-069.png",
+    "review_spread": "review/pages-069-070.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-056",
+      "RJ-CHEMISTRY-9A-057",
+      "RJ-CHEMISTRY-9A-058"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 70,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-070.png",
+    "review_spread": "review/pages-069-070.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 71,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-071.png",
+    "review_spread": "review/pages-071-072.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 72,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-072.png",
+    "review_spread": "review/pages-071-072.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-059"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 73,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-073.png",
+    "review_spread": "review/pages-073-074.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-060"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 74,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-074.png",
+    "review_spread": "review/pages-073-074.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-061",
+      "RJ-CHEMISTRY-9A-062"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 75,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-075.png",
+    "review_spread": "review/pages-075-076.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-063"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 76,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-076.png",
+    "review_spread": "review/pages-075-076.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-064",
+      "RJ-CHEMISTRY-9A-065"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 77,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-077.png",
+    "review_spread": "review/pages-077-078.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-065"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 78,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-078.png",
+    "review_spread": "review/pages-077-078.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 79,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-079.png",
+    "review_spread": "review/pages-079-080.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-066"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 80,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-080.png",
+    "review_spread": "review/pages-079-080.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-067",
+      "RJ-CHEMISTRY-9A-068"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 81,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-081.png",
+    "review_spread": "review/pages-081-082.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-069",
+      "RJ-CHEMISTRY-9A-070"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 82,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-082.png",
+    "review_spread": "review/pages-081-082.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-071",
+      "RJ-CHEMISTRY-9A-072"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 83,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-083.png",
+    "review_spread": "review/pages-083-084.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 84,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-084.png",
+    "review_spread": "review/pages-083-084.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 85,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-085.png",
+    "review_spread": "review/pages-085-086.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 86,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-086.png",
+    "review_spread": "review/pages-085-086.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 87,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-087.png",
+    "review_spread": "review/pages-087-088.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 88,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-088.png",
+    "review_spread": "review/pages-087-088.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 89,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-089.png",
+    "review_spread": "review/pages-089-090.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-073"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 90,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-090.png",
+    "review_spread": "review/pages-089-090.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-074"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 91,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-091.png",
+    "review_spread": "review/pages-091-092.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-074"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 92,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-092.png",
+    "review_spread": "review/pages-091-092.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-075"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 93,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-093.png",
+    "review_spread": "review/pages-093-094.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-076",
+      "RJ-CHEMISTRY-9A-077"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 94,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-094.png",
+    "review_spread": "review/pages-093-094.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-077",
+      "RJ-CHEMISTRY-9A-078"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 95,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-095.png",
+    "review_spread": "review/pages-095-096.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-079",
+      "RJ-CHEMISTRY-9A-080",
+      "RJ-CHEMISTRY-9A-081"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 96,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-096.png",
+    "review_spread": "review/pages-095-096.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-081"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 97,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-097.png",
+    "review_spread": "review/pages-097-098.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 98,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-098.png",
+    "review_spread": "review/pages-097-098.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-082"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 99,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-099.png",
+    "review_spread": "review/pages-099-100.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-083"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 100,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-100.png",
+    "review_spread": "review/pages-099-100.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-083",
+      "RJ-CHEMISTRY-9A-084"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 101,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-101.png",
+    "review_spread": "review/pages-101-102.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-085",
+      "RJ-CHEMISTRY-9A-086"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 102,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-102.png",
+    "review_spread": "review/pages-101-102.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 103,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-103.png",
+    "review_spread": "review/pages-103-104.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-087"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 104,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-104.png",
+    "review_spread": "review/pages-103-104.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-088"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 105,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-105.png",
+    "review_spread": "review/pages-105-106.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-089"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 106,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-106.png",
+    "review_spread": "review/pages-105-106.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-089",
+      "RJ-CHEMISTRY-9A-090"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 107,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-107.png",
+    "review_spread": "review/pages-107-108.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-091"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 108,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-108.png",
+    "review_spread": "review/pages-107-108.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-092",
+      "RJ-CHEMISTRY-9A-093",
+      "RJ-CHEMISTRY-9A-094"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 109,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-109.png",
+    "review_spread": "review/pages-109-110.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-094"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 110,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-110.png",
+    "review_spread": "review/pages-109-110.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 111,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-111.png",
+    "review_spread": "review/pages-111-112.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 112,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-112.png",
+    "review_spread": "review/pages-111-112.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 113,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-113.png",
+    "review_spread": "review/pages-113-114.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 114,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-114.png",
+    "review_spread": "review/pages-113-114.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-095"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 115,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-115.png",
+    "review_spread": "review/pages-115-116.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 116,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-116.png",
+    "review_spread": "review/pages-115-116.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 117,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-117.png",
+    "review_spread": "review/pages-117-118.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-096"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 118,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-118.png",
+    "review_spread": "review/pages-117-118.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-096"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 119,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-119.png",
+    "review_spread": "review/pages-119-120.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-096"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 120,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-120.png",
+    "review_spread": "review/pages-119-120.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-097"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 121,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-121.png",
+    "review_spread": "review/pages-121-122.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-098"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 122,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-122.png",
+    "review_spread": "review/pages-121-122.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 123,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-123.png",
+    "review_spread": "review/pages-123-124.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 124,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-124.png",
+    "review_spread": "review/pages-123-124.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-099"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 125,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-125.png",
+    "review_spread": "review/pages-125-126.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-099",
+      "RJ-CHEMISTRY-9A-100"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 126,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-126.png",
+    "review_spread": "review/pages-125-126.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-100",
+      "RJ-CHEMISTRY-9A-101"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 127,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-127.png",
+    "review_spread": "review/pages-127-128.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-102"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 128,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-128.png",
+    "review_spread": "review/pages-127-128.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-102",
+      "RJ-CHEMISTRY-9A-103"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 129,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-129.png",
+    "review_spread": "review/pages-129-130.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 130,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-130.png",
+    "review_spread": "review/pages-129-130.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 131,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-131.png",
+    "review_spread": "review/pages-131-132.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 132,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-132.png",
+    "review_spread": "review/pages-131-132.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 133,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-133.png",
+    "review_spread": "review/pages-133-134.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 134,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-134.png",
+    "review_spread": "review/pages-133-134.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 135,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-135.png",
+    "review_spread": "review/pages-135-136.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-104",
+      "RJ-CHEMISTRY-9A-105"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 136,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-136.png",
+    "review_spread": "review/pages-135-136.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-105",
+      "RJ-CHEMISTRY-9A-106"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 137,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-137.png",
+    "review_spread": "review/pages-137-138.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-107"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 138,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-138.png",
+    "review_spread": "review/pages-137-138.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-108",
+      "RJ-CHEMISTRY-9A-109"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 139,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-139.png",
+    "review_spread": "review/pages-139-140.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-109",
+      "RJ-CHEMISTRY-9A-110"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 140,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-140.png",
+    "review_spread": "review/pages-139-140.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-111",
+      "RJ-CHEMISTRY-9A-112"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 141,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-141.png",
+    "review_spread": "review/pages-141-142.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-104"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 142,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-142.png",
+    "review_spread": "review/pages-141-142.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 143,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-143.png",
+    "review_spread": "review/pages-143-144.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-113",
+      "RJ-CHEMISTRY-9A-114"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 144,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-144.png",
+    "review_spread": "review/pages-143-144.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-114",
+      "RJ-CHEMISTRY-9A-115"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 145,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-145.png",
+    "review_spread": "review/pages-145-146.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-115",
+      "RJ-CHEMISTRY-9A-116",
+      "RJ-CHEMISTRY-9A-117"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 146,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-146.png",
+    "review_spread": "review/pages-145-146.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-118",
+      "RJ-CHEMISTRY-9A-119"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 147,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-147.png",
+    "review_spread": "review/pages-147-148.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-119",
+      "RJ-CHEMISTRY-9A-120"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 148,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-148.png",
+    "review_spread": "review/pages-147-148.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-121",
+      "RJ-CHEMISTRY-9A-122"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 149,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-149.png",
+    "review_spread": "review/pages-149-150.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-122",
+      "RJ-CHEMISTRY-9A-123"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 150,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-150.png",
+    "review_spread": "review/pages-149-150.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-114"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 151,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-151.png",
+    "review_spread": "review/pages-151-152.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 152,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-152.png",
+    "review_spread": "review/pages-151-152.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-124"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 153,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-153.png",
+    "review_spread": "review/pages-153-154.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-125"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 154,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-154.png",
+    "review_spread": "review/pages-153-154.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-125",
+      "RJ-CHEMISTRY-9A-126"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 155,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-155.png",
+    "review_spread": "review/pages-155-156.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-126",
+      "RJ-CHEMISTRY-9A-127"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 156,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-156.png",
+    "review_spread": "review/pages-155-156.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 157,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-157.png",
+    "review_spread": "review/pages-157-158.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 158,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-158.png",
+    "review_spread": "review/pages-157-158.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 159,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-159.png",
+    "review_spread": "review/pages-159-160.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 160,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-160.png",
+    "review_spread": "review/pages-159-160.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 161,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-161.png",
+    "review_spread": "review/pages-161-162.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-128"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 162,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-162.png",
+    "review_spread": "review/pages-161-162.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-128"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 163,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-163.png",
+    "review_spread": "review/pages-163-164.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 164,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-164.png",
+    "review_spread": "review/pages-163-164.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 165,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-165.png",
+    "review_spread": "review/pages-165-166.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-129"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 166,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-166.png",
+    "review_spread": "review/pages-165-166.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-129"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 167,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-167.png",
+    "review_spread": "review/pages-167-168.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-129",
+      "RJ-CHEMISTRY-9A-130"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 168,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-168.png",
+    "review_spread": "review/pages-167-168.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-131",
+      "RJ-CHEMISTRY-9A-132"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 169,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-169.png",
+    "review_spread": "review/pages-169-170.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-132"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 170,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-170.png",
+    "review_spread": "review/pages-169-170.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-133",
+      "RJ-CHEMISTRY-9A-134"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 171,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-171.png",
+    "review_spread": "review/pages-171-172.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-135",
+      "RJ-CHEMISTRY-9A-136"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 172,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-172.png",
+    "review_spread": "review/pages-171-172.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-137",
+      "RJ-CHEMISTRY-9A-138"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 173,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-173.png",
+    "review_spread": "review/pages-173-174.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-139"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 174,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-174.png",
+    "review_spread": "review/pages-173-174.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 175,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-175.png",
+    "review_spread": "review/pages-175-176.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 176,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-176.png",
+    "review_spread": "review/pages-175-176.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-140",
+      "RJ-CHEMISTRY-9A-141",
+      "RJ-CHEMISTRY-9A-142"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 177,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-177.png",
+    "review_spread": "review/pages-177-178.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-142",
+      "RJ-CHEMISTRY-9A-143"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 178,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-178.png",
+    "review_spread": "review/pages-177-178.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-144"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 179,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-179.png",
+    "review_spread": "review/pages-179-180.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-145",
+      "RJ-CHEMISTRY-9A-146"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 180,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-180.png",
+    "review_spread": "review/pages-179-180.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-147"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 181,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-181.png",
+    "review_spread": "review/pages-181-182.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-147",
+      "RJ-CHEMISTRY-9A-148"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 182,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-182.png",
+    "review_spread": "review/pages-181-182.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-148",
+      "RJ-CHEMISTRY-9A-149",
+      "RJ-CHEMISTRY-9A-150"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 183,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-183.png",
+    "review_spread": "review/pages-183-184.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-150"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 184,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-184.png",
+    "review_spread": "review/pages-183-184.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 185,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-185.png",
+    "review_spread": "review/pages-185-186.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 186,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-186.png",
+    "review_spread": "review/pages-185-186.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 187,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-187.png",
+    "review_spread": "review/pages-187-188.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 188,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-188.png",
+    "review_spread": "review/pages-187-188.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-151"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 189,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-189.png",
+    "review_spread": "review/pages-189-190.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 190,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-190.png",
+    "review_spread": "review/pages-189-190.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-152"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 191,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-191.png",
+    "review_spread": "review/pages-191-192.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-152"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 192,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-192.png",
+    "review_spread": "review/pages-191-192.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-153"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 193,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-193.png",
+    "review_spread": "review/pages-193-194.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 194,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-194.png",
+    "review_spread": "review/pages-193-194.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 195,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-195.png",
+    "review_spread": "review/pages-195-196.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 196,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-196.png",
+    "review_spread": "review/pages-195-196.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 197,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-197.png",
+    "review_spread": "review/pages-197-198.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  },
+  {
+    "pdf_page": 198,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-198.png",
+    "review_spread": "review/pages-197-198.jpg",
+    "record_ids": [
+      "RJ-CHEMISTRY-9A-072"
+    ],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "included_or_referenced"
+  },
+  {
+    "pdf_page": 199,
+    "status": "visual_review_completed",
+    "image": "images/chemistry-pep-9a/page-199.png",
+    "review_spread": "review/pages-199-199.jpg",
+    "record_ids": [],
+    "checks": "正文、公式与单位、表格空白、图示条件、跨页及侧栏阅读顺序；入表条目再读回核查。",
+    "disposition": "reviewed_no_new_record; 具体原因见exclusion_audit.json"
+  }
+]

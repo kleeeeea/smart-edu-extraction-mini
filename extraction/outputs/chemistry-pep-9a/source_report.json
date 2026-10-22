@@ -1,0 +1,18 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/初中化学教材/01_初中_化学_人教版_九年级_上册_（根据2022年版课程标准修订）义务教育教科书·化学九年级上册_8c419b19-b3a9-4dbf-a8b4-546b7d337528.pdf",
+  "sha256": "59a9f4aeac5599f9e2db43e31028a450ee69c0be6436cf02102d34e572ab6209",
+  "pdf_pages": 199,
+  "subject": "化学",
+  "education_stage": "初中",
+  "publisher": "人民教育出版社",
+  "grade": 9,
+  "volume": "上册",
+  "curriculum_revision": "根据2022年版课程标准修订",
+  "cover_approval": "教育部审定2024",
+  "resource_id": "8c419b19-b3a9-4dbf-a8b4-546b7d337528",
+  "edition_date": "未确认，不依据审定年份推断",
+  "file_bytes": 22372171,
+  "printed_page_offset": -7,
+  "isbn": "978-7-107-38260-4",
+  "isbn_basis": "PDF封底P199与网站源PDF文件名对应"
+}

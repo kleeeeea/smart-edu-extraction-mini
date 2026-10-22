@@ -1,0 +1,36 @@
+[
+  {
+    "action": "new_partial_extraction",
+    "date": "2026-10-22",
+    "resource_id": "8c419b19-b3a9-4dbf-a8b4-546b7d337528",
+    "sha256": "59a9f4aeac5599f9e2db43e31028a450ee69c0be6436cf02102d34e572ab6209",
+    "before": null,
+    "after_file": "selection.json",
+    "records": 47,
+    "status": "incomplete",
+    "restore_source": "原始PDF及transcription_candidates.jsonl",
+    "notes": [
+      "未合并至既有知识库",
+      "未修改原PDF或物理教材输出",
+      "新ID暂定，未声明全册最终编号"
+    ]
+  },
+  {
+    "action": "complete_extraction",
+    "date": "2026-10-22",
+    "before_delivered_records": 47,
+    "after_records": 153,
+    "previous_ids_001_047": "retained",
+    "source_sha256": "59a9f4aeac5599f9e2db43e31028a450ee69c0be6436cf02102d34e572ab6209",
+    "changes_file": "record_changes.json",
+    "id_mapping": "id_mapping.json",
+    "content_source": "selection.json",
+    "recovery": "原始PDF、文字候选、源图与编辑过程脚本均保留",
+    "notes": [
+      "移除按单道补充例题建立的记录，完整原例原解并入example",
+      "所有跨页句子合并后统一附图",
+      "未对实验空表、预测和未解习题补写答案",
+      "未合并到既有数学或物理知识库"
+    ]
+  }
+]
