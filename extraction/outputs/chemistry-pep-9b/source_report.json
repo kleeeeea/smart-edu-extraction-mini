@@ -1,0 +1,16 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/初中化学教材/02_初中_化学_人教版_九年级_下册_(根据2022年版课程标准修订)义务教育教科书·化学九年级下册_1998204c-f017-4f49-9000-0ba0b93d2a4d.pdf",
+  "sha256": "d6d86ca7b3578d337ec9d1a893c8bf395cbbdb1817d7253a246ae2c2e77f7df5",
+  "pdf_pages": 127,
+  "file_bytes": 13874922,
+  "subject": "化学",
+  "grade": 9,
+  "volume": "下册",
+  "publisher": "人民教育出版社",
+  "resource_id": "1998204c-f017-4f49-9000-0ba0b93d2a4d",
+  "curriculum_revision": "根据2022年版课程标准修订",
+  "pdf_md5": "88257d92900aecb087cb54e86a6f4254",
+  "website_pdf_md5": "88257d92900aecb087cb54e86a6f4254",
+  "website_pdf_md5_matches": true,
+  "cover_audit": "国家教材委员会专家委员会审核通过2024；不将审核标记冒充出版年月"
+}

@@ -1,0 +1,578 @@
+[
+  {
+    "old_id": "RJ-CHEMISTRY-9B-001",
+    "knowledge_point": "金属材料",
+    "new_id": "RJ-CHEMISTRY-9B-001",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-002",
+    "knowledge_point": "常见金属的物理性质与用途",
+    "new_id": "RJ-CHEMISTRY-9B-002",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-003",
+    "knowledge_point": "一些金属物理性质的比较",
+    "new_id": "RJ-CHEMISTRY-9B-003",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-004",
+    "knowledge_point": "金属之最",
+    "new_id": "RJ-CHEMISTRY-9B-004",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-005",
+    "knowledge_point": "选择材料时需要考虑的因素",
+    "new_id": "RJ-CHEMISTRY-9B-005",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-006",
+    "knowledge_point": "合金与铁合金的组成和性能",
+    "new_id": "RJ-CHEMISTRY-9B-006",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-007",
+    "knowledge_point": "比较合金和纯金属的光泽、颜色与硬度",
+    "new_id": "RJ-CHEMISTRY-9B-007",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-008",
+    "knowledge_point": "常见合金的成分、性能和用途",
+    "new_id": "RJ-CHEMISTRY-9B-008",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-009",
+    "knowledge_point": "钛和钛合金的性能与用途",
+    "new_id": "RJ-CHEMISTRY-9B-009",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-010",
+    "knowledge_point": "形状记忆合金",
+    "new_id": "RJ-CHEMISTRY-9B-010",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-011",
+    "knowledge_point": "金属与氧气的反应",
+    "new_id": "RJ-CHEMISTRY-9B-011",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-012",
+    "knowledge_point": "金属与稀盐酸、稀硫酸的反应及探究",
+    "new_id": "RJ-CHEMISTRY-9B-012",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-013",
+    "knowledge_point": "置换反应",
+    "new_id": "RJ-CHEMISTRY-9B-013",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-014",
+    "knowledge_point": "通过置换反应比较金属活动性",
+    "new_id": "RJ-CHEMISTRY-9B-014",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-015",
+    "knowledge_point": "金属活动性顺序及其应用",
+    "new_id": "RJ-CHEMISTRY-9B-015",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-016",
+    "knowledge_point": "预测与实验验证",
+    "new_id": "RJ-CHEMISTRY-9B-016",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-017",
+    "knowledge_point": "金属资源与常见金属矿石",
+    "new_id": "RJ-CHEMISTRY-9B-017",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-018",
+    "knowledge_point": "铁的冶炼",
+    "new_id": "RJ-CHEMISTRY-9B-018",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-019",
+    "knowledge_point": "含杂质原料与产物的计算",
+    "new_id": "RJ-CHEMISTRY-9B-019",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-020",
+    "knowledge_point": "铁钉生锈条件的探究与铁制品防护",
+    "new_id": "RJ-CHEMISTRY-9B-020",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-021",
+    "knowledge_point": "保护金属资源的途径",
+    "new_id": "RJ-CHEMISTRY-9B-021",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-022",
+    "knowledge_point": "稀土资源的利用和保护",
+    "new_id": "RJ-CHEMISTRY-9B-022",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-023",
+    "knowledge_point": "常见金属的物理性质和化学性质实验",
+    "new_id": "RJ-CHEMISTRY-9B-023",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-024",
+    "knowledge_point": "溶液的形成与特征",
+    "new_id": "RJ-CHEMISTRY-9B-024",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-025",
+    "knowledge_point": "溶剂对溶解性的影响",
+    "new_id": "RJ-CHEMISTRY-9B-025",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-026",
+    "knowledge_point": "液体溶质的溶解与溶质、溶剂的判断",
+    "new_id": "RJ-CHEMISTRY-9B-026",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-027",
+    "knowledge_point": "溶解过程中的热量变化",
+    "new_id": "RJ-CHEMISTRY-9B-027",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-028",
+    "knowledge_point": "溶液的应用",
+    "new_id": "RJ-CHEMISTRY-9B-028",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-029",
+    "knowledge_point": "乳浊液和悬浊液",
+    "new_id": "RJ-CHEMISTRY-9B-029",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-030",
+    "knowledge_point": "饱和溶液和不饱和溶液",
+    "new_id": "RJ-CHEMISTRY-9B-030",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-031",
+    "knowledge_point": "温度对饱和状态的影响与结晶",
+    "new_id": "RJ-CHEMISTRY-9B-031",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-032",
+    "knowledge_point": "蒸发结晶、海水晒盐及饱和状态转化",
+    "new_id": "RJ-CHEMISTRY-9B-032",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-033",
+    "knowledge_point": "固体的溶解度与溶解性的相对大小",
+    "new_id": "RJ-CHEMISTRY-9B-033",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-034",
+    "knowledge_point": "溶解度曲线及温度对固体溶解度的影响",
+    "new_id": "RJ-CHEMISTRY-9B-034",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-035",
+    "knowledge_point": "数据处理",
+    "new_id": "RJ-CHEMISTRY-9B-035",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-036",
+    "knowledge_point": "气体的溶解度",
+    "new_id": "RJ-CHEMISTRY-9B-036",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-037",
+    "knowledge_point": "增加养鱼池水中含氧量的方法",
+    "new_id": "RJ-CHEMISTRY-9B-037",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-038",
+    "knowledge_point": "溶液浓稀程度与溶质的质量分数",
+    "new_id": "RJ-CHEMISTRY-9B-038",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-039",
+    "knowledge_point": "配制不同质量分数的氯化钠溶液实验",
+    "new_id": "RJ-CHEMISTRY-9B-039",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-040",
+    "knowledge_point": "溶质质量分数的计算与稀释计算",
+    "new_id": "RJ-CHEMISTRY-9B-040",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-041",
+    "knowledge_point": "体积分数",
+    "new_id": "RJ-CHEMISTRY-9B-041",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-042",
+    "knowledge_point": "用固体配制一定溶质质量分数溶液的步骤",
+    "new_id": "RJ-CHEMISTRY-9B-042",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-043",
+    "knowledge_point": "配制及稀释一定溶质质量分数的氯化钠溶液",
+    "new_id": "RJ-CHEMISTRY-9B-043",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-044",
+    "knowledge_point": "粗盐中难溶性杂质的去除",
+    "new_id": "RJ-CHEMISTRY-9B-044",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-045",
+    "knowledge_point": "酸碱指示剂及其变色",
+    "new_id": "RJ-CHEMISTRY-9B-045",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-046",
+    "knowledge_point": "溶液的酸碱度与pH的测定",
+    "new_id": "RJ-CHEMISTRY-9B-046",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-047",
+    "knowledge_point": "植物色素作为酸碱指示剂",
+    "new_id": "RJ-CHEMISTRY-9B-047",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-048",
+    "knowledge_point": "酸度计",
+    "new_id": "RJ-CHEMISTRY-9B-048",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-049",
+    "knowledge_point": "测定生活中物质的pH",
+    "new_id": null,
+    "status": "excluded_duplicate_task"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-050",
+    "knowledge_point": "酸碱度在健康和生产中的意义",
+    "new_id": "RJ-CHEMISTRY-9B-049",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-051",
+    "knowledge_point": "酸雨",
+    "new_id": "RJ-CHEMISTRY-9B-050",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-052",
+    "knowledge_point": "盐酸和硫酸的性质观察",
+    "new_id": "RJ-CHEMISTRY-9B-051",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-053",
+    "knowledge_point": "浓硫酸的腐蚀性与脱水作用",
+    "new_id": "RJ-CHEMISTRY-9B-052",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-054",
+    "knowledge_point": "浓硫酸的稀释与使用注意事项",
+    "new_id": "RJ-CHEMISTRY-9B-053",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-055",
+    "knowledge_point": "常见酸的用途",
+    "new_id": "RJ-CHEMISTRY-9B-054",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-056",
+    "knowledge_point": "酸的化学性质探究",
+    "new_id": "RJ-CHEMISTRY-9B-055",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-057",
+    "knowledge_point": "酸溶液的导电性与共同离子",
+    "new_id": "RJ-CHEMISTRY-9B-056",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-058",
+    "knowledge_point": "氢氧化钠、潮解及其用途",
+    "new_id": "RJ-CHEMISTRY-9B-057",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-059",
+    "knowledge_point": "氢氧化钙的性质与用途",
+    "new_id": "RJ-CHEMISTRY-9B-058",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-060",
+    "knowledge_point": "碱的化学性质与共同离子",
+    "new_id": "RJ-CHEMISTRY-9B-059",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-061",
+    "knowledge_point": "认识物质性质的一般思路和方法",
+    "new_id": "RJ-CHEMISTRY-9B-060",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-062",
+    "knowledge_point": "中和反应",
+    "new_id": "RJ-CHEMISTRY-9B-061",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-063",
+    "knowledge_point": "中和反应的应用",
+    "new_id": "RJ-CHEMISTRY-9B-062",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-064",
+    "knowledge_point": "盐的组成",
+    "new_id": "RJ-CHEMISTRY-9B-063",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-065",
+    "knowledge_point": "氯化钠的生理作用、用途及来源",
+    "new_id": "RJ-CHEMISTRY-9B-064",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-066",
+    "knowledge_point": "碳酸钠、碳酸氢钠和碳酸钙的用途",
+    "new_id": "RJ-CHEMISTRY-9B-065",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-067",
+    "knowledge_point": "碳酸盐和碳酸氢盐与稀盐酸反应",
+    "new_id": "RJ-CHEMISTRY-9B-066",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-068",
+    "knowledge_point": "复分解反应及发生的条件",
+    "new_id": "RJ-CHEMISTRY-9B-067",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-069",
+    "knowledge_point": "硫酸铜与氢氧化钠、氯化钡溶液反应的实验",
+    "new_id": "RJ-CHEMISTRY-9B-068",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-070",
+    "knowledge_point": "化肥的种类与主要作用",
+    "new_id": "RJ-CHEMISTRY-9B-069",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-071",
+    "knowledge_point": "复合肥料与合理施用化肥",
+    "new_id": "RJ-CHEMISTRY-9B-070",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-072",
+    "knowledge_point": "联合制碱法的特点",
+    "new_id": "RJ-CHEMISTRY-9B-071",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-073",
+    "knowledge_point": "常见酸、碱的化学性质实验",
+    "new_id": "RJ-CHEMISTRY-9B-072",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-074",
+    "knowledge_point": "人体中的常量元素和微量元素",
+    "new_id": "RJ-CHEMISTRY-9B-073",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-075",
+    "knowledge_point": "有机化合物和无机化合物",
+    "new_id": "RJ-CHEMISTRY-9B-074",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-076",
+    "knowledge_point": "元素摄入与人体健康",
+    "new_id": "RJ-CHEMISTRY-9B-075",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-077",
+    "knowledge_point": "六类营养物质",
+    "new_id": "RJ-CHEMISTRY-9B-076",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-078",
+    "knowledge_point": "糖类的消化、氧化与供能",
+    "new_id": "RJ-CHEMISTRY-9B-077",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-079",
+    "knowledge_point": "蛋白质的消化与利用",
+    "new_id": "RJ-CHEMISTRY-9B-078",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-080",
+    "knowledge_point": "油脂与备用能源",
+    "new_id": "RJ-CHEMISTRY-9B-079",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-081",
+    "knowledge_point": "合理膳食与食品安全",
+    "new_id": "RJ-CHEMISTRY-9B-080",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-082",
+    "knowledge_point": "合理用药与药物危害",
+    "new_id": "RJ-CHEMISTRY-9B-081",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-083",
+    "knowledge_point": "青蒿素和对乙酰氨基酚",
+    "new_id": "RJ-CHEMISTRY-9B-082",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-084",
+    "knowledge_point": "消毒防腐药",
+    "new_id": "RJ-CHEMISTRY-9B-083",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-085",
+    "knowledge_point": "抗生素分子结构与合理使用",
+    "new_id": "RJ-CHEMISTRY-9B-084",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-086",
+    "knowledge_point": "化学与能源利用",
+    "new_id": "RJ-CHEMISTRY-9B-085",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-087",
+    "knowledge_point": "风电制氢",
+    "new_id": "RJ-CHEMISTRY-9B-086",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-088",
+    "knowledge_point": "高分子材料、天然材料和合成材料",
+    "new_id": "RJ-CHEMISTRY-9B-087",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-089",
+    "knowledge_point": "常见合成材料的性能、类型和用途",
+    "new_id": "RJ-CHEMISTRY-9B-088",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-090",
+    "knowledge_point": "复合材料与功能材料",
+    "new_id": "RJ-CHEMISTRY-9B-089",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-091",
+    "knowledge_point": "区分棉纤维、羊毛纤维和涤纶的实验",
+    "new_id": "RJ-CHEMISTRY-9B-090",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-092",
+    "knowledge_point": "资源循环利用与环境承载能力",
+    "new_id": "RJ-CHEMISTRY-9B-091",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-093",
+    "knowledge_point": "塑料包装制品回收标志",
+    "new_id": "RJ-CHEMISTRY-9B-092",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-094",
+    "knowledge_point": "跨学科融合解决实际问题的思路",
+    "new_id": "RJ-CHEMISTRY-9B-093",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-095",
+    "knowledge_point": "部分酸、碱和盐的溶解性（室温）",
+    "new_id": "RJ-CHEMISTRY-9B-094",
+    "status": "retained"
+  },
+  {
+    "old_id": "RJ-CHEMISTRY-9B-096",
+    "knowledge_point": "元素周期表",
+    "new_id": "RJ-CHEMISTRY-9B-095",
+    "status": "retained"
+  }
+]

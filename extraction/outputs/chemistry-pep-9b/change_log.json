@@ -1,0 +1,37 @@
+{
+  "source": "source_report.json",
+  "initial_extraction": true,
+  "changes": [
+    {
+      "action": "exclude",
+      "reason": "同类pH操作已在实验10-2完整讲解，实验10-3只要求自行选材记录，不重复建点。",
+      "before": {
+        "chapter": "第十单元 常见的酸、碱、盐",
+        "topic": "课题1 溶液的酸碱性",
+        "name": "测定生活中物质的pH",
+        "regions": [
+          [
+            67,
+            505,
+            547,
+            185,
+            480
+          ]
+        ],
+        "image_pages": [
+          68
+        ],
+        "notes": [
+          "图10-5原图保留，不补实验数据。"
+        ],
+        "detail": "选择生活中的一些物质，测定它们的pH，并记录在下表中。图10-5所示的物质供选择时参考。"
+      },
+      "after": null
+    }
+  ],
+  "transcription_changes": [
+    "refinement_log.json",
+    "content_changes.json"
+  ],
+  "id_map": "id_mapping.json"
+}

@@ -1,0 +1,637 @@
+[
+  {
+    "pdf_page": 1,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-001.png"
+  },
+  {
+    "pdf_page": 2,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-002.png"
+  },
+  {
+    "pdf_page": 3,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-003.png"
+  },
+  {
+    "pdf_page": 4,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-004.png"
+  },
+  {
+    "pdf_page": 5,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-005.png"
+  },
+  {
+    "pdf_page": 6,
+    "printed_page": 1,
+    "image": "images/chemistry-pep-9b/page-006.png"
+  },
+  {
+    "pdf_page": 7,
+    "printed_page": 2,
+    "image": "images/chemistry-pep-9b/page-007.png"
+  },
+  {
+    "pdf_page": 8,
+    "printed_page": 3,
+    "image": "images/chemistry-pep-9b/page-008.png"
+  },
+  {
+    "pdf_page": 9,
+    "printed_page": 4,
+    "image": "images/chemistry-pep-9b/page-009.png"
+  },
+  {
+    "pdf_page": 10,
+    "printed_page": 5,
+    "image": "images/chemistry-pep-9b/page-010.png"
+  },
+  {
+    "pdf_page": 11,
+    "printed_page": 6,
+    "image": "images/chemistry-pep-9b/page-011.png"
+  },
+  {
+    "pdf_page": 12,
+    "printed_page": 7,
+    "image": "images/chemistry-pep-9b/page-012.png"
+  },
+  {
+    "pdf_page": 13,
+    "printed_page": 8,
+    "image": "images/chemistry-pep-9b/page-013.png"
+  },
+  {
+    "pdf_page": 14,
+    "printed_page": 9,
+    "image": "images/chemistry-pep-9b/page-014.png"
+  },
+  {
+    "pdf_page": 15,
+    "printed_page": 10,
+    "image": "images/chemistry-pep-9b/page-015.png"
+  },
+  {
+    "pdf_page": 16,
+    "printed_page": 11,
+    "image": "images/chemistry-pep-9b/page-016.png"
+  },
+  {
+    "pdf_page": 17,
+    "printed_page": 12,
+    "image": "images/chemistry-pep-9b/page-017.png"
+  },
+  {
+    "pdf_page": 18,
+    "printed_page": 13,
+    "image": "images/chemistry-pep-9b/page-018.png"
+  },
+  {
+    "pdf_page": 19,
+    "printed_page": 14,
+    "image": "images/chemistry-pep-9b/page-019.png"
+  },
+  {
+    "pdf_page": 20,
+    "printed_page": 15,
+    "image": "images/chemistry-pep-9b/page-020.png"
+  },
+  {
+    "pdf_page": 21,
+    "printed_page": 16,
+    "image": "images/chemistry-pep-9b/page-021.png"
+  },
+  {
+    "pdf_page": 22,
+    "printed_page": 17,
+    "image": "images/chemistry-pep-9b/page-022.png"
+  },
+  {
+    "pdf_page": 23,
+    "printed_page": 18,
+    "image": "images/chemistry-pep-9b/page-023.png"
+  },
+  {
+    "pdf_page": 24,
+    "printed_page": 19,
+    "image": "images/chemistry-pep-9b/page-024.png"
+  },
+  {
+    "pdf_page": 25,
+    "printed_page": 20,
+    "image": "images/chemistry-pep-9b/page-025.png"
+  },
+  {
+    "pdf_page": 26,
+    "printed_page": 21,
+    "image": "images/chemistry-pep-9b/page-026.png"
+  },
+  {
+    "pdf_page": 27,
+    "printed_page": 22,
+    "image": "images/chemistry-pep-9b/page-027.png"
+  },
+  {
+    "pdf_page": 28,
+    "printed_page": 23,
+    "image": "images/chemistry-pep-9b/page-028.png"
+  },
+  {
+    "pdf_page": 29,
+    "printed_page": 24,
+    "image": "images/chemistry-pep-9b/page-029.png"
+  },
+  {
+    "pdf_page": 30,
+    "printed_page": 25,
+    "image": "images/chemistry-pep-9b/page-030.png"
+  },
+  {
+    "pdf_page": 31,
+    "printed_page": 26,
+    "image": "images/chemistry-pep-9b/page-031.png"
+  },
+  {
+    "pdf_page": 32,
+    "printed_page": 27,
+    "image": "images/chemistry-pep-9b/page-032.png"
+  },
+  {
+    "pdf_page": 33,
+    "printed_page": 28,
+    "image": "images/chemistry-pep-9b/page-033.png"
+  },
+  {
+    "pdf_page": 34,
+    "printed_page": 29,
+    "image": "images/chemistry-pep-9b/page-034.png"
+  },
+  {
+    "pdf_page": 35,
+    "printed_page": 30,
+    "image": "images/chemistry-pep-9b/page-035.png"
+  },
+  {
+    "pdf_page": 36,
+    "printed_page": 31,
+    "image": "images/chemistry-pep-9b/page-036.png"
+  },
+  {
+    "pdf_page": 37,
+    "printed_page": 32,
+    "image": "images/chemistry-pep-9b/page-037.png"
+  },
+  {
+    "pdf_page": 38,
+    "printed_page": 33,
+    "image": "images/chemistry-pep-9b/page-038.png"
+  },
+  {
+    "pdf_page": 39,
+    "printed_page": 34,
+    "image": "images/chemistry-pep-9b/page-039.png"
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": 35,
+    "image": "images/chemistry-pep-9b/page-040.png"
+  },
+  {
+    "pdf_page": 41,
+    "printed_page": 36,
+    "image": "images/chemistry-pep-9b/page-041.png"
+  },
+  {
+    "pdf_page": 42,
+    "printed_page": 37,
+    "image": "images/chemistry-pep-9b/page-042.png"
+  },
+  {
+    "pdf_page": 43,
+    "printed_page": 38,
+    "image": "images/chemistry-pep-9b/page-043.png"
+  },
+  {
+    "pdf_page": 44,
+    "printed_page": 39,
+    "image": "images/chemistry-pep-9b/page-044.png"
+  },
+  {
+    "pdf_page": 45,
+    "printed_page": 40,
+    "image": "images/chemistry-pep-9b/page-045.png"
+  },
+  {
+    "pdf_page": 46,
+    "printed_page": 41,
+    "image": "images/chemistry-pep-9b/page-046.png"
+  },
+  {
+    "pdf_page": 47,
+    "printed_page": 42,
+    "image": "images/chemistry-pep-9b/page-047.png"
+  },
+  {
+    "pdf_page": 48,
+    "printed_page": 43,
+    "image": "images/chemistry-pep-9b/page-048.png"
+  },
+  {
+    "pdf_page": 49,
+    "printed_page": 44,
+    "image": "images/chemistry-pep-9b/page-049.png"
+  },
+  {
+    "pdf_page": 50,
+    "printed_page": 45,
+    "image": "images/chemistry-pep-9b/page-050.png"
+  },
+  {
+    "pdf_page": 51,
+    "printed_page": 46,
+    "image": "images/chemistry-pep-9b/page-051.png"
+  },
+  {
+    "pdf_page": 52,
+    "printed_page": 47,
+    "image": "images/chemistry-pep-9b/page-052.png"
+  },
+  {
+    "pdf_page": 53,
+    "printed_page": 48,
+    "image": "images/chemistry-pep-9b/page-053.png"
+  },
+  {
+    "pdf_page": 54,
+    "printed_page": 49,
+    "image": "images/chemistry-pep-9b/page-054.png"
+  },
+  {
+    "pdf_page": 55,
+    "printed_page": 50,
+    "image": "images/chemistry-pep-9b/page-055.png"
+  },
+  {
+    "pdf_page": 56,
+    "printed_page": 51,
+    "image": "images/chemistry-pep-9b/page-056.png"
+  },
+  {
+    "pdf_page": 57,
+    "printed_page": 52,
+    "image": "images/chemistry-pep-9b/page-057.png"
+  },
+  {
+    "pdf_page": 58,
+    "printed_page": 53,
+    "image": "images/chemistry-pep-9b/page-058.png"
+  },
+  {
+    "pdf_page": 59,
+    "printed_page": 54,
+    "image": "images/chemistry-pep-9b/page-059.png"
+  },
+  {
+    "pdf_page": 60,
+    "printed_page": 55,
+    "image": "images/chemistry-pep-9b/page-060.png"
+  },
+  {
+    "pdf_page": 61,
+    "printed_page": 56,
+    "image": "images/chemistry-pep-9b/page-061.png"
+  },
+  {
+    "pdf_page": 62,
+    "printed_page": 57,
+    "image": "images/chemistry-pep-9b/page-062.png"
+  },
+  {
+    "pdf_page": 63,
+    "printed_page": 58,
+    "image": "images/chemistry-pep-9b/page-063.png"
+  },
+  {
+    "pdf_page": 64,
+    "printed_page": 59,
+    "image": "images/chemistry-pep-9b/page-064.png"
+  },
+  {
+    "pdf_page": 65,
+    "printed_page": 60,
+    "image": "images/chemistry-pep-9b/page-065.png"
+  },
+  {
+    "pdf_page": 66,
+    "printed_page": 61,
+    "image": "images/chemistry-pep-9b/page-066.png"
+  },
+  {
+    "pdf_page": 67,
+    "printed_page": 62,
+    "image": "images/chemistry-pep-9b/page-067.png"
+  },
+  {
+    "pdf_page": 68,
+    "printed_page": 63,
+    "image": "images/chemistry-pep-9b/page-068.png"
+  },
+  {
+    "pdf_page": 69,
+    "printed_page": 64,
+    "image": "images/chemistry-pep-9b/page-069.png"
+  },
+  {
+    "pdf_page": 70,
+    "printed_page": 65,
+    "image": "images/chemistry-pep-9b/page-070.png"
+  },
+  {
+    "pdf_page": 71,
+    "printed_page": 66,
+    "image": "images/chemistry-pep-9b/page-071.png"
+  },
+  {
+    "pdf_page": 72,
+    "printed_page": 67,
+    "image": "images/chemistry-pep-9b/page-072.png"
+  },
+  {
+    "pdf_page": 73,
+    "printed_page": 68,
+    "image": "images/chemistry-pep-9b/page-073.png"
+  },
+  {
+    "pdf_page": 74,
+    "printed_page": 69,
+    "image": "images/chemistry-pep-9b/page-074.png"
+  },
+  {
+    "pdf_page": 75,
+    "printed_page": 70,
+    "image": "images/chemistry-pep-9b/page-075.png"
+  },
+  {
+    "pdf_page": 76,
+    "printed_page": 71,
+    "image": "images/chemistry-pep-9b/page-076.png"
+  },
+  {
+    "pdf_page": 77,
+    "printed_page": 72,
+    "image": "images/chemistry-pep-9b/page-077.png"
+  },
+  {
+    "pdf_page": 78,
+    "printed_page": 73,
+    "image": "images/chemistry-pep-9b/page-078.png"
+  },
+  {
+    "pdf_page": 79,
+    "printed_page": 74,
+    "image": "images/chemistry-pep-9b/page-079.png"
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": 75,
+    "image": "images/chemistry-pep-9b/page-080.png"
+  },
+  {
+    "pdf_page": 81,
+    "printed_page": 76,
+    "image": "images/chemistry-pep-9b/page-081.png"
+  },
+  {
+    "pdf_page": 82,
+    "printed_page": 77,
+    "image": "images/chemistry-pep-9b/page-082.png"
+  },
+  {
+    "pdf_page": 83,
+    "printed_page": 78,
+    "image": "images/chemistry-pep-9b/page-083.png"
+  },
+  {
+    "pdf_page": 84,
+    "printed_page": 79,
+    "image": "images/chemistry-pep-9b/page-084.png"
+  },
+  {
+    "pdf_page": 85,
+    "printed_page": 80,
+    "image": "images/chemistry-pep-9b/page-085.png"
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 81,
+    "image": "images/chemistry-pep-9b/page-086.png"
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 82,
+    "image": "images/chemistry-pep-9b/page-087.png"
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 83,
+    "image": "images/chemistry-pep-9b/page-088.png"
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 84,
+    "image": "images/chemistry-pep-9b/page-089.png"
+  },
+  {
+    "pdf_page": 90,
+    "printed_page": 85,
+    "image": "images/chemistry-pep-9b/page-090.png"
+  },
+  {
+    "pdf_page": 91,
+    "printed_page": 86,
+    "image": "images/chemistry-pep-9b/page-091.png"
+  },
+  {
+    "pdf_page": 92,
+    "printed_page": 87,
+    "image": "images/chemistry-pep-9b/page-092.png"
+  },
+  {
+    "pdf_page": 93,
+    "printed_page": 88,
+    "image": "images/chemistry-pep-9b/page-093.png"
+  },
+  {
+    "pdf_page": 94,
+    "printed_page": 89,
+    "image": "images/chemistry-pep-9b/page-094.png"
+  },
+  {
+    "pdf_page": 95,
+    "printed_page": 90,
+    "image": "images/chemistry-pep-9b/page-095.png"
+  },
+  {
+    "pdf_page": 96,
+    "printed_page": 91,
+    "image": "images/chemistry-pep-9b/page-096.png"
+  },
+  {
+    "pdf_page": 97,
+    "printed_page": 92,
+    "image": "images/chemistry-pep-9b/page-097.png"
+  },
+  {
+    "pdf_page": 98,
+    "printed_page": 93,
+    "image": "images/chemistry-pep-9b/page-098.png"
+  },
+  {
+    "pdf_page": 99,
+    "printed_page": 94,
+    "image": "images/chemistry-pep-9b/page-099.png"
+  },
+  {
+    "pdf_page": 100,
+    "printed_page": 95,
+    "image": "images/chemistry-pep-9b/page-100.png"
+  },
+  {
+    "pdf_page": 101,
+    "printed_page": 96,
+    "image": "images/chemistry-pep-9b/page-101.png"
+  },
+  {
+    "pdf_page": 102,
+    "printed_page": 97,
+    "image": "images/chemistry-pep-9b/page-102.png"
+  },
+  {
+    "pdf_page": 103,
+    "printed_page": 98,
+    "image": "images/chemistry-pep-9b/page-103.png"
+  },
+  {
+    "pdf_page": 104,
+    "printed_page": 99,
+    "image": "images/chemistry-pep-9b/page-104.png"
+  },
+  {
+    "pdf_page": 105,
+    "printed_page": 100,
+    "image": "images/chemistry-pep-9b/page-105.png"
+  },
+  {
+    "pdf_page": 106,
+    "printed_page": 101,
+    "image": "images/chemistry-pep-9b/page-106.png"
+  },
+  {
+    "pdf_page": 107,
+    "printed_page": 102,
+    "image": "images/chemistry-pep-9b/page-107.png"
+  },
+  {
+    "pdf_page": 108,
+    "printed_page": 103,
+    "image": "images/chemistry-pep-9b/page-108.png"
+  },
+  {
+    "pdf_page": 109,
+    "printed_page": 104,
+    "image": "images/chemistry-pep-9b/page-109.png"
+  },
+  {
+    "pdf_page": 110,
+    "printed_page": 105,
+    "image": "images/chemistry-pep-9b/page-110.png"
+  },
+  {
+    "pdf_page": 111,
+    "printed_page": 106,
+    "image": "images/chemistry-pep-9b/page-111.png"
+  },
+  {
+    "pdf_page": 112,
+    "printed_page": 107,
+    "image": "images/chemistry-pep-9b/page-112.png"
+  },
+  {
+    "pdf_page": 113,
+    "printed_page": 108,
+    "image": "images/chemistry-pep-9b/page-113.png"
+  },
+  {
+    "pdf_page": 114,
+    "printed_page": 109,
+    "image": "images/chemistry-pep-9b/page-114.png"
+  },
+  {
+    "pdf_page": 115,
+    "printed_page": 110,
+    "image": "images/chemistry-pep-9b/page-115.png"
+  },
+  {
+    "pdf_page": 116,
+    "printed_page": 111,
+    "image": "images/chemistry-pep-9b/page-116.png"
+  },
+  {
+    "pdf_page": 117,
+    "printed_page": 112,
+    "image": "images/chemistry-pep-9b/page-117.png"
+  },
+  {
+    "pdf_page": 118,
+    "printed_page": 113,
+    "image": "images/chemistry-pep-9b/page-118.png"
+  },
+  {
+    "pdf_page": 119,
+    "printed_page": 114,
+    "image": "images/chemistry-pep-9b/page-119.png"
+  },
+  {
+    "pdf_page": 120,
+    "printed_page": 115,
+    "image": "images/chemistry-pep-9b/page-120.png"
+  },
+  {
+    "pdf_page": 121,
+    "printed_page": 116,
+    "image": "images/chemistry-pep-9b/page-121.png"
+  },
+  {
+    "pdf_page": 122,
+    "printed_page": 117,
+    "image": "images/chemistry-pep-9b/page-122.png"
+  },
+  {
+    "pdf_page": 123,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-123.png"
+  },
+  {
+    "pdf_page": 124,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-124.png"
+  },
+  {
+    "pdf_page": 125,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-125.png"
+  },
+  {
+    "pdf_page": 126,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-126.png"
+  },
+  {
+    "pdf_page": 127,
+    "printed_page": null,
+    "image": "images/chemistry-pep-9b/page-127.png"
+  }
+]

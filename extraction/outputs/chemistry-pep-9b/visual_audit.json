@@ -1,0 +1,1034 @@
+{
+  "pdf_pages": 127,
+  "reviewed_pages": 127,
+  "method": "逐页查看已渲染整页/双页图；文字层仅定位候选，逐条读回并修订串栏、上标、脚注、跨页及表格。",
+  "review_images": "review/pages-NNN-NNN.jpg；images/chemistry-pep-9b/page-NNN.png",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 2,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 3,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 4,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 5,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 6,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 7,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-001",
+        "RJ-CHEMISTRY-9B-002"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 8,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-002",
+        "RJ-CHEMISTRY-9B-003"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 9,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-004",
+        "RJ-CHEMISTRY-9B-005",
+        "RJ-CHEMISTRY-9B-006"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 10,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-006",
+        "RJ-CHEMISTRY-9B-007"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 11,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-008"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 12,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-009"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 13,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-002",
+        "RJ-CHEMISTRY-9B-010"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 14,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 15,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-011",
+        "RJ-CHEMISTRY-9B-012"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 16,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-012"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 17,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-012",
+        "RJ-CHEMISTRY-9B-013",
+        "RJ-CHEMISTRY-9B-014"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 18,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-014",
+        "RJ-CHEMISTRY-9B-015"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 19,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-015",
+        "RJ-CHEMISTRY-9B-016"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 20,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 21,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-017"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 22,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-018"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 23,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-019"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 24,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-020"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 25,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-020",
+        "RJ-CHEMISTRY-9B-021"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 26,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-021",
+        "RJ-CHEMISTRY-9B-022"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 27,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-020"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 28,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 29,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 30,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 31,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 32,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-023"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 33,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 34,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 35,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-024"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 36,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-024",
+        "RJ-CHEMISTRY-9B-025"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 37,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-025",
+        "RJ-CHEMISTRY-9B-026"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 38,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-027",
+        "RJ-CHEMISTRY-9B-028"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 39,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-028",
+        "RJ-CHEMISTRY-9B-029"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 40,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-029"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 41,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 42,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-030"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 43,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-031"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 44,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-032"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 45,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-033",
+        "RJ-CHEMISTRY-9B-034"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 46,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-034"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 47,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-034",
+        "RJ-CHEMISTRY-9B-035"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 48,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-036",
+        "RJ-CHEMISTRY-9B-037"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 49,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 50,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 51,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-038"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 52,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-038",
+        "RJ-CHEMISTRY-9B-039"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 53,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-040",
+        "RJ-CHEMISTRY-9B-041"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 54,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-042"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 55,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 56,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 57,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 58,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 59,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 60,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-043"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 61,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-044"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 62,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-044"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 63,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 64,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 65,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-045"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 66,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-045",
+        "RJ-CHEMISTRY-9B-046",
+        "RJ-CHEMISTRY-9B-047"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 67,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-046",
+        "RJ-CHEMISTRY-9B-048"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 68,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-049",
+        "RJ-CHEMISTRY-9B-050"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 69,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 70,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 71,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-051"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 72,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-052",
+        "RJ-CHEMISTRY-9B-053"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 73,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-053",
+        "RJ-CHEMISTRY-9B-054"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 74,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-055"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 75,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-056"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 76,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-057"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 77,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-058"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 78,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-059"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 79,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-060",
+        "RJ-CHEMISTRY-9B-061"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 80,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-061",
+        "RJ-CHEMISTRY-9B-062"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 81,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-055",
+        "RJ-CHEMISTRY-9B-059"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 82,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 83,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-063",
+        "RJ-CHEMISTRY-9B-064"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 84,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-064",
+        "RJ-CHEMISTRY-9B-065"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 85,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-066",
+        "RJ-CHEMISTRY-9B-067"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 86,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-067",
+        "RJ-CHEMISTRY-9B-068"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 87,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-067",
+        "RJ-CHEMISTRY-9B-069"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 88,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-069",
+        "RJ-CHEMISTRY-9B-070"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 89,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-071"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 90,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-066"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 91,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 92,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 93,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 94,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 95,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-072"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 96,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-072"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 97,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 98,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 99,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-073"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 100,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-073",
+        "RJ-CHEMISTRY-9B-074",
+        "RJ-CHEMISTRY-9B-075"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 101,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-075"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 102,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-076",
+        "RJ-CHEMISTRY-9B-077",
+        "RJ-CHEMISTRY-9B-078",
+        "RJ-CHEMISTRY-9B-079"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 103,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-079",
+        "RJ-CHEMISTRY-9B-080"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 104,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-081",
+        "RJ-CHEMISTRY-9B-082"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 105,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-083",
+        "RJ-CHEMISTRY-9B-084"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 106,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 107,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 108,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 109,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-085"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 110,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-086",
+        "RJ-CHEMISTRY-9B-087"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 111,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-088"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 112,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-089",
+        "RJ-CHEMISTRY-9B-090"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 113,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-091"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 114,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-092",
+        "RJ-CHEMISTRY-9B-093"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 115,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 116,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 117,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 118,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 119,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 120,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 121,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-094"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 122,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 123,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 124,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 125,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    },
+    {
+      "pdf_page": 126,
+      "status": "visually_reviewed",
+      "records": [
+        "RJ-CHEMISTRY-9B-095"
+      ],
+      "disposition": "included_fragments_and_exclusions"
+    },
+    {
+      "pdf_page": 127,
+      "status": "visually_reviewed",
+      "records": [],
+      "disposition": "excluded_or_metadata_only; see exclusion_audit.json"
+    }
+  ],
+  "rechecked_tables": [
+    8,
+    11,
+    45,
+    68,
+    71,
+    74,
+    83,
+    86,
+    88,
+    100,
+    101,
+    111,
+    114,
+    121,
+    126
+  ],
+  "cross_page_merges": [
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      25,
+      26
+    ],
+    [
+      39,
+      40
+    ],
+    [
+      51,
+      52
+    ],
+    [
+      79,
+      80
+    ],
+    [
+      83,
+      84
+    ],
+    [
+      99,
+      100
+    ],
+    [
+      102,
+      103
+    ]
+  ],
+  "open_issues": []
+}

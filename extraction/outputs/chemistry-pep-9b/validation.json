@@ -1,0 +1,29 @@
+{
+  "records": 95,
+  "pages": 127,
+  "image_files": 127,
+  "image_references": 128,
+  "chapter_counts": {
+    "第八单元 金属和金属材料": 23,
+    "第九单元 溶液": 21,
+    "第十单元 常见的酸、碱、盐": 28,
+    "第十一单元 化学与社会": 21,
+    "附录Ⅰ": 1,
+    "元素周期表": 1
+  },
+  "example_records": 0,
+  "checks": {
+    "csv_bom_and_eight_fields": "passed",
+    "ids_and_source_alignment": "passed",
+    "image_existence_standalone_and_no_same_field_duplicates": "passed",
+    "physical_page_ranges": "passed",
+    "math_delimiters_braces_and_backslashes": "passed",
+    "full_page_visual_audit": "127/127",
+    "source_sha256_and_website_md5": "passed"
+  },
+  "content_validation": "逐条读回与逐页图像核验见visual_audit.json、refinement_log.json及content_changes.json。结构校验不代替原文核验。",
+  "limitations": [
+    "网站ebook_mapping无节点标题字段，名称由同一PDF目录和页标题核验。",
+    "附录溶解性表和元素周期表以整页原图完整保留二维信息。"
+  ]
+}
