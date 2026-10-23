@@ -1,0 +1,456 @@
+{
+  "resource_id": "07f7d663-a867-4eb6-ad39-03b55dbd4a65",
+  "website_title": "普通高中教科书·化学必修 第二册",
+  "resource_url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=07f7d663-a867-4eb6-ad39-03b55dbd4a65",
+  "identity_evidence": [
+    "资源ID与输入文件名一致",
+    "网站源文件大小12793174字节、139页与本地一致",
+    "ISBN9787107335754与本地封底一致",
+    "目录章、节、实验活动起始页及层级与本地P4-P5和正文一致"
+  ],
+  "local_sha256": "fbaa88aa65396838361bf028f0c9f1490dd98bb4960cdefc7e265575ba527d61",
+  "local_md5": "accc6beba1c590e73629d323da274fe3",
+  "website_source_ti_md5": "e9e41f3f28a7acb617fe7700396b81d3-2",
+  "hash_comparison": "网站ti_md5为带-2后缀的分段对象标识，不能当作本地文件MD5比较，未宣称远端与本地逐字节相同",
+  "nodes": [
+    {
+      "node_id": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f",
+      "page_number": 6,
+      "depth": 0,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第五章 化工生产中的重要非金属元素",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "7c9968f0-ecb8-3f64-be3e-37d0d6e2193e",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/7c9968f0-ecb8-3f64-be3e-37d0d6e2193e",
+      "page_number": 7,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第一节 硫及其化合物",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "df6c5c5c-c403-3273-9c30-60f71dafc282",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282",
+      "page_number": 16,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第二节 氮及其化合物",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "dc3bff1d-c64b-3c18-8fc3-f1da8df751fc",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/dc3bff1d-c64b-3c18-8fc3-f1da8df751fc",
+      "page_number": 24,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第三节 无机非金属材料",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "529643d6-e701-31c7-bcc8-6d13a69a3a21",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/529643d6-e701-31c7-bcc8-6d13a69a3a21",
+      "page_number": 31,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "整理与提升",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "b5c22eb1-ba8a-31d0-b774-d5b3b3120d0c",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/b5c22eb1-ba8a-31d0-b774-d5b3b3120d0c",
+      "page_number": 34,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动4 用化学沉淀法去除粗盐中的杂质离子",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "81c8640e-f9d9-3f2f-a329-bf589f7ca5f5",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/81c8640e-f9d9-3f2f-a329-bf589f7ca5f5",
+      "page_number": 35,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动5 不同价态含硫物质的转化",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce",
+      "page_number": 36,
+      "depth": 0,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第六章 化学反应与能量",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "a050a6b3-2e32-3918-b6da-4fcbde75d1a8",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/a050a6b3-2e32-3918-b6da-4fcbde75d1a8",
+      "page_number": 37,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第一节 化学反应与能量变化",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "0ccec63f-691f-355e-a87d-e183bf94f38b",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/0ccec63f-691f-355e-a87d-e183bf94f38b",
+      "page_number": 47,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第二节 化学反应的速率与限度",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "5707a282-54f0-3cec-98b9-ef01d14c7d99",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/5707a282-54f0-3cec-98b9-ef01d14c7d99",
+      "page_number": 57,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "整理与提升",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "1fe6ad0e-067e-3c48-a6d3-fd3d3c8bf588",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/1fe6ad0e-067e-3c48-a6d3-fd3d3c8bf588",
+      "page_number": 61,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动6 化学能转化成电能",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "9821b64a-283c-3c6b-879c-818d608dc523",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/9821b64a-283c-3c6b-879c-818d608dc523",
+      "page_number": 62,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动7 化学反应速率的影响因素",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056",
+      "page_number": 64,
+      "depth": 0,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第七章 有机化合物",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "dfecf17e-50d3-3be0-a746-3319b65e2fea",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/dfecf17e-50d3-3be0-a746-3319b65e2fea",
+      "page_number": 65,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第一节 认识有机化合物",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "006218c7-4821-3ccf-aa32-20edcfb145a8",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/006218c7-4821-3ccf-aa32-20edcfb145a8",
+      "page_number": 72,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第二节 乙烯与有机高分子材料",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "f1193730-7aef-3ff6-8ff8-42794272c2e5",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f1193730-7aef-3ff6-8ff8-42794272c2e5",
+      "page_number": 82,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第三节 乙醇与乙酸",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1",
+      "page_number": 88,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第四节 基本营养物质",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "d8054554-6504-3df5-ad19-89acb30bb8e9",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/d8054554-6504-3df5-ad19-89acb30bb8e9",
+      "page_number": 96,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "整理与提升",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "275d1307-cbf4-341f-ba54-bea89d97d397",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/275d1307-cbf4-341f-ba54-bea89d97d397",
+      "page_number": 100,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动8 搭建球棍模型认识有机化合物分子结构的特点",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "766ff26a-8353-3eb2-8b7a-caa33f250bc4",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/766ff26a-8353-3eb2-8b7a-caa33f250bc4",
+      "page_number": 101,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "实验活动9 乙醇、乙酸的主要性质",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "6cac3f81-8163-3b2e-badb-79240c5a2a72",
+      "node_path": "6cac3f81-8163-3b2e-badb-79240c5a2a72",
+      "page_number": 102,
+      "depth": 0,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第八章 化学与可持续发展",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "326dc406-0f44-3c4d-856a-5b3644cdab83",
+      "node_path": "6cac3f81-8163-3b2e-badb-79240c5a2a72/326dc406-0f44-3c4d-856a-5b3644cdab83",
+      "page_number": 103,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第一节 自然资源的开发利用",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "17db38e0-02c5-3372-a9f0-74ad4796fb72",
+      "node_path": "6cac3f81-8163-3b2e-badb-79240c5a2a72/17db38e0-02c5-3372-a9f0-74ad4796fb72",
+      "page_number": 112,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第二节 化学品的合理使用",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "2ca64ef4-0e5e-343b-8236-5ebfcbab03f0",
+      "node_path": "6cac3f81-8163-3b2e-badb-79240c5a2a72/2ca64ef4-0e5e-343b-8236-5ebfcbab03f0",
+      "page_number": 122,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "第三节 环境保护与绿色化学",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "4f864656-adaf-332b-bfd5-6faf6d0e22d1",
+      "node_path": "6cac3f81-8163-3b2e-badb-79240c5a2a72/4f864656-adaf-332b-bfd5-6faf6d0e22d1",
+      "page_number": 128,
+      "depth": 1,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title": "整理与提升",
+      "title_evidence": "PDF P4-P5目录及对应起始页视觉核对"
+    },
+    {
+      "node_id": "1815c9a8-03a3-3f4a-95a5-090a64257f84",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1/1815c9a8-03a3-3f4a-95a5-090a64257f84",
+      "page_number": 88,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "970a8193-4340-3f44-9da6-603055b22ef3",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1/970a8193-4340-3f44-9da6-603055b22ef3",
+      "page_number": 90,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "b15811dd-3659-3c9c-bce7-bcdae3cb48ca",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1/b15811dd-3659-3c9c-bce7-bcdae3cb48ca",
+      "page_number": 92,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "46610ced-b44a-3e42-830a-efc2970412d4",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/f3a2f8e5-3beb-38a5-8e4a-29d03865ffe1/46610ced-b44a-3e42-830a-efc2970412d4",
+      "page_number": 95,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "1ed1ed76-221f-30ea-b9cf-d8300207b7e3",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/006218c7-4821-3ccf-aa32-20edcfb145a8/1ed1ed76-221f-30ea-b9cf-d8300207b7e3",
+      "page_number": 72,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "20ddc68c-bd13-315c-9e33-e665d133e4d3",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/006218c7-4821-3ccf-aa32-20edcfb145a8/20ddc68c-bd13-315c-9e33-e665d133e4d3",
+      "page_number": 76,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "214d69df-e37e-3865-911e-ea66f7753903",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/006218c7-4821-3ccf-aa32-20edcfb145a8/214d69df-e37e-3865-911e-ea66f7753903",
+      "page_number": 81,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "99fbdf96-eb6f-38ea-b617-87f454c2cae4",
+      "node_path": "bfaacd91-0fe2-398d-9ed2-f8eefd79f056/006218c7-4821-3ccf-aa32-20edcfb145a8/99fbdf96-eb6f-38ea-b617-87f454c2cae4",
+      "page_number": 74,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "58c293a7-ffb7-34d9-a31c-07a16b594825",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/0ccec63f-691f-355e-a87d-e183bf94f38b/58c293a7-ffb7-34d9-a31c-07a16b594825",
+      "page_number": 47,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "c7eb0da8-4d9a-3bed-a1a2-07d12ac20312",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/0ccec63f-691f-355e-a87d-e183bf94f38b/c7eb0da8-4d9a-3bed-a1a2-07d12ac20312",
+      "page_number": 51,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "a2720677-8e8c-3943-bf59-7889df1cb2a2",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/0ccec63f-691f-355e-a87d-e183bf94f38b/a2720677-8e8c-3943-bf59-7889df1cb2a2",
+      "page_number": 52,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "5f3b37e7-169c-37cd-a975-b10a230ee190",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/0ccec63f-691f-355e-a87d-e183bf94f38b/5f3b37e7-169c-37cd-a975-b10a230ee190",
+      "page_number": 54,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "66329ef3-ed5a-312d-8906-d222111e7602",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/a050a6b3-2e32-3918-b6da-4fcbde75d1a8/66329ef3-ed5a-312d-8906-d222111e7602",
+      "page_number": 37,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "c282f6fb-7d22-3874-aa6d-d8180ae8ba22",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/a050a6b3-2e32-3918-b6da-4fcbde75d1a8/c282f6fb-7d22-3874-aa6d-d8180ae8ba22",
+      "page_number": 41,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "717c6962-df25-3445-a903-030e485d470e",
+      "node_path": "7d0d1e3a-166c-377f-aac0-d0b4b6bd48ce/a050a6b3-2e32-3918-b6da-4fcbde75d1a8/717c6962-df25-3445-a903-030e485d470e",
+      "page_number": 46,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "b2762d06-999a-3af7-98d4-4d202c0d4495",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/b2762d06-999a-3af7-98d4-4d202c0d4495",
+      "page_number": 16,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "990ba287-9401-3313-b8b9-66a1dd298bda",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/990ba287-9401-3313-b8b9-66a1dd298bda",
+      "page_number": 20,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "ef57373c-63dc-36c7-8e57-2f960426631e",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/ef57373c-63dc-36c7-8e57-2f960426631e",
+      "page_number": 21,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "e48b8ddd-145f-3758-94e8-3e0e32000327",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/e48b8ddd-145f-3758-94e8-3e0e32000327",
+      "page_number": 18,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "62c7eb43-631d-35bb-86ea-61c00b4175e4",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/62c7eb43-631d-35bb-86ea-61c00b4175e4",
+      "page_number": 18,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "9798ebdb-9f81-3667-bc9d-a3b16d341077",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/7c9968f0-ecb8-3f64-be3e-37d0d6e2193e/9798ebdb-9f81-3667-bc9d-a3b16d341077",
+      "page_number": 7,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "f926b193-59f1-36c2-93a8-737b39842126",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/7c9968f0-ecb8-3f64-be3e-37d0d6e2193e/f926b193-59f1-36c2-93a8-737b39842126",
+      "page_number": 9,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "b2ea859b-688e-3be1-8f8c-dd14e9ef845a",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/7c9968f0-ecb8-3f64-be3e-37d0d6e2193e/b2ea859b-688e-3be1-8f8c-dd14e9ef845a",
+      "page_number": 12,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "e74f373d-6aeb-351a-af3f-1d712bb36830",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/7c9968f0-ecb8-3f64-be3e-37d0d6e2193e/e74f373d-6aeb-351a-af3f-1d712bb36830",
+      "page_number": 15,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    },
+    {
+      "node_id": "e673ea06-d12d-34bb-9da7-d3ec49c4ada6",
+      "node_path": "773bd1d1-1ab5-3c97-8a21-3ddbbc2d628f/df6c5c5c-c403-3273-9c30-60f71dafc282/e673ea06-d12d-34bb-9da7-d3ec49c4ada6",
+      "page_number": 23,
+      "depth": 2,
+      "website_title_status": "not_present_in_mapping",
+      "pdf_title_status": "按同页小标题与节点位置辅助核对；不虚构网站标题"
+    }
+  ],
+  "ordering": "章/节依平台节点路径及页码；知识点依教材正文、跨栏阅读顺序细分；平台未单列的小标题由教材补充",
+  "limitations": [
+    "ebook_mapping没有标题字符串，不能声称逐字核验了网站各末级名称。章、节名称来自同版PDF目录；小标题来自视觉核定的正文。",
+    "附录与元素周期表由教材目录/原页定位，未虚构网站独立节点。"
+  ]
+}

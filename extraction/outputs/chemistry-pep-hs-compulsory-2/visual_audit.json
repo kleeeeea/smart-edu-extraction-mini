@@ -1,0 +1,1824 @@
+{
+  "total_pages": 139,
+  "reviewed_pages": 139,
+  "method": "所有物理页的渲染图逐页视觉查看；文字层仅作候选；重点反应式及跨栏页再次复核",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "review_image": "review/pages-001-002.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-001.png",
+      "visual_status": "reviewed",
+      "role": "封面：书名、2019审核标记",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "封面：书名、2019审核标记；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "review_image": "review/pages-001-002.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-002.png",
+      "visual_status": "reviewed",
+      "role": "扉页/编写说明",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "扉页/编写说明；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "review_image": "review/pages-003-004.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-003.png",
+      "visual_status": "reviewed",
+      "role": "编写人员与出版信息",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "编写人员与出版信息；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "review_image": "review/pages-003-004.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-004.png",
+      "visual_status": "reviewed",
+      "role": "目录",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "目录；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "review_image": "review/pages-005-006.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-005.png",
+      "visual_status": "reviewed",
+      "role": "目录与栏目索引",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "目录与栏目索引；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 1,
+      "review_image": "review/pages-005-006.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-006.png",
+      "visual_status": "reviewed",
+      "role": "章引言与章图",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "章引言与章图；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 2,
+      "review_image": "review/pages-007-008.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-007.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-001",
+        "RJ-CHEMISTRY-HSC2-002",
+        "RJ-CHEMISTRY-HSC2-003"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 3,
+      "review_image": "review/pages-007-008.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-008.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-003",
+        "RJ-CHEMISTRY-HSC2-004",
+        "RJ-CHEMISTRY-HSC2-005"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 4,
+      "review_image": "review/pages-009-010.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-009.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-006",
+        "RJ-CHEMISTRY-HSC2-007",
+        "RJ-CHEMISTRY-HSC2-008"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 5,
+      "review_image": "review/pages-009-010.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-010.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-009",
+        "RJ-CHEMISTRY-HSC2-010"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 6,
+      "review_image": "review/pages-011-012.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-011.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-010",
+        "RJ-CHEMISTRY-HSC2-011",
+        "RJ-CHEMISTRY-HSC2-012"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 7,
+      "review_image": "review/pages-011-012.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-012.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-012",
+        "RJ-CHEMISTRY-HSC2-013"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 8,
+      "review_image": "review/pages-013-014.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-013.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-014"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 9,
+      "review_image": "review/pages-013-014.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-014.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-015"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 10,
+      "review_image": "review/pages-015-016.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-015.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 11,
+      "review_image": "review/pages-015-016.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-016.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-016",
+        "RJ-CHEMISTRY-HSC2-017",
+        "RJ-CHEMISTRY-HSC2-018"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 12,
+      "review_image": "review/pages-017-018.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-017.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-018",
+        "RJ-CHEMISTRY-HSC2-019"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 13,
+      "review_image": "review/pages-017-018.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-018.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-020",
+        "RJ-CHEMISTRY-HSC2-021"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 14,
+      "review_image": "review/pages-019-020.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-019.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-021",
+        "RJ-CHEMISTRY-HSC2-022",
+        "RJ-CHEMISTRY-HSC2-023"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 15,
+      "review_image": "review/pages-019-020.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-020.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-023",
+        "RJ-CHEMISTRY-HSC2-024",
+        "RJ-CHEMISTRY-HSC2-025",
+        "RJ-CHEMISTRY-HSC2-026",
+        "RJ-CHEMISTRY-HSC2-027"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 16,
+      "review_image": "review/pages-021-022.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-021.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-026",
+        "RJ-CHEMISTRY-HSC2-028",
+        "RJ-CHEMISTRY-HSC2-029"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 17,
+      "review_image": "review/pages-021-022.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-022.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-030"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 18,
+      "review_image": "review/pages-023-024.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-023.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 19,
+      "review_image": "review/pages-023-024.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-024.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-031",
+        "RJ-CHEMISTRY-HSC2-032"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 20,
+      "review_image": "review/pages-025-026.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-025.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-033",
+        "RJ-CHEMISTRY-HSC2-034"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 21,
+      "review_image": "review/pages-025-026.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-026.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-035",
+        "RJ-CHEMISTRY-HSC2-036",
+        "RJ-CHEMISTRY-HSC2-037"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 22,
+      "review_image": "review/pages-027-028.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-027.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-038",
+        "RJ-CHEMISTRY-HSC2-039"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 23,
+      "review_image": "review/pages-027-028.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-028.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-040",
+        "RJ-CHEMISTRY-HSC2-041",
+        "RJ-CHEMISTRY-HSC2-042"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 24,
+      "review_image": "review/pages-029-030.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-029.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-042"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 25,
+      "review_image": "review/pages-029-030.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-030.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 26,
+      "review_image": "review/pages-031-032.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-031.png",
+      "visual_status": "reviewed",
+      "role": "整理与提升，复现已有知识与待填图表",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "整理与提升，复现已有知识与待填图表；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 27,
+      "review_image": "review/pages-031-032.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-032.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 28,
+      "review_image": "review/pages-033-034.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-033.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 29,
+      "review_image": "review/pages-033-034.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-034.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-043"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 30,
+      "review_image": "review/pages-035-036.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-035.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-044"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 31,
+      "review_image": "review/pages-035-036.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-036.png",
+      "visual_status": "reviewed",
+      "role": "章引言与章图",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "章引言与章图；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 32,
+      "review_image": "review/pages-037-038.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-037.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-045"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 33,
+      "review_image": "review/pages-037-038.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-038.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-045",
+        "RJ-CHEMISTRY-HSC2-046",
+        "RJ-CHEMISTRY-HSC2-047"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 34,
+      "review_image": "review/pages-039-040.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-039.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-047",
+        "RJ-CHEMISTRY-HSC2-048"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 35,
+      "review_image": "review/pages-039-040.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-040.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-048",
+        "RJ-CHEMISTRY-HSC2-049",
+        "RJ-CHEMISTRY-HSC2-050"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 36,
+      "review_image": "review/pages-041-042.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-041.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-051",
+        "RJ-CHEMISTRY-HSC2-052"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 37,
+      "review_image": "review/pages-041-042.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-042.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-052",
+        "RJ-CHEMISTRY-HSC2-053"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 38,
+      "review_image": "review/pages-043-044.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-043.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-054",
+        "RJ-CHEMISTRY-HSC2-055"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 39,
+      "review_image": "review/pages-043-044.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-044.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-056",
+        "RJ-CHEMISTRY-HSC2-057"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 40,
+      "review_image": "review/pages-045-046.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-045.png",
+      "visual_status": "reviewed",
+      "role": "了解车用能源：资料搜集和报告任务",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "了解车用能源：资料搜集和报告任务；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 41,
+      "review_image": "review/pages-045-046.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-046.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 42,
+      "review_image": "review/pages-047-048.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-047.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "正文、实验或有效侧栏；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 43,
+      "review_image": "review/pages-047-048.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-048.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-058",
+        "RJ-CHEMISTRY-HSC2-059",
+        "RJ-CHEMISTRY-HSC2-060"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 44,
+      "review_image": "review/pages-049-050.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-049.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-060"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 45,
+      "review_image": "review/pages-049-050.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-050.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-061",
+        "RJ-CHEMISTRY-HSC2-062"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 46,
+      "review_image": "review/pages-051-052.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-051.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-063",
+        "RJ-CHEMISTRY-HSC2-064"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 47,
+      "review_image": "review/pages-051-052.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-052.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-064",
+        "RJ-CHEMISTRY-HSC2-065"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 48,
+      "review_image": "review/pages-053-054.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-053.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-065",
+        "RJ-CHEMISTRY-HSC2-066"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 49,
+      "review_image": "review/pages-053-054.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-054.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 50,
+      "review_image": "review/pages-055-056.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-055.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 51,
+      "review_image": "review/pages-055-056.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-056.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 52,
+      "review_image": "review/pages-057-058.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-057.png",
+      "visual_status": "reviewed",
+      "role": "整理与提升，复现已有知识与待填图表",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "整理与提升，复现已有知识与待填图表；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 53,
+      "review_image": "review/pages-057-058.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-058.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 54,
+      "review_image": "review/pages-059-060.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-059.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 55,
+      "review_image": "review/pages-059-060.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-060.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 56,
+      "review_image": "review/pages-061-062.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-061.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-067"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 57,
+      "review_image": "review/pages-061-062.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-062.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-067",
+        "RJ-CHEMISTRY-HSC2-068"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 58,
+      "review_image": "review/pages-063-064.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-063.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-068"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 59,
+      "review_image": "review/pages-063-064.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-064.png",
+      "visual_status": "reviewed",
+      "role": "章引言与章图",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "章引言与章图；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 60,
+      "review_image": "review/pages-065-066.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-065.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-069"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 61,
+      "review_image": "review/pages-065-066.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-066.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-069",
+        "RJ-CHEMISTRY-HSC2-070"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 62,
+      "review_image": "review/pages-067-068.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-067.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-071"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": 63,
+      "review_image": "review/pages-067-068.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-068.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-072",
+        "RJ-CHEMISTRY-HSC2-073",
+        "RJ-CHEMISTRY-HSC2-074"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": 64,
+      "review_image": "review/pages-069-070.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-069.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-075",
+        "RJ-CHEMISTRY-HSC2-076",
+        "RJ-CHEMISTRY-HSC2-077"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": 65,
+      "review_image": "review/pages-069-070.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-070.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-077",
+        "RJ-CHEMISTRY-HSC2-078"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": 66,
+      "review_image": "review/pages-071-072.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-071.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 67,
+      "review_image": "review/pages-071-072.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-072.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-079",
+        "RJ-CHEMISTRY-HSC2-080"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": 68,
+      "review_image": "review/pages-073-074.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-073.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-080",
+        "RJ-CHEMISTRY-HSC2-081",
+        "RJ-CHEMISTRY-HSC2-082"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": 69,
+      "review_image": "review/pages-073-074.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-074.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-082",
+        "RJ-CHEMISTRY-HSC2-083",
+        "RJ-CHEMISTRY-HSC2-084"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 70,
+      "review_image": "review/pages-075-076.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-075.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-084"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 71,
+      "review_image": "review/pages-075-076.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-076.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-085"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": 72,
+      "review_image": "review/pages-077-078.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-077.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-086",
+        "RJ-CHEMISTRY-HSC2-087"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 73,
+      "review_image": "review/pages-077-078.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-078.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-087",
+        "RJ-CHEMISTRY-HSC2-088"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": 74,
+      "review_image": "review/pages-079-080.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-079.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-088",
+        "RJ-CHEMISTRY-HSC2-089"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": 75,
+      "review_image": "review/pages-079-080.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-080.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-089",
+        "RJ-CHEMISTRY-HSC2-090"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": 76,
+      "review_image": "review/pages-081-082.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-081.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 77,
+      "review_image": "review/pages-081-082.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-082.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-091",
+        "RJ-CHEMISTRY-HSC2-092",
+        "RJ-CHEMISTRY-HSC2-093"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 78,
+      "review_image": "review/pages-083-084.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-083.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-093",
+        "RJ-CHEMISTRY-HSC2-094",
+        "RJ-CHEMISTRY-HSC2-095"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": 79,
+      "review_image": "review/pages-083-084.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-084.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-095",
+        "RJ-CHEMISTRY-HSC2-096",
+        "RJ-CHEMISTRY-HSC2-097"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": 80,
+      "review_image": "review/pages-085-086.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-085.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-098"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": 81,
+      "review_image": "review/pages-085-086.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-086.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-099",
+        "RJ-CHEMISTRY-HSC2-100"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": 82,
+      "review_image": "review/pages-087-088.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-087.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题，同页正文已另行抽取",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-100"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": 83,
+      "review_image": "review/pages-087-088.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-088.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-101"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": 84,
+      "review_image": "review/pages-089-090.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-089.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-102",
+        "RJ-CHEMISTRY-HSC2-103",
+        "RJ-CHEMISTRY-HSC2-104"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": 85,
+      "review_image": "review/pages-089-090.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-090.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-104",
+        "RJ-CHEMISTRY-HSC2-105",
+        "RJ-CHEMISTRY-HSC2-106"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": 86,
+      "review_image": "review/pages-091-092.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-091.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-106",
+        "RJ-CHEMISTRY-HSC2-107",
+        "RJ-CHEMISTRY-HSC2-108"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": 87,
+      "review_image": "review/pages-091-092.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-092.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-109",
+        "RJ-CHEMISTRY-HSC2-110",
+        "RJ-CHEMISTRY-HSC2-111"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": 88,
+      "review_image": "review/pages-093-094.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-093.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-110",
+        "RJ-CHEMISTRY-HSC2-112"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": 89,
+      "review_image": "review/pages-093-094.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-094.png",
+      "visual_status": "reviewed",
+      "role": "了解食品中的有机化合物：资料搜集和研究任务",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "了解食品中的有机化合物：资料搜集和研究任务；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 90,
+      "review_image": "review/pages-095-096.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-095.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": 91,
+      "review_image": "review/pages-095-096.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-096.png",
+      "visual_status": "reviewed",
+      "role": "整理与提升，复现已有知识与待填图表",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "整理与提升，复现已有知识与待填图表；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": 92,
+      "review_image": "review/pages-097-098.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-097.png",
+      "visual_status": "reviewed",
+      "role": "整理与提升，复现已有知识与待填图表",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "整理与提升，复现已有知识与待填图表；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": 93,
+      "review_image": "review/pages-097-098.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-098.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": 94,
+      "review_image": "review/pages-099-100.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-099.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": 95,
+      "review_image": "review/pages-099-100.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-100.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-113"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 96,
+      "review_image": "review/pages-101-102.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-101.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-114"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": 97,
+      "review_image": "review/pages-101-102.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-102.png",
+      "visual_status": "reviewed",
+      "role": "章引言与章图",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "章引言与章图；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": 98,
+      "review_image": "review/pages-103-104.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-103.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-115",
+        "RJ-CHEMISTRY-HSC2-116"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 99,
+      "review_image": "review/pages-103-104.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-104.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-117"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 100,
+      "review_image": "review/pages-105-106.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-105.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-118",
+        "RJ-CHEMISTRY-HSC2-119"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 101,
+      "review_image": "review/pages-105-106.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-106.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-118",
+        "RJ-CHEMISTRY-HSC2-120"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 102,
+      "review_image": "review/pages-107-108.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-107.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-121",
+        "RJ-CHEMISTRY-HSC2-122",
+        "RJ-CHEMISTRY-HSC2-123"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 103,
+      "review_image": "review/pages-107-108.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-108.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-124",
+        "RJ-CHEMISTRY-HSC2-125"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 104,
+      "review_image": "review/pages-109-110.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-109.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-125"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 105,
+      "review_image": "review/pages-109-110.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-110.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-126"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 106,
+      "review_image": "review/pages-111-112.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-111.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 107,
+      "review_image": "review/pages-111-112.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-112.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-127",
+        "RJ-CHEMISTRY-HSC2-128",
+        "RJ-CHEMISTRY-HSC2-129"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 108,
+      "review_image": "review/pages-113-114.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-113.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-129",
+        "RJ-CHEMISTRY-HSC2-130"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 109,
+      "review_image": "review/pages-113-114.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-114.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-131",
+        "RJ-CHEMISTRY-HSC2-132"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 110,
+      "review_image": "review/pages-115-116.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-115.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-133",
+        "RJ-CHEMISTRY-HSC2-134"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 111,
+      "review_image": "review/pages-115-116.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-116.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-135",
+        "RJ-CHEMISTRY-HSC2-136"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 112,
+      "review_image": "review/pages-117-118.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-117.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-136",
+        "RJ-CHEMISTRY-HSC2-137",
+        "RJ-CHEMISTRY-HSC2-138"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 113,
+      "review_image": "review/pages-117-118.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-118.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-138",
+        "RJ-CHEMISTRY-HSC2-139",
+        "RJ-CHEMISTRY-HSC2-140"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": 114,
+      "review_image": "review/pages-119-120.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-119.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-140",
+        "RJ-CHEMISTRY-HSC2-141"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 115,
+      "review_image": "review/pages-119-120.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-120.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-142"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 116,
+      "review_image": "review/pages-121-122.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-121.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 117,
+      "review_image": "review/pages-121-122.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-122.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-143",
+        "RJ-CHEMISTRY-HSC2-144"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 118,
+      "review_image": "review/pages-123-124.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-123.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-145",
+        "RJ-CHEMISTRY-HSC2-146"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": 119,
+      "review_image": "review/pages-123-124.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-124.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-147",
+        "RJ-CHEMISTRY-HSC2-148"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": 120,
+      "review_image": "review/pages-125-126.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-125.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-149",
+        "RJ-CHEMISTRY-HSC2-150",
+        "RJ-CHEMISTRY-HSC2-151"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": 121,
+      "review_image": "review/pages-125-126.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-126.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题，同页正文已另行抽取",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-152"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": 122,
+      "review_image": "review/pages-127-128.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-127.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": 123,
+      "review_image": "review/pages-127-128.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-128.png",
+      "visual_status": "reviewed",
+      "role": "整理与提升，复现已有知识与待填图表",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "整理与提升，复现已有知识与待填图表；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 124,
+      "review_image": "review/pages-129-130.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-129.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": 125,
+      "review_image": "review/pages-129-130.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-130.png",
+      "visual_status": "reviewed",
+      "role": "练习/复习题",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "练习/复习题；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": 126,
+      "review_image": "review/pages-131-132.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-131.png",
+      "visual_status": "reviewed",
+      "role": "名词索引（导航，不重复知识）",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "名词索引（导航，不重复知识）；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 127,
+      "review_image": "review/pages-131-132.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-132.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-153"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 128,
+      "review_image": "review/pages-133-134.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-133.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-154"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": 129,
+      "review_image": "review/pages-133-134.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-134.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-155"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": null,
+      "review_image": "review/pages-135-136.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-135.png",
+      "visual_status": "reviewed",
+      "role": "空白页",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "空白页；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": null,
+      "review_image": "review/pages-135-136.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-136.png",
+      "visual_status": "reviewed",
+      "role": "后记：课程标准与审核年证据",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "后记：课程标准与审核年证据；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": null,
+      "review_image": "review/pages-137-138.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-137.png",
+      "visual_status": "reviewed",
+      "role": "图片来源致谢",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "图片来源致谢；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": null,
+      "review_image": "review/pages-137-138.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-138.png",
+      "visual_status": "reviewed",
+      "role": "正文、实验或有效侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSC2-156"
+      ],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "仅选取source_records标明的正文、已给步骤及明示现象/结论；同页未解练习、任务目的、历史评价、重复总结及版式内容不进入主字段。"
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": null,
+      "review_image": "review/pages-139-139.jpg",
+      "page_image": "images/chemistry-pep-hs-compulsory-2/page-139.png",
+      "visual_status": "reviewed",
+      "role": "封底、ISBN",
+      "record_ids": [],
+      "checks": "逐页查看双页图；对入选内容核对公式、单位、条件、表格/图示及跨页、跨栏衔接。",
+      "exclusion_policy": "封底、ISBN；不含本次应新增的完整知识讲解，或其知识已在首次讲解中收录。"
+    }
+  ]
+}

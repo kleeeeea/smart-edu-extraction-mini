@@ -1,0 +1,2616 @@
+[
+  {
+    "pdf_page": 1,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-001.png",
+    "review_image": "review/pages-001-002.jpg",
+    "visual_status": "reviewed",
+    "role": "封面及审核标记",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "封面及审核标记；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 2,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-002.png",
+    "review_image": "review/pages-001-002.jpg",
+    "visual_status": "reviewed",
+    "role": "扉页",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "扉页；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 3,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-003.png",
+    "review_image": "review/pages-003-004.jpg",
+    "visual_status": "reviewed",
+    "role": "编写人员",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "编写人员；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 4,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-004.png",
+    "review_image": "review/pages-003-004.jpg",
+    "visual_status": "reviewed",
+    "role": "栏目说明",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "栏目说明；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 5,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-005.png",
+    "review_image": "review/pages-005-006.jpg",
+    "visual_status": "reviewed",
+    "role": "目录",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "目录；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 6,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-006.png",
+    "review_image": "review/pages-005-006.jpg",
+    "visual_status": "reviewed",
+    "role": "目录及栏目索引",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "目录及栏目索引；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 7,
+    "printed_page": 2,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-007.png",
+    "review_image": "review/pages-007-008.jpg",
+    "visual_status": "reviewed",
+    "role": "绪言",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-001"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 8,
+    "printed_page": 3,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-008.png",
+    "review_image": "review/pages-007-008.jpg",
+    "visual_status": "reviewed",
+    "role": "绪言中科学史与评价",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "绪言中科学史与评价；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 9,
+    "printed_page": 4,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-009.png",
+    "review_image": "review/pages-009-010.jpg",
+    "visual_status": "reviewed",
+    "role": "绪言中宏微观方法",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-002"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 10,
+    "printed_page": 5,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-010.png",
+    "review_image": "review/pages-009-010.jpg",
+    "visual_status": "reviewed",
+    "role": "章引言",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "章引言；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 11,
+    "printed_page": 6,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-011.png",
+    "review_image": "review/pages-011-012.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-003"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 12,
+    "printed_page": 7,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-012.png",
+    "review_image": "review/pages-011-012.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-004",
+      "RJ-CHEMISTRY-HSC1-005"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 13,
+    "printed_page": 8,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-013.png",
+    "review_image": "review/pages-013-014.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-006",
+      "RJ-CHEMISTRY-HSC1-007"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 14,
+    "printed_page": 9,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-014.png",
+    "review_image": "review/pages-013-014.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-008",
+      "RJ-CHEMISTRY-HSC1-009"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 15,
+    "printed_page": 10,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-015.png",
+    "review_image": "review/pages-015-016.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-010",
+      "RJ-CHEMISTRY-HSC1-011"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 16,
+    "printed_page": 11,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-016.png",
+    "review_image": "review/pages-015-016.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-011",
+      "RJ-CHEMISTRY-HSC1-012"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 17,
+    "printed_page": 12,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-017.png",
+    "review_image": "review/pages-017-018.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-012"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 18,
+    "printed_page": 13,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-018.png",
+    "review_image": "review/pages-017-018.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 19,
+    "printed_page": 14,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-019.png",
+    "review_image": "review/pages-019-020.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-013"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 20,
+    "printed_page": 15,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-020.png",
+    "review_image": "review/pages-019-020.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-013",
+      "RJ-CHEMISTRY-HSC1-014"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 21,
+    "printed_page": 16,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-021.png",
+    "review_image": "review/pages-021-022.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-014",
+      "RJ-CHEMISTRY-HSC1-015"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 22,
+    "printed_page": 17,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-022.png",
+    "review_image": "review/pages-021-022.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-016",
+      "RJ-CHEMISTRY-HSC1-017"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 23,
+    "printed_page": 18,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-023.png",
+    "review_image": "review/pages-023-024.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-017"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 24,
+    "printed_page": 19,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-024.png",
+    "review_image": "review/pages-023-024.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-018",
+      "RJ-CHEMISTRY-HSC1-019"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 25,
+    "printed_page": 20,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-025.png",
+    "review_image": "review/pages-025-026.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 26,
+    "printed_page": 21,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-026.png",
+    "review_image": "review/pages-025-026.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 27,
+    "printed_page": 22,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-027.png",
+    "review_image": "review/pages-027-028.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-020"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 28,
+    "printed_page": 23,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-028.png",
+    "review_image": "review/pages-027-028.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-020",
+      "RJ-CHEMISTRY-HSC1-021"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 29,
+    "printed_page": 24,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-029.png",
+    "review_image": "review/pages-029-030.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-021",
+      "RJ-CHEMISTRY-HSC1-022"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 30,
+    "printed_page": 25,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-030.png",
+    "review_image": "review/pages-029-030.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-023"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 31,
+    "printed_page": 26,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-031.png",
+    "review_image": "review/pages-031-032.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-023",
+      "RJ-CHEMISTRY-HSC1-024"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 32,
+    "printed_page": 27,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-032.png",
+    "review_image": "review/pages-031-032.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 33,
+    "printed_page": 28,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-033.png",
+    "review_image": "review/pages-033-034.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 34,
+    "printed_page": 29,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-034.png",
+    "review_image": "review/pages-033-034.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 35,
+    "printed_page": 30,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-035.png",
+    "review_image": "review/pages-035-036.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 36,
+    "printed_page": 31,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-036.png",
+    "review_image": "review/pages-035-036.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 37,
+    "printed_page": 32,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-037.png",
+    "review_image": "review/pages-037-038.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 38,
+    "printed_page": 33,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-038.png",
+    "review_image": "review/pages-037-038.jpg",
+    "visual_status": "reviewed",
+    "role": "章引言",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "章引言；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 39,
+    "printed_page": 34,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-039.png",
+    "review_image": "review/pages-039-040.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-025",
+      "RJ-CHEMISTRY-HSC1-026"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": 35,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-040.png",
+    "review_image": "review/pages-039-040.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-026",
+      "RJ-CHEMISTRY-HSC1-027"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 41,
+    "printed_page": 36,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-041.png",
+    "review_image": "review/pages-041-042.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-028"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 42,
+    "printed_page": 37,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-042.png",
+    "review_image": "review/pages-041-042.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-028",
+      "RJ-CHEMISTRY-HSC1-029"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 43,
+    "printed_page": 38,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-043.png",
+    "review_image": "review/pages-043-044.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-029",
+      "RJ-CHEMISTRY-HSC1-030"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 44,
+    "printed_page": 39,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-044.png",
+    "review_image": "review/pages-043-044.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-030",
+      "RJ-CHEMISTRY-HSC1-031"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 45,
+    "printed_page": 40,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-045.png",
+    "review_image": "review/pages-045-046.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-032",
+      "RJ-CHEMISTRY-HSC1-033"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 46,
+    "printed_page": 41,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-046.png",
+    "review_image": "review/pages-045-046.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-033"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 47,
+    "printed_page": 42,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-047.png",
+    "review_image": "review/pages-047-048.jpg",
+    "visual_status": "reviewed",
+    "role": "研究与实践：生产历史资料搜索与报告任务",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "研究与实践：生产历史资料搜索与报告任务；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 48,
+    "printed_page": 43,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-048.png",
+    "review_image": "review/pages-047-048.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 49,
+    "printed_page": 44,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-049.png",
+    "review_image": "review/pages-049-050.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-034"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 50,
+    "printed_page": 45,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-050.png",
+    "review_image": "review/pages-049-050.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-034",
+      "RJ-CHEMISTRY-HSC1-035",
+      "RJ-CHEMISTRY-HSC1-036"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 51,
+    "printed_page": 46,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-051.png",
+    "review_image": "review/pages-051-052.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-036",
+      "RJ-CHEMISTRY-HSC1-037"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 52,
+    "printed_page": 47,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-052.png",
+    "review_image": "review/pages-051-052.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-037",
+      "RJ-CHEMISTRY-HSC1-038"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 53,
+    "printed_page": 48,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-053.png",
+    "review_image": "review/pages-053-054.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-039",
+      "RJ-CHEMISTRY-HSC1-040"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 54,
+    "printed_page": 49,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-054.png",
+    "review_image": "review/pages-053-054.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-041",
+      "RJ-CHEMISTRY-HSC1-042"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 55,
+    "printed_page": 50,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-055.png",
+    "review_image": "review/pages-055-056.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-042",
+      "RJ-CHEMISTRY-HSC1-043"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 56,
+    "printed_page": 51,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-056.png",
+    "review_image": "review/pages-055-056.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 57,
+    "printed_page": 52,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-057.png",
+    "review_image": "review/pages-057-058.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 58,
+    "printed_page": 53,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-058.png",
+    "review_image": "review/pages-057-058.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-044"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 59,
+    "printed_page": 54,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-059.png",
+    "review_image": "review/pages-059-060.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-044",
+      "RJ-CHEMISTRY-HSC1-045"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 60,
+    "printed_page": 55,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-060.png",
+    "review_image": "review/pages-059-060.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-046"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 61,
+    "printed_page": 56,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-061.png",
+    "review_image": "review/pages-061-062.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-047"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 62,
+    "printed_page": 57,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-062.png",
+    "review_image": "review/pages-061-062.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-048",
+      "RJ-CHEMISTRY-HSC1-049"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 63,
+    "printed_page": 58,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-063.png",
+    "review_image": "review/pages-063-064.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-050",
+      "RJ-CHEMISTRY-HSC1-051"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 64,
+    "printed_page": 59,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-064.png",
+    "review_image": "review/pages-063-064.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-051",
+      "RJ-CHEMISTRY-HSC1-052"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 65,
+    "printed_page": 60,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-065.png",
+    "review_image": "review/pages-065-066.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-052",
+      "RJ-CHEMISTRY-HSC1-053"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 66,
+    "printed_page": 61,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-066.png",
+    "review_image": "review/pages-065-066.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 67,
+    "printed_page": 62,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-067.png",
+    "review_image": "review/pages-067-068.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 68,
+    "printed_page": 63,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-068.png",
+    "review_image": "review/pages-067-068.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 69,
+    "printed_page": 64,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-069.png",
+    "review_image": "review/pages-069-070.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 70,
+    "printed_page": 65,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-070.png",
+    "review_image": "review/pages-069-070.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-054"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 71,
+    "printed_page": 66,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-071.png",
+    "review_image": "review/pages-071-072.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-054"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 72,
+    "printed_page": 67,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-072.png",
+    "review_image": "review/pages-071-072.jpg",
+    "visual_status": "reviewed",
+    "role": "章引言",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "章引言；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 73,
+    "printed_page": 68,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-073.png",
+    "review_image": "review/pages-073-074.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-055"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 74,
+    "printed_page": 69,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-074.png",
+    "review_image": "review/pages-073-074.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-055",
+      "RJ-CHEMISTRY-HSC1-056",
+      "RJ-CHEMISTRY-HSC1-057"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 75,
+    "printed_page": 70,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-075.png",
+    "review_image": "review/pages-075-076.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-057",
+      "RJ-CHEMISTRY-HSC1-058"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 76,
+    "printed_page": 71,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-076.png",
+    "review_image": "review/pages-075-076.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-059",
+      "RJ-CHEMISTRY-HSC1-060"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 77,
+    "printed_page": 72,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-077.png",
+    "review_image": "review/pages-077-078.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-060",
+      "RJ-CHEMISTRY-HSC1-061"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 78,
+    "printed_page": 73,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-078.png",
+    "review_image": "review/pages-077-078.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-061",
+      "RJ-CHEMISTRY-HSC1-062"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 79,
+    "printed_page": 74,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-079.png",
+    "review_image": "review/pages-079-080.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-063",
+      "RJ-CHEMISTRY-HSC1-064"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": 75,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-080.png",
+    "review_image": "review/pages-079-080.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-064"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 81,
+    "printed_page": 76,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-081.png",
+    "review_image": "review/pages-081-082.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-065"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 82,
+    "printed_page": 77,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-082.png",
+    "review_image": "review/pages-081-082.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 83,
+    "printed_page": 78,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-083.png",
+    "review_image": "review/pages-083-084.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-066",
+      "RJ-CHEMISTRY-HSC1-067"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 84,
+    "printed_page": 79,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-084.png",
+    "review_image": "review/pages-083-084.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-067",
+      "RJ-CHEMISTRY-HSC1-068"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 85,
+    "printed_page": 80,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-085.png",
+    "review_image": "review/pages-085-086.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-068",
+      "RJ-CHEMISTRY-HSC1-069"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 81,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-086.png",
+    "review_image": "review/pages-085-086.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-070",
+      "RJ-CHEMISTRY-HSC1-071"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 82,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-087.png",
+    "review_image": "review/pages-087-088.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-072",
+      "RJ-CHEMISTRY-HSC1-073"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 83,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-088.png",
+    "review_image": "review/pages-087-088.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-074",
+      "RJ-CHEMISTRY-HSC1-075"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 84,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-089.png",
+    "review_image": "review/pages-089-090.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-076",
+      "RJ-CHEMISTRY-HSC1-077"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 90,
+    "printed_page": 85,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-090.png",
+    "review_image": "review/pages-089-090.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-077"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 91,
+    "printed_page": 86,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-091.png",
+    "review_image": "review/pages-091-092.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 92,
+    "printed_page": 87,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-092.png",
+    "review_image": "review/pages-091-092.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 93,
+    "printed_page": 88,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-093.png",
+    "review_image": "review/pages-093-094.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 94,
+    "printed_page": 89,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-094.png",
+    "review_image": "review/pages-093-094.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 95,
+    "printed_page": 90,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-095.png",
+    "review_image": "review/pages-095-096.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-078"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 96,
+    "printed_page": 91,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-096.png",
+    "review_image": "review/pages-095-096.jpg",
+    "visual_status": "reviewed",
+    "role": "章引言",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "章引言；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 97,
+    "printed_page": 92,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-097.png",
+    "review_image": "review/pages-097-098.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-079",
+      "RJ-CHEMISTRY-HSC1-080"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 98,
+    "printed_page": 93,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-098.png",
+    "review_image": "review/pages-097-098.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-080"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 99,
+    "printed_page": 94,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-099.png",
+    "review_image": "review/pages-099-100.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-081",
+      "RJ-CHEMISTRY-HSC1-082"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 100,
+    "printed_page": 95,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-100.png",
+    "review_image": "review/pages-099-100.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-082"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 101,
+    "printed_page": 96,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-101.png",
+    "review_image": "review/pages-101-102.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-082",
+      "RJ-CHEMISTRY-HSC1-083",
+      "RJ-CHEMISTRY-HSC1-084"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 102,
+    "printed_page": 97,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-102.png",
+    "review_image": "review/pages-101-102.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-084",
+      "RJ-CHEMISTRY-HSC1-085"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 103,
+    "printed_page": 98,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-103.png",
+    "review_image": "review/pages-103-104.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-086"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 104,
+    "printed_page": 99,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-104.png",
+    "review_image": "review/pages-103-104.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-086",
+      "RJ-CHEMISTRY-HSC1-087"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 105,
+    "printed_page": 100,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-105.png",
+    "review_image": "review/pages-105-106.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-087",
+      "RJ-CHEMISTRY-HSC1-088"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 106,
+    "printed_page": 101,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-106.png",
+    "review_image": "review/pages-105-106.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-088",
+      "RJ-CHEMISTRY-HSC1-089"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 107,
+    "printed_page": 102,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-107.png",
+    "review_image": "review/pages-107-108.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-090",
+      "RJ-CHEMISTRY-HSC1-091"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 108,
+    "printed_page": 103,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-108.png",
+    "review_image": "review/pages-107-108.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-092",
+      "RJ-CHEMISTRY-HSC1-093"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 109,
+    "printed_page": 104,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-109.png",
+    "review_image": "review/pages-109-110.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-093",
+      "RJ-CHEMISTRY-HSC1-094"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 110,
+    "printed_page": 105,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-110.png",
+    "review_image": "review/pages-109-110.jpg",
+    "visual_status": "reviewed",
+    "role": "研究与实践：自制周期表及报告任务",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "研究与实践：自制周期表及报告任务；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 111,
+    "printed_page": 106,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-111.png",
+    "review_image": "review/pages-111-112.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 112,
+    "printed_page": 107,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-112.png",
+    "review_image": "review/pages-111-112.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-095"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 113,
+    "printed_page": 108,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-113.png",
+    "review_image": "review/pages-113-114.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-095"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 114,
+    "printed_page": 109,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-114.png",
+    "review_image": "review/pages-113-114.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-096",
+      "RJ-CHEMISTRY-HSC1-097"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 115,
+    "printed_page": 110,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-115.png",
+    "review_image": "review/pages-115-116.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-098",
+      "RJ-CHEMISTRY-HSC1-099"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 116,
+    "printed_page": 111,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-116.png",
+    "review_image": "review/pages-115-116.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-099",
+      "RJ-CHEMISTRY-HSC1-100",
+      "RJ-CHEMISTRY-HSC1-101"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 117,
+    "printed_page": 112,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-117.png",
+    "review_image": "review/pages-117-118.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 118,
+    "printed_page": 113,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-118.png",
+    "review_image": "review/pages-117-118.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-102",
+      "RJ-CHEMISTRY-HSC1-103"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 119,
+    "printed_page": 114,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-119.png",
+    "review_image": "review/pages-119-120.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-104",
+      "RJ-CHEMISTRY-HSC1-105"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 120,
+    "printed_page": 115,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-120.png",
+    "review_image": "review/pages-119-120.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-104",
+      "RJ-CHEMISTRY-HSC1-106",
+      "RJ-CHEMISTRY-HSC1-107"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 121,
+    "printed_page": 116,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-121.png",
+    "review_image": "review/pages-121-122.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-107",
+      "RJ-CHEMISTRY-HSC1-108"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 122,
+    "printed_page": 117,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-122.png",
+    "review_image": "review/pages-121-122.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 123,
+    "printed_page": 118,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-123.png",
+    "review_image": "review/pages-123-124.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 124,
+    "printed_page": 119,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-124.png",
+    "review_image": "review/pages-123-124.jpg",
+    "visual_status": "reviewed",
+    "role": "整理复习、重复原理及待填表图",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "整理复习、重复原理及待填表图；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 125,
+    "printed_page": 120,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-125.png",
+    "review_image": "review/pages-125-126.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 126,
+    "printed_page": 121,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-126.png",
+    "review_image": "review/pages-125-126.jpg",
+    "visual_status": "reviewed",
+    "role": "未解练习或复习题",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "未解练习或复习题；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 127,
+    "printed_page": 122,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-127.png",
+    "review_image": "review/pages-127-128.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-109"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 128,
+    "printed_page": 123,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-128.png",
+    "review_image": "review/pages-127-128.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-110",
+      "RJ-CHEMISTRY-HSC1-111"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 129,
+    "printed_page": 124,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-129.png",
+    "review_image": "review/pages-129-130.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-112"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 130,
+    "printed_page": 125,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-130.png",
+    "review_image": "review/pages-129-130.jpg",
+    "visual_status": "reviewed",
+    "role": "正文、实验及侧栏",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-112"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 131,
+    "printed_page": 126,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-131.png",
+    "review_image": "review/pages-131-132.jpg",
+    "visual_status": "reviewed",
+    "role": "名词索引（导航）",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "名词索引（导航）；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 132,
+    "printed_page": 127,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-132.png",
+    "review_image": "review/pages-131-132.jpg",
+    "visual_status": "reviewed",
+    "role": "室温溶解性表",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-113"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 133,
+    "printed_page": 128,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-133.png",
+    "review_image": "review/pages-133-134.jpg",
+    "visual_status": "reviewed",
+    "role": "元素中英文名称表",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-114"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 134,
+    "printed_page": 129,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-134.png",
+    "review_image": "review/pages-133-134.jpg",
+    "visual_status": "reviewed",
+    "role": "相对原子质量表",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-115"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 135,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-135.png",
+    "review_image": "review/pages-135-136.jpg",
+    "visual_status": "reviewed",
+    "role": "后记，课标身份依据",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "后记，课标身份依据；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 136,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-136.png",
+    "review_image": "review/pages-135-136.jpg",
+    "visual_status": "reviewed",
+    "role": "图片来源致谢",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "图片来源致谢；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 137,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-137.png",
+    "review_image": "review/pages-137-138.jpg",
+    "visual_status": "reviewed",
+    "role": "空白页",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "空白页；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  },
+  {
+    "pdf_page": 138,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-138.png",
+    "review_image": "review/pages-137-138.jpg",
+    "visual_status": "reviewed",
+    "role": "折页元素周期表",
+    "record_ids": [
+      "RJ-CHEMISTRY-HSC1-116"
+    ],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "入选片段以source_records的regions、转录及原图为准；未选任务指标、未解练习、空表答案、历史评价和重复讲解不进入主字段。"
+  },
+  {
+    "pdf_page": 139,
+    "printed_page": null,
+    "page_image": "images/chemistry-pep-hs-compulsory-1/page-139.png",
+    "review_image": "review/pages-139-139.jpg",
+    "visual_status": "reviewed",
+    "role": "封底ISBN",
+    "record_ids": [],
+    "checks": [
+      "正文与侧栏识别",
+      "公式、离子电荷与指数",
+      "单位、数值与实验用量",
+      "反应条件、表格及图示",
+      "跨页及跨栏连续句"
+    ],
+    "exclusion_policy": "封底ISBN；本页无本次应新增的知识记录，或知识已在首讲中收录。"
+  }
+]

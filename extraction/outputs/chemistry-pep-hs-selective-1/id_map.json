@@ -1,0 +1,620 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-001",
+    "knowledge_point": "化学反应研究中的物质、能量与代谢",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-002",
+    "knowledge_point": "放热反应与吸热反应",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-003",
+    "knowledge_point": "体系、环境、热量与反应热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-004",
+    "knowledge_point": "中和反应反应热的测定",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-005",
+    "knowledge_point": "内能、焓与反应焓变",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-006",
+    "knowledge_point": "化学键的断裂、形成与反应热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-007",
+    "knowledge_point": "热化学方程式的含义与书写",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-008",
+    "knowledge_point": "反应焓变单位中每摩尔反应的含义",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-009",
+    "knowledge_point": "燃烧热的定义、指定产物及典型数据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-010",
+    "knowledge_point": "脂肪的储能与软脂酸的燃烧热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-011",
+    "knowledge_point": "盖斯定律与利用已知反应热求未知反应热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-012",
+    "knowledge_point": "冰量热计测量反应热的方法",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-013",
+    "knowledge_point": "根据热化学方程式及盖斯定律计算反应热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-014",
+    "knowledge_point": "化学反应速率的表示、计量数关系与计算",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-015",
+    "knowledge_point": "化学反应速率的实验测定",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-016",
+    "knowledge_point": "反应物本性及外界条件对反应速率的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-017",
+    "knowledge_point": "定性探究与定量测定化学反应速率的实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-018",
+    "knowledge_point": "基元反应、反应机理与有效碰撞",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-019",
+    "knowledge_point": "活化分子、活化能及反应热",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-020",
+    "knowledge_point": "用碰撞理论解释浓度和温度对速率的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-021",
+    "knowledge_point": "催化剂改变反应历程与活化能",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-022",
+    "knowledge_point": "向反应体系输入能量调控速率",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-023",
+    "knowledge_point": "飞秒化学与反应中间态的时间分辨研究",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-024",
+    "knowledge_point": "可逆反应的动态化学平衡状态",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-025",
+    "knowledge_point": "化学图像分析",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-026",
+    "knowledge_point": "浓度商、化学平衡常数及反应限度",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-027",
+    "knowledge_point": "平衡常数、平衡浓度与转化率的计算",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-028",
+    "knowledge_point": "浓度对化学平衡的影响实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-029",
+    "knowledge_point": "化学平衡移动及浓度商判据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-030",
+    "knowledge_point": "压强对化学平衡的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-031",
+    "knowledge_point": "温度对化学平衡的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-032",
+    "knowledge_point": "勒夏特列原理及催化剂对平衡的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-033",
+    "knowledge_point": "反应焓变与自发反应方向",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-034",
+    "knowledge_point": "熵、熵变与自发过程",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-035",
+    "knowledge_point": "综合焓变和熵变判断反应方向",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-036",
+    "knowledge_point": "自由能与化学反应的方向",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-037",
+    "knowledge_point": "合成氨的反应条件与平衡组成数据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-038",
+    "knowledge_point": "合成氨生产中压强、温度与催化剂的选择",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-039",
+    "knowledge_point": "合成氨生产的分离、循环及综合条件控制",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-040",
+    "knowledge_point": "合成氨工艺中的原料来源与技术改进",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-041",
+    "knowledge_point": "浓度和温度影响化学平衡的实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-042",
+    "knowledge_point": "强电解质和弱电解质及其比较实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-043",
+    "knowledge_point": "弱电解质的电离平衡及其移动",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-044",
+    "knowledge_point": "电离平衡常数及酸碱性强弱",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-045",
+    "knowledge_point": "由平衡浓度计算弱碱的电离常数",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-046",
+    "knowledge_point": "多元弱酸的分步电离及电离常数",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-047",
+    "knowledge_point": "乙酸与碳酸钠反应的实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-048",
+    "knowledge_point": "水的电离和离子积常数",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-049",
+    "knowledge_point": "离子浓度、溶液酸碱性与pH",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-050",
+    "knowledge_point": "pH试纸与pH计",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-051",
+    "knowledge_point": "pH控制的生活、生产与农业应用",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-052",
+    "knowledge_point": "血液中的缓冲作用",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-053",
+    "knowledge_point": "酸碱中和滴定及终点判断",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-054",
+    "knowledge_point": "酸碱指示剂的变色原理和范围",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-055",
+    "knowledge_point": "中和滴定的数据处理与浓度计算",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-056",
+    "knowledge_point": "化学分析的类型、方法与数据处理",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-057",
+    "knowledge_point": "盐溶液酸碱性的实验探究",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-058",
+    "knowledge_point": "盐类水解的实质与氯化铵水解",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-059",
+    "knowledge_point": "碳酸钠分步水解及盐溶液酸碱性",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-060",
+    "knowledge_point": "电解质溶液中的电荷守恒与元素守恒",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-061",
+    "knowledge_point": "盐的性质对水解程度的影响",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-062",
+    "knowledge_point": "温度、浓度影响水解平衡的探究与规律",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-063",
+    "knowledge_point": "盐类水解在清洗、配液、净水与制备中的应用",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-064",
+    "knowledge_point": "盐的水解常数及其与电离常数的关系",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-065",
+    "knowledge_point": "难溶电解质与沉淀溶解平衡",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-066",
+    "knowledge_point": "溶度积常数与离子积判据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-067",
+    "knowledge_point": "沉淀生成用于分离和除杂",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-068",
+    "knowledge_point": "沉淀的溶解原理与实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-069",
+    "knowledge_point": "沉淀转化的实验、实质和应用",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-070",
+    "knowledge_point": "氟化物预防龋齿的化学原理",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-071",
+    "knowledge_point": "滴定管的构造与使用",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-072",
+    "knowledge_point": "强酸滴定强碱的实验操作",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-073",
+    "knowledge_point": "盐类水解的应用实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-074",
+    "knowledge_point": "化学能与电能转化及电化学基础",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-075",
+    "knowledge_point": "锌铜原电池实验与工作原理",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-076",
+    "knowledge_point": "化学方程式中的变化与守恒",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-077",
+    "knowledge_point": "化学电源的分类与性能指标",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-078",
+    "knowledge_point": "一次电池与碱性锌锰电池",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-079",
+    "knowledge_point": "二次电池与铅酸蓄电池",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-080",
+    "knowledge_point": "锂离子电池的组成、充放电及储能",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-081",
+    "knowledge_point": "燃料电池与酸性氢氧燃料电池",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-082",
+    "knowledge_point": "氯化铜溶液的电解实验与电解池原理",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-083",
+    "knowledge_point": "原电池与电解池的系统比较",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-084",
+    "knowledge_point": "电解饱和食盐水与氯碱工业",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-085",
+    "knowledge_point": "电镀的目的与电极选择",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-086",
+    "knowledge_point": "铜的电解精炼",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-087",
+    "knowledge_point": "电冶金与熔融氯化钠的电解",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-088",
+    "knowledge_point": "电解及还原法制备单质的条件",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-089",
+    "knowledge_point": "电有机合成及己二腈的电合成",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-090",
+    "knowledge_point": "金属腐蚀、化学腐蚀与电化学腐蚀",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-091",
+    "knowledge_point": "钢铁的析氢腐蚀和吸氧腐蚀",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-092",
+    "knowledge_point": "钢铁吸氧腐蚀及锌与酸反应的对照实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-093",
+    "knowledge_point": "改变材料组成与表面保护层",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-094",
+    "knowledge_point": "电化学保护与牺牲阳极法",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-095",
+    "knowledge_point": "牺牲阳极法的实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-096",
+    "knowledge_point": "亚铁离子的铁氰化钾检验法",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-097",
+    "knowledge_point": "外加电流保护法与其他防护方法",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-098",
+    "knowledge_point": "铁制镀件上镀铜的实验",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-099",
+    "knowledge_point": "电解水并制作简单氢氧燃料电池",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-100",
+    "knowledge_point": "某些物质的燃烧热数据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-101",
+    "knowledge_point": "某些弱电解质的电离常数数据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-102",
+    "knowledge_point": "常见难溶电解质的溶度积常数数据",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS1-103",
+    "knowledge_point": "元素周期表",
+    "reason": "新分册首次抽取，按教材顺序连续编号"
+  }
+]

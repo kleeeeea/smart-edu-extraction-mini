@@ -1,0 +1,698 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-001",
+    "knowledge_point": "化学的研究对象",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-002",
+    "knowledge_point": "宏观与微观相结合的研究方法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-003",
+    "knowledge_point": "物质分类的依据与同素异形体",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-004",
+    "knowledge_point": "树状分类法与交叉分类法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-005",
+    "knowledge_point": "酸性氧化物与碱性氧化物",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-006",
+    "knowledge_point": "分类的科学方法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-007",
+    "knowledge_point": "分散系、分散质、分散剂及分类",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-008",
+    "knowledge_point": "氢氧化铁胶体制备与丁达尔效应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-009",
+    "knowledge_point": "实验操作图标及安全要求",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-010",
+    "knowledge_point": "丁达尔效应的散射解释",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-011",
+    "knowledge_point": "酸、碱、盐性质相似的微观依据",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-012",
+    "knowledge_point": "物质转化的依据与制备途径选择",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-013",
+    "knowledge_point": "电解质与物质导电性实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-014",
+    "knowledge_point": "氯化钠溶解、熔化与导电的微观解释",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-015",
+    "knowledge_point": "电离、电离方程式与酸的本质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-016",
+    "knowledge_point": "模型与电离模型",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-017",
+    "knowledge_point": "离子反应与离子方程式的书写",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-018",
+    "knowledge_point": "中和反应的实质与离子方程式的含义",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-019",
+    "knowledge_point": "离子互换反应的条件与其他离子反应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-020",
+    "knowledge_point": "氧化还原反应与化合价变化",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-021",
+    "knowledge_point": "氧化还原反应的电子转移本质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-022",
+    "knowledge_point": "四种基本反应类型与氧化还原反应的关系",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-023",
+    "knowledge_point": "氧化剂、还原剂及常见物质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-024",
+    "knowledge_point": "氧化还原反应的应用与尾气催化转化",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-025",
+    "knowledge_point": "钠的存在、原子结构与还原性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-026",
+    "knowledge_point": "钠的物理性质及与空气反应和保存",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-027",
+    "knowledge_point": "钠的燃烧实验与过氧化钠",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-028",
+    "knowledge_point": "钠与水的反应实验及活泼金属灭火",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-029",
+    "knowledge_point": "氧化钠、过氧化钠与水及二氧化碳反应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-030",
+    "knowledge_point": "碳酸钠与碳酸氢钠的溶解及碱性比较",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-031",
+    "knowledge_point": "碳酸钠、碳酸氢钠的热稳定性与鉴别",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-032",
+    "knowledge_point": "氨碱法与联合制碱法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-033",
+    "knowledge_point": "焰色试验的操作、原理与金属元素焰色",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-034",
+    "knowledge_point": "氯的存在、氯气用途与物理性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-035",
+    "knowledge_point": "氯气的氧化性及与金属、氢气反应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-036",
+    "knowledge_point": "氯气与水反应及氯水消毒",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-037",
+    "knowledge_point": "次氯酸的漂白性、不稳定性及实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-038",
+    "knowledge_point": "漂白液、漂白粉与漂粉精的制备和用途",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-039",
+    "knowledge_point": "数字化实验与次氯酸光照分解产物验证",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-040",
+    "knowledge_point": "氯气的实验室制法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-041",
+    "knowledge_point": "实验室中制取气体装置的设计",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-042",
+    "knowledge_point": "氯离子检验与碳酸根干扰的排除",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-043",
+    "knowledge_point": "水质检测对象与目的",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-044",
+    "knowledge_point": "物质的量、摩尔与阿伏加德罗常数",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-045",
+    "knowledge_point": "国际单位制的七个基本单位",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-046",
+    "knowledge_point": "摩尔质量及质量与物质的量的关系",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-047",
+    "knowledge_point": "物质体积的微观影响因素及气体体积规律",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-048",
+    "knowledge_point": "气体摩尔体积及温度压强条件",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-049",
+    "knowledge_point": "物质的量浓度与表示方法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-050",
+    "knowledge_point": "由物质的量浓度计算配液所需质量",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-051",
+    "knowledge_point": "容量瓶的结构、规格和使用",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-052",
+    "knowledge_point": "用固体试剂配制一定物质的量浓度溶液",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-053",
+    "knowledge_point": "浓溶液稀释与物质的量守恒",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-054",
+    "knowledge_point": "固体配液与浓液稀释的对比实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-055",
+    "knowledge_point": "铁的存在与物理性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-056",
+    "knowledge_point": "铁的还原性与不同氧化剂作用下的价态",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-057",
+    "knowledge_point": "铁与水蒸气反应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-058",
+    "knowledge_point": "人体中的铁元素及补铁",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-059",
+    "knowledge_point": "铁的氧化物",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-060",
+    "knowledge_point": "铁的氢氧化物及其制备、转化",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-061",
+    "knowledge_point": "铁盐、亚铁盐与铁离子的检验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-062",
+    "knowledge_point": "铁离子与亚铁离子的相互转化",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-063",
+    "knowledge_point": "从物质类别和元素化合价研究物质性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-064",
+    "knowledge_point": "氯化铁溶液蚀刻铜箔实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-065",
+    "knowledge_point": "菠菜中铁元素的检验实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-066",
+    "knowledge_point": "合金及其性能与微观结构",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-067",
+    "knowledge_point": "生铁、钢与碳素钢分类",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-068",
+    "knowledge_point": "合金钢与不锈钢",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-069",
+    "knowledge_point": "金属材料的成分检测",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-070",
+    "knowledge_point": "超级钢的成分与性能",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-071",
+    "knowledge_point": "铝的存在、氧化膜与表面处理",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-072",
+    "knowledge_point": "铝、氧化铝与盐酸反应",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-073",
+    "knowledge_point": "铝、氧化铝与氢氧化钠反应及两性氧化物",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-074",
+    "knowledge_point": "硬铝的成分、性能与用途",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-075",
+    "knowledge_point": "储氢合金及其他新型合金",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-076",
+    "knowledge_point": "稀土金属与合金性能",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-077",
+    "knowledge_point": "物质的量在化学方程式计算中的应用",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-078",
+    "knowledge_point": "实验活动2：铁及其化合物的性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-079",
+    "knowledge_point": "原子的构成与质量数",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-080",
+    "knowledge_point": "核外电子分层排布与稳定结构",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-081",
+    "knowledge_point": "原子结构模型与电子云模型",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-082",
+    "knowledge_point": "原子序数、周期和族",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-083",
+    "knowledge_point": "元素周期表方格中的信息",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-084",
+    "knowledge_point": "核素、同位素与元素相对原子质量",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-085",
+    "knowledge_point": "同位素在科技考古中的应用",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-086",
+    "knowledge_point": "原子结构与金属性、非金属性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-087",
+    "knowledge_point": "碱金属化学性质的比较实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-088",
+    "knowledge_point": "碱金属元素性质的相似性与递变性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-089",
+    "knowledge_point": "碱金属单质的物理性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-090",
+    "knowledge_point": "依据元素位置、结构、性质进行预测",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-091",
+    "knowledge_point": "卤族元素及卤素单质的物理性质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-092",
+    "knowledge_point": "卤素单质与氢气反应的条件和稳定性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-093",
+    "knowledge_point": "卤素单质间的置换反应及氧化性比较",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-094",
+    "knowledge_point": "同主族元素性质递变规律",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-095",
+    "knowledge_point": "1—18号元素的电子排布、原子半径和化合价",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-096",
+    "knowledge_point": "第三周期元素性质递变的实验比较",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-097",
+    "knowledge_point": "两性氢氧化物与第三周期元素水化物酸碱性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-098",
+    "knowledge_point": "同周期元素性质递变与元素周期律",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-099",
+    "knowledge_point": "金属与非金属的分区及边界",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-100",
+    "knowledge_point": "主族元素化合价与周期表位置的关系",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-101",
+    "knowledge_point": "元素周期表和周期律的预测与应用",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-102",
+    "knowledge_point": "离子键与离子化合物",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-103",
+    "knowledge_point": "电子式",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-104",
+    "knowledge_point": "共价键、共价化合物与分子结构",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-105",
+    "knowledge_point": "结构式",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-106",
+    "knowledge_point": "非极性共价键与极性共价键",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-107",
+    "knowledge_point": "化学键与化学反应的本质",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-108",
+    "knowledge_point": "分子间作用力、氢键及其影响",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-109",
+    "knowledge_point": "实验活动3：同主族元素性质递变的点滴实验",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-110",
+    "knowledge_point": "实验室突发事件的应对措施",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-111",
+    "knowledge_point": "常见废弃物的处理方法",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-112",
+    "knowledge_point": "化学品安全使用标识及运输标识",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-113",
+    "knowledge_point": "部分酸、碱和盐在室温下的溶解性",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-114",
+    "knowledge_point": "一些常见元素中英文名称",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-115",
+    "knowledge_point": "相对原子质量表及数据说明",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC1-116",
+    "knowledge_point": "元素周期表",
+    "reason": "独立新分册首次抽取，按教材顺序连续编号"
+  }
+]

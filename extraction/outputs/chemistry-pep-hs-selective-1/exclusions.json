@@ -1,0 +1,457 @@
+[
+  {
+    "pdf_page": 6,
+    "scope": "引言",
+    "decision": "保留键变化、物质能量与代谢的概念；宏观微观研究和一般评价不单列"
+  },
+  {
+    "pdf_page": 9,
+    "scope": "热量及反应热",
+    "decision": "补入放热/吸热分类；等温脚注明确反应后恢复温度，不改成反应中温度恒定"
+  },
+  {
+    "pdf_page": 10,
+    "scope": "中和热实验",
+    "decision": "保留全部给定步骤与空表；不填写温度差、放热量空格"
+  },
+  {
+    "pdf_page": 15,
+    "scope": "燃烧热脚注",
+    "decision": "保留C、H、S、N的指定产物和物态"
+  },
+  {
+    "pdf_page": 21,
+    "scope": "热化学研究的先驱",
+    "decision": "保留冰量热计按熔冰质量计算热量的方法；人物年代评价排除"
+  },
+  {
+    "pdf_page": 22,
+    "scope": "例题1、例题2",
+    "decision": "例题1首次质量/物质的量/热量计算完整保留；例题2葡萄糖只替换物质与数值，同类计算不重复录入"
+  },
+  {
+    "pdf_page": 23,
+    "scope": "例题3",
+    "decision": "盖斯定律代数组合法与前例方法不同，完整保留题干、反应式和原解"
+  },
+  {
+    "pdf_page": 31,
+    "scope": "速率探究",
+    "decision": "给定实验用品、定量锌硫酸步骤保留；自拟定性方案和空表不补答案"
+  },
+  {
+    "pdf_page": 34,
+    "scope": "催化作用",
+    "decision": "保留酶催化和改变历程/活化能的讲解，删除获奖与评价片段"
+  },
+  {
+    "pdf_page": 35,
+    "scope": "飞秒化学",
+    "decision": "保留时间分辨技术、ICN实验测值和H·反应过渡态；人物年代奖项排除"
+  },
+  {
+    "pdf_page": 38,
+    "scope": "表2-1",
+    "decision": "表格跨P38-P39，六组完整数据与平均值保留"
+  },
+  {
+    "pdf_page": 40,
+    "scope": "平衡计算",
+    "decision": "例题1为核心讲解留detail；P40-P41例题2为不同条件的转化率补充原例，放example"
+  },
+  {
+    "pdf_page": 42,
+    "scope": "浓度实验",
+    "decision": "不补空表现象；仅保留教材明示颜色标签和组成发生变化的结论"
+  },
+  {
+    "pdf_page": 43,
+    "scope": "压强实验",
+    "decision": "先变浅后变深、先变深后变浅分别保留，避免删除即时与后续必要对比"
+  },
+  {
+    "pdf_page": 49,
+    "scope": "熵与方向",
+    "decision": "熵增/熵减反例及孤立/绝热条件保留；末尾跨页句先合并"
+  },
+  {
+    "pdf_page": 50,
+    "scope": "自由能",
+    "decision": "完整保留等温、等压、封闭体系、仅体积变化功限制及ΔG三种判据"
+  },
+  {
+    "pdf_page": 54,
+    "scope": "合成氨史话",
+    "decision": "保留换热、低温分离循环等具体技术；人物、年代、获奖和宏观评价排除"
+  },
+  {
+    "pdf_page": 55,
+    "scope": "合成氨史话续",
+    "decision": "保留锇催化条件、水煤气及液化空气原料来源、350℃和1MPa新条件；研发任务指标排除"
+  },
+  {
+    "pdf_page": 60,
+    "scope": "实验活动1",
+    "decision": "与正文实验用量、操作有区别，保留完整给定器材、药品及步骤；空白结果不补"
+  },
+  {
+    "pdf_page": 63,
+    "scope": "强弱电解质实验",
+    "decision": "保留给定比较条件，明示结果按正文；不逐项填写空表"
+  },
+  {
+    "pdf_page": 66,
+    "scope": "实验3-2与思考讨论",
+    "decision": "醋酸加Na2CO3给定步骤保留；Ka大小推测题、镁与酸压强曲线未解讨论不作为答案"
+  },
+  {
+    "pdf_page": 70,
+    "scope": "pH试纸和pH计",
+    "decision": "量程、分辨率照教材保留；图片仅作原页依据"
+  },
+  {
+    "pdf_page": 71,
+    "scope": "应用与作物表",
+    "decision": "作物适宜pH表、土壤养分图保留原图，不用外部数据补充"
+  },
+  {
+    "pdf_page": 73,
+    "scope": "中和滴定",
+    "decision": "指示剂范围侧栏按位置归入本节；完整计算例题跨P73-P74合并留detail"
+  },
+  {
+    "pdf_page": 76,
+    "scope": "盐溶液酸碱性探究",
+    "decision": "自选测试方法及原表空格不补；P77正文给出的归纳结论保留"
+  },
+  {
+    "pdf_page": 77,
+    "scope": "离子相互作用讨论",
+    "decision": "未解表格不填，随后NH4Cl水解完整讲解保留"
+  },
+  {
+    "pdf_page": 80,
+    "scope": "水解平衡探究",
+    "decision": "给定用品和Fe(OH)3弱碱、难溶提示保留；不创造实验方案和现象"
+  },
+  {
+    "pdf_page": 88,
+    "scope": "沉淀转化实验",
+    "decision": "两种转化方法均保留；只录图示与后文已给结论，不填空表"
+  },
+  {
+    "pdf_page": 90,
+    "scope": "氟化物防龋",
+    "decision": "保留反应、溶解度比较及原书高氟地区/6岁以下限制"
+  },
+  {
+    "pdf_page": 96,
+    "scope": "中和滴定实验",
+    "decision": "构造、检漏、润洗、加液、调零及聚四氟乙烯活塞脚注保留"
+  },
+  {
+    "pdf_page": 98,
+    "scope": "滴定问题讨论",
+    "decision": "未解问题及待绘制曲线任务不录入知识正文"
+  },
+  {
+    "pdf_page": 99,
+    "scope": "水解应用实验",
+    "decision": "保留给定四组操作，未给现象不补；胶体制备红褐色为明示步骤终点"
+  },
+  {
+    "pdf_page": 101,
+    "scope": "锌铜原电池",
+    "decision": "保留盐桥组成脚注和取出盐桥的现象；未解绘图任务不作答"
+  },
+  {
+    "pdf_page": 106,
+    "scope": "化学电源史话",
+    "decision": "人物历史评价排除；首讲之外的历史验电经历不作重复原电池结论"
+  },
+  {
+    "pdf_page": 109,
+    "scope": "电解池",
+    "decision": "阳极/阴极命名脚注以及本例水电离离子未参与电极反应的限制保留"
+  },
+  {
+    "pdf_page": 114,
+    "scope": "电解与元素发现",
+    "decision": "混合历史表只保留电解、还原制单质的具体方法及条件；人物年代奖项删除"
+  },
+  {
+    "pdf_page": 117,
+    "scope": "腐蚀实验",
+    "decision": "两组给定对照实验步骤保留；不补观察答案"
+  },
+  {
+    "pdf_page": 118,
+    "scope": "白铁皮与马口铁讨论",
+    "decision": "未解破损腐蚀比较不补答案，正文防护方法完整保留"
+  },
+  {
+    "pdf_page": 119,
+    "scope": "牺牲阳极实验",
+    "decision": "保留3%NaCl酸化、Fe/Zn、琼脂/盐水/酚酞/铁氰化钾用量及培养皿对照，空表不填"
+  },
+  {
+    "pdf_page": 120,
+    "scope": "铁氰化钾检验",
+    "decision": "依教材原式转录，不以外部配合物反应写法替换"
+  },
+  {
+    "pdf_page": 127,
+    "scope": "电镀实验",
+    "decision": "保留2～3V、5cm、5～10min及铜氨溶液脚注；未解反接问题不填"
+  },
+  {
+    "pdf_page": 128,
+    "scope": "燃料电池实验",
+    "decision": "保留烘干活化、3～6V、1mol/L Na2SO4、K1/K2切换和时间，不补未给的电流及颜色结果"
+  },
+  {
+    "pdf_page": 129,
+    "scope": "附录数据",
+    "decision": "整体作为参考数据表保留，不拆成同类型知识点；与正文已引数据的重合用于维持完整表格"
+  },
+  {
+    "pdf_page": 132,
+    "scope": "名词索引",
+    "decision": "仅导航，已有知识不重复录入"
+  },
+  {
+    "pdf_page": 138,
+    "scope": "元素周期表",
+    "decision": "完整数据以原图保留；不以乱码OCR猜测电子排布或质量数"
+  },
+  {
+    "pdf_page": 1,
+    "scope": "whole_page",
+    "decision": "封面、2019审核标记；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 2,
+    "scope": "whole_page",
+    "decision": "扉页；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 3,
+    "scope": "whole_page",
+    "decision": "编写及出版信息；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 4,
+    "scope": "whole_page",
+    "decision": "目录；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 5,
+    "scope": "whole_page",
+    "decision": "目录；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 8,
+    "scope": "whole_page",
+    "decision": "第一章章引言；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 17,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 18,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 24,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 25,
+    "scope": "whole_page",
+    "decision": "整理与提升：重复知识与待填图表；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 26,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 27,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 28,
+    "scope": "whole_page",
+    "decision": "第二章章引言；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 36,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 46,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 47,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 56,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 57,
+    "scope": "whole_page",
+    "decision": "整理与提升：重复知识与待填图表；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 58,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 59,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 62,
+    "scope": "whole_page",
+    "decision": "第三章章引言；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 67,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 75,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 83,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 91,
+    "scope": "whole_page",
+    "decision": "了解水处理过程中的化学原理：资料查阅和报告任务；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 92,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 93,
+    "scope": "whole_page",
+    "decision": "整理与提升：重复知识与待填图表；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 94,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 95,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 98,
+    "scope": "whole_page",
+    "decision": "正文、实验或侧栏；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 107,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 108,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 115,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 121,
+    "scope": "whole_page",
+    "decision": "暖贴的设计与制作：资料收集、设计、评价任务；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 122,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 123,
+    "scope": "whole_page",
+    "decision": "整理与提升：重复知识与待填图表；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 124,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 125,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 126,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 132,
+    "scope": "whole_page",
+    "decision": "名词索引；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 133,
+    "scope": "whole_page",
+    "decision": "空白页；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 134,
+    "scope": "whole_page",
+    "decision": "后记、2017年版课程标准证据；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 135,
+    "scope": "whole_page",
+    "decision": "空白页；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 136,
+    "scope": "whole_page",
+    "decision": "图片来源致谢；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 137,
+    "scope": "whole_page",
+    "decision": "空白页；不新增完整知识讲解，或知识已在首讲收录。"
+  },
+  {
+    "pdf_page": 139,
+    "scope": "whole_page",
+    "decision": "封底、ISBN；不新增完整知识讲解，或知识已在首讲收录。"
+  }
+]

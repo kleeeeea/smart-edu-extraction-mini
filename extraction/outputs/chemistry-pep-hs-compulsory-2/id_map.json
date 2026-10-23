@@ -1,0 +1,938 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-001",
+    "knowledge_point": "硫的原子结构与化合价",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-002",
+    "knowledge_point": "硫的性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-003",
+    "knowledge_point": "二氧化硫的物理性质与溶于水实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-004",
+    "knowledge_point": "二氧化硫与水反应及可逆反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-005",
+    "knowledge_point": "二氧化硫的氧化性和还原性",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-006",
+    "knowledge_point": "二氧化硫的漂白作用与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-007",
+    "knowledge_point": "食品中的二氧化硫",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-008",
+    "knowledge_point": "硫酸的工业制备与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-009",
+    "knowledge_point": "硫酸的酸性、吸水性与脱水性",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-010",
+    "knowledge_point": "浓硫酸的强氧化性及与铜、木炭反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-011",
+    "knowledge_point": "硫酸钙、硫酸钡与硫酸铜",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-012",
+    "knowledge_point": "硫酸根离子的检验及干扰排除",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-013",
+    "knowledge_point": "自然界中硫的存在和转化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-014",
+    "knowledge_point": "不同价态含硫物质的转化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-015",
+    "knowledge_point": "化学实验设计",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-016",
+    "knowledge_point": "氮元素的结构与存在",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-017",
+    "knowledge_point": "氮气的稳定性与化学性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-018",
+    "knowledge_point": "氮的固定与氮循环",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-019",
+    "knowledge_point": "合成氨实验的条件与氨含量",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-020",
+    "knowledge_point": "一氧化氮、二氧化氮的性质及转化实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-021",
+    "knowledge_point": "氨的物理性质、喷泉实验及氨水",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-022",
+    "knowledge_point": "氨与酸反应及催化氧化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-023",
+    "knowledge_point": "铵盐的性质、铵根离子的检验和制氨",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-024",
+    "knowledge_point": "硝酸的性质与保存",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-025",
+    "knowledge_point": "硝酸的强氧化性及铜与浓、稀硝酸反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-026",
+    "knowledge_point": "铁、铝的钝化及加热反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-027",
+    "knowledge_point": "王水",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-028",
+    "knowledge_point": "工业制硝酸的原理与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-029",
+    "knowledge_point": "酸雨的形成、危害与防治",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-030",
+    "knowledge_point": "测定雨水的pH",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-031",
+    "knowledge_point": "无机非金属材料与硅酸盐材料",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-032",
+    "knowledge_point": "硅酸盐的结构与性能",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-033",
+    "knowledge_point": "陶瓷的原料、制备与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-034",
+    "knowledge_point": "玻璃的组成、制备与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-035",
+    "knowledge_point": "水泥与混凝土",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-036",
+    "knowledge_point": "新型无机非金属材料",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-037",
+    "knowledge_point": "硅的半导体性能与高纯硅制备",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-038",
+    "knowledge_point": "高纯硅的制备工艺",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-039",
+    "knowledge_point": "高纯硅和二氧化硅的应用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-040",
+    "knowledge_point": "碳化硅陶瓷",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-041",
+    "knowledge_point": "高温结构、压电、透明和超导陶瓷",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-042",
+    "knowledge_point": "富勒烯、碳纳米管与石墨烯",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-043",
+    "knowledge_point": "用化学沉淀法去除粗盐中的杂质离子",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-044",
+    "knowledge_point": "不同价态含硫物质的转化实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-045",
+    "knowledge_point": "放热反应、吸热反应及实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-046",
+    "knowledge_point": "化学键变化与反应中的能量变化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-047",
+    "knowledge_point": "反应物与生成物总能量和吸放热的关系",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-048",
+    "knowledge_point": "化石能源利用的问题",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-049",
+    "knowledge_point": "能源消费结构",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-050",
+    "knowledge_point": "节能措施与新能源",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-051",
+    "knowledge_point": "火力发电的能量转化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-052",
+    "knowledge_point": "原电池实验、电子转移与正负极",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-053",
+    "knowledge_point": "简易电池的设计与制作",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-054",
+    "knowledge_point": "一次电池和二次电池",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-055",
+    "knowledge_point": "锂离子电池的应用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-056",
+    "knowledge_point": "燃料电池",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-057",
+    "knowledge_point": "电池材料的研究因素",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-058",
+    "knowledge_point": "化学反应速率的表示与平均速率",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-059",
+    "knowledge_point": "化学反应速率的调控意义",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-060",
+    "knowledge_point": "温度对化学反应速率的影响实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-061",
+    "knowledge_point": "变量控制",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-062",
+    "knowledge_point": "浓度、温度、催化剂和压强对反应速率的影响",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-063",
+    "knowledge_point": "催化剂的选择性与酶",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-064",
+    "knowledge_point": "化学平衡与反应限度",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-065",
+    "knowledge_point": "反应条件控制与合成氨条件选择",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-066",
+    "knowledge_point": "高炉炼铁的反应限度",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-067",
+    "knowledge_point": "电极材料与原电池的对比实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-068",
+    "knowledge_point": "硫代硫酸钠反应与过氧化氢分解的速率对比实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-069",
+    "knowledge_point": "有机化合物中碳原子的成键特点",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-070",
+    "knowledge_point": "使用模型研究物质结构",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-071",
+    "knowledge_point": "甲烷分子的正四面体结构",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-072",
+    "knowledge_point": "烷烃的组成、命名和结构简式",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-073",
+    "knowledge_point": "链状烷烃通式与同系物",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-074",
+    "knowledge_point": "同分异构现象与同分异构体",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-075",
+    "knowledge_point": "烷烃的物理性质与甲烷物性数据",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-076",
+    "knowledge_point": "烷烃的稳定性、燃烧与受热分解",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-077",
+    "knowledge_point": "甲烷与氯气的光照取代反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-078",
+    "knowledge_point": "有机化合物的一般性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-079",
+    "knowledge_point": "乙烯的组成、结构与物理性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-080",
+    "knowledge_point": "乙烯的燃烧与被酸性高锰酸钾氧化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-081",
+    "knowledge_point": "乙烯与溴的反应及加成反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-082",
+    "knowledge_point": "乙烯的聚合反应与加聚反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-083",
+    "knowledge_point": "乙烯与植物生长及果实成熟",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-084",
+    "knowledge_point": "烃的组成与分类",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-085",
+    "knowledge_point": "苯的结构特点与用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-086",
+    "knowledge_point": "天然有机高分子与合成有机高分子",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-087",
+    "knowledge_point": "塑料的组成、性质与常见品种",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-088",
+    "knowledge_point": "橡胶、合成橡胶与硫化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-089",
+    "knowledge_point": "人造纤维、合成纤维与化学纤维",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-090",
+    "knowledge_point": "胶黏剂与涂料",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-091",
+    "knowledge_point": "乙醇的物理性质、组成与结构",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-092",
+    "knowledge_point": "羟基与烃的衍生物",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-093",
+    "knowledge_point": "乙醇与钠的反应及与水的活泼性比较",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-094",
+    "knowledge_point": "官能团与烃基",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-095",
+    "knowledge_point": "乙醇的燃烧与催化氧化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-096",
+    "knowledge_point": "乙醇的用途与酒精度",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-097",
+    "knowledge_point": "乙酸的物理性质、结构与酸性",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-098",
+    "knowledge_point": "乙酸与乙醇的酯化反应及酯的性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-099",
+    "knowledge_point": "官能团与有机化合物的分类",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-100",
+    "knowledge_point": "认识有机化合物的一般思路",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-101",
+    "knowledge_point": "基本营养物质与糖类的分类",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-102",
+    "knowledge_point": "糖类物质的同分异构关系",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-103",
+    "knowledge_point": "葡萄糖的结构与特征反应检验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-104",
+    "knowledge_point": "淀粉检验与糖类水解",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-105",
+    "knowledge_point": "糖类在人体中的变化与制取乙醇",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-106",
+    "knowledge_point": "蛋白质的组成、水解与氨基酸",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-107",
+    "knowledge_point": "蛋白质的变性、显色与灼烧实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-108",
+    "knowledge_point": "蛋白质及酶的用途",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-109",
+    "knowledge_point": "油脂的组成、结构与物理性质",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-110",
+    "knowledge_point": "油脂的氢化、水解与生理功能",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-111",
+    "knowledge_point": "食用油的氧化变质与抗氧化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-112",
+    "knowledge_point": "奶油与人造奶油",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-113",
+    "knowledge_point": "甲烷、乙烷、乙烯和乙炔的球棍模型搭建",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-114",
+    "knowledge_point": "乙醇、乙酸性质及乙酸乙酯制取实验",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-115",
+    "knowledge_point": "自然资源的分类与可持续发展",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-116",
+    "knowledge_point": "金属冶炼的方法与反应原理",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-117",
+    "knowledge_point": "合理利用金属资源与回收铝的能耗",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-118",
+    "knowledge_point": "海水水资源与化学资源的利用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-119",
+    "knowledge_point": "海水中的化学元素及富集程度",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-120",
+    "knowledge_point": "海水提溴的吹出法",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-121",
+    "knowledge_point": "煤的组成、干馏及其主要产品",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-122",
+    "knowledge_point": "煤的气化、直接液化与间接液化",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-123",
+    "knowledge_point": "天然气的化工利用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-124",
+    "knowledge_point": "天然气水合物",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-125",
+    "knowledge_point": "石油的分馏、裂化、裂解与结构调整",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-126",
+    "knowledge_point": "生物质资源的利用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-127",
+    "knowledge_point": "大宗化学品与精细化学品",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-128",
+    "knowledge_point": "化肥的合理施用",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-129",
+    "knowledge_point": "农药的种类及施用影响",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-130",
+    "knowledge_point": "DDT的稳定性、生物富集及抗药性",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-131",
+    "knowledge_point": "药物分类、作用方式与分子结构",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-132",
+    "knowledge_point": "处方药与非处方药",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-133",
+    "knowledge_point": "阿司匹林的制取、作用与不良反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-134",
+    "knowledge_point": "合理用药的原则与考虑因素",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-135",
+    "knowledge_point": "药物设计与长效缓释方法",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-136",
+    "knowledge_point": "食品添加剂的定义与分类",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-137",
+    "knowledge_point": "食品着色剂与增味剂",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-138",
+    "knowledge_point": "食品膨松剂与凝固剂",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-139",
+    "knowledge_point": "食品防腐剂与抗氧化剂",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-140",
+    "knowledge_point": "营养强化剂",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-141",
+    "knowledge_point": "食品添加剂的安全使用与限量规定",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-142",
+    "knowledge_point": "豆腐的传统制作过程",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-143",
+    "knowledge_point": "环境问题与环境质量监测",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-144",
+    "knowledge_point": "工业三废与大气次生污染物",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-145",
+    "knowledge_point": "污水的处理方法及工艺流程",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-146",
+    "knowledge_point": "固体废物处理的原则",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-147",
+    "knowledge_point": "水华的形成及影响",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-148",
+    "knowledge_point": "绿色化学及原子经济性反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-149",
+    "knowledge_point": "环氧乙烷生产工艺的不同反应",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-150",
+    "knowledge_point": "减量化、再利用与再循环",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-151",
+    "knowledge_point": "人工光合作用的资源转化设想",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-152",
+    "knowledge_point": "环境污染物的分析与鉴定方法",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-153",
+    "knowledge_point": "室温下部分酸、碱和盐的溶解性",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-154",
+    "knowledge_point": "常见元素符号及中英文名称",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-155",
+    "knowledge_point": "相对原子质量及表中符号含义",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSC2-156",
+    "knowledge_point": "元素周期表及图例",
+    "reason": "新分册首次抽取，按教材次序连续编号"
+  }
+]

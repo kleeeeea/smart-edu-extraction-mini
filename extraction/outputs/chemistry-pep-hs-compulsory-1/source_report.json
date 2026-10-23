@@ -1,0 +1,22 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中化学教材/02_高中_化学_人教版_高中年级_必修_第一册_普通高中教科书·化学必修_第一册_5cd19072-e40d-4a73-8580-7b7ada5d4005.pdf",
+  "sha256": "26697bcbfb058051aefe2533789b81312759a28f3c0e6e507295ac5e2fddaf8b",
+  "pdf_pages": 139,
+  "file_bytes": 14050385,
+  "subject": "化学",
+  "stage": "高中",
+  "volume": "必修第一册",
+  "publisher": "人民教育出版社",
+  "resource_id": "5cd19072-e40d-4a73-8580-7b7ada5d4005",
+  "curriculum_revision": "普通高中化学课程标准（2017年版）",
+  "local_md5": "fd4f76944e06fe878d7b386a38b60c1b",
+  "approval_year": 2019,
+  "isbn": "978-7-107-33574-7",
+  "identity_evidence": {
+    "cover": "P1：2019审核",
+    "title": "P2：普通高中教科书 化学 必修 第一册",
+    "curriculum": "P135：依据普通高中化学课程标准（2017年版）编写，2019年审核通过",
+    "isbn": "P139：978-7-107-33574-7"
+  },
+  "printed_page_offset": -5
+}

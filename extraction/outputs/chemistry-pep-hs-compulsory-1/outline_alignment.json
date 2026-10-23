@@ -1,0 +1,230 @@
+{
+  "resource_id": "5cd19072-e40d-4a73-8580-7b7ada5d4005",
+  "ebook_id": "76625bf4-a8aa-42de-a626-5c2051e6c774",
+  "website_title": "普通高中教科书·化学必修 第一册",
+  "resource_url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5cd19072-e40d-4a73-8580-7b7ada5d4005",
+  "identity_evidence": [
+    "资源ID与输入文件名一致",
+    "网站源文件大小14050385字节与本地相同",
+    "网站front_page=5，目录节点起始页与本地目录及正文一致",
+    "本地封面2019审核，P135明确2017年版课标；未套用2022年版初中教材信息"
+  ],
+  "local_sha256": "26697bcbfb058051aefe2533789b81312759a28f3c0e6e507295ac5e2fddaf8b",
+  "local_md5": "fd4f76944e06fe878d7b386a38b60c1b",
+  "website_source_ti_md5": "abb182fcbf83e2175690aa43c1be014a-2",
+  "hash_comparison": "网站ti_md5带-2后缀，为分段对象标识，不能直接当作本地MD5；未宣称远端与本地逐字节相同",
+  "ordering": "章、节、实验活动顺序按网站节点层级与页码；小标题及知识点由教材视觉核实和细分",
+  "nodes": [
+    {
+      "node_id": "00355a6e-316b-3285-8218-c601491651e0",
+      "node_path": "00355a6e-316b-3285-8218-c601491651e0",
+      "page_number": 7,
+      "depth": 0,
+      "pdf_title": "绪言",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "2c9fd35f-ca39-3ee0-bd66-8787a2542054",
+      "node_path": "2c9fd35f-ca39-3ee0-bd66-8787a2542054",
+      "page_number": 10,
+      "depth": 0,
+      "pdf_title": "第一章 物质及其变化",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "83a93d4d-7b81-36c3-aa74-87d88ae793de",
+      "node_path": "2c9fd35f-ca39-3ee0-bd66-8787a2542054/83a93d4d-7b81-36c3-aa74-87d88ae793de",
+      "page_number": 11,
+      "depth": 1,
+      "pdf_title": "第一节 物质的分类及转化",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "a1a52514-ae2f-34ec-b894-aceb4e6dc397",
+      "node_path": "2c9fd35f-ca39-3ee0-bd66-8787a2542054/a1a52514-ae2f-34ec-b894-aceb4e6dc397",
+      "page_number": 19,
+      "depth": 1,
+      "pdf_title": "第二节 离子反应",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "5c411051-8049-3017-aa07-5dd16a547d9f",
+      "node_path": "2c9fd35f-ca39-3ee0-bd66-8787a2542054/5c411051-8049-3017-aa07-5dd16a547d9f",
+      "page_number": 27,
+      "depth": 1,
+      "pdf_title": "第三节 氧化还原反应",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "6c2e58b9-14d6-3320-a4c6-8497721404fb",
+      "node_path": "2c9fd35f-ca39-3ee0-bd66-8787a2542054/6c2e58b9-14d6-3320-a4c6-8497721404fb",
+      "page_number": 34,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "e6085aa9-fe4f-3189-b854-872a52287279",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279",
+      "page_number": 38,
+      "depth": 0,
+      "pdf_title": "第二章 海水中的重要元素——钠和氯",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "145dad94-2bc2-30ec-b229-0f13a8a4ba5e",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279/145dad94-2bc2-30ec-b229-0f13a8a4ba5e",
+      "page_number": 39,
+      "depth": 1,
+      "pdf_title": "第一节 钠及其化合物",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "3a1798f1-e329-3121-bd95-7bf446397bf9",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279/3a1798f1-e329-3121-bd95-7bf446397bf9",
+      "page_number": 49,
+      "depth": 1,
+      "pdf_title": "第二节 氯及其化合物",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "c20d28e7-02c0-3989-96cb-6411b30c09f2",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279/c20d28e7-02c0-3989-96cb-6411b30c09f2",
+      "page_number": 58,
+      "depth": 1,
+      "pdf_title": "第三节 物质的量",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "5c2549f5-0513-3cf7-ad17-18b1a5173984",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279/5c2549f5-0513-3cf7-ad17-18b1a5173984",
+      "page_number": 67,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "61e88b6b-4be8-33c9-af1b-be5e942fe93c",
+      "node_path": "e6085aa9-fe4f-3189-b854-872a52287279/61e88b6b-4be8-33c9-af1b-be5e942fe93c",
+      "page_number": 70,
+      "depth": 1,
+      "pdf_title": "实验活动1 配制一定物质的量浓度的溶液",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3",
+      "node_path": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3",
+      "page_number": 72,
+      "depth": 0,
+      "pdf_title": "第三章 铁 金属材料",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "4f23260c-1827-32e1-9fbf-7415b9c31daf",
+      "node_path": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3/4f23260c-1827-32e1-9fbf-7415b9c31daf",
+      "page_number": 73,
+      "depth": 1,
+      "pdf_title": "第一节 铁及其化合物",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "045525f0-c5b0-3b65-93cd-56634318edfe",
+      "node_path": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3/045525f0-c5b0-3b65-93cd-56634318edfe",
+      "page_number": 83,
+      "depth": 1,
+      "pdf_title": "第二节 金属材料",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "d115d61d-881a-352a-99e8-37738ab8bc3c",
+      "node_path": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3/d115d61d-881a-352a-99e8-37738ab8bc3c",
+      "page_number": 92,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "2b26b23f-2664-379e-9c5e-c71e604bb8a1",
+      "node_path": "09454fd8-c8b5-35a3-b6ee-82e1caf2acc3/2b26b23f-2664-379e-9c5e-c71e604bb8a1",
+      "page_number": 95,
+      "depth": 1,
+      "pdf_title": "实验活动2 铁及其化合物的性质",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "a6bda593-295c-34fb-a8d6-fc7db7741368",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368",
+      "page_number": 96,
+      "depth": 0,
+      "pdf_title": "第四章 物质结构 元素周期律",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "cbb4775f-9bfd-3a51-b0d4-14f94c1cce40",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368/cbb4775f-9bfd-3a51-b0d4-14f94c1cce40",
+      "page_number": 97,
+      "depth": 1,
+      "pdf_title": "第一节 原子结构与元素周期表",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "6003ac34-eebe-3324-9127-e29b3ff7239b",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368/6003ac34-eebe-3324-9127-e29b3ff7239b",
+      "page_number": 112,
+      "depth": 1,
+      "pdf_title": "第二节 元素周期律",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "de943b2a-b728-3a23-9741-e500d41567a8",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368/de943b2a-b728-3a23-9741-e500d41567a8",
+      "page_number": 118,
+      "depth": 1,
+      "pdf_title": "第三节 化学键",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "f856c25b-b7bd-34f7-9bc4-5540a45e43f6",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368/f856c25b-b7bd-34f7-9bc4-5540a45e43f6",
+      "page_number": 123,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    },
+    {
+      "node_id": "63ebb81a-2bc2-3acb-8a0b-52f9921e2f82",
+      "node_path": "a6bda593-295c-34fb-a8d6-fc7db7741368/63ebb81a-2bc2-3acb-8a0b-52f9921e2f82",
+      "page_number": 127,
+      "depth": 1,
+      "pdf_title": "实验活动3 同周期、同主族元素性质的递变",
+      "title_evidence": "本地PDF P5-P6目录与对应起始页视觉核对",
+      "website_title_status": "not_present_in_mapping"
+    }
+  ],
+  "limitations": [
+    "网站ebook_mapping不含标题字符串，不能据此宣称逐字核验网站末级名称。具体名称取自本册目录与原页。",
+    "附录与折页元素周期表依本地目录、原页补充，未虚构网站节点。"
+  ]
+}

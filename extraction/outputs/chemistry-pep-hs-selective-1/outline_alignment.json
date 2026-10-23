@@ -1,0 +1,256 @@
+{
+  "resource_id": "3502fe81-b23e-4f68-aa3d-7921e7932ec9",
+  "website_resource_title": "普通高中教科书·化学选择性必修1 化学反应原理",
+  "resource_url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3502fe81-b23e-4f68-aa3d-7921e7932ec9",
+  "resource_metadata_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/3502fe81-b23e-4f68-aa3d-7921e7932ec9.json",
+  "identity_evidence": [
+    "资源ID与指定文件名一致",
+    "源PDF大小12241298字节与本地一致",
+    "全书139个物理页，网站目录起始页与本地目录/正文逐项对应",
+    "书名、册次、审核年、封底ISBN由本地原图确认"
+  ],
+  "sha256": "6fdb6f0a8b3245882fe327a8b0174fbb1c46afe2072c639c98412216e6d14c46",
+  "local_md5": "61897a3988ed16db0acd35fcab091b27",
+  "website_source_ti_md5": "14d6a4b227dc41c71c54604823008f6b-2",
+  "hash_comparison": "ti_md5带-2后缀，为分段对象标识；不将其当作本地文件MD5，不宣称远端与本地逐字节相同",
+  "nodes": [
+    {
+      "node_id": "ab53a3c4-8e07-355b-8144-333a46c3b854",
+      "node_path": "ab53a3c4-8e07-355b-8144-333a46c3b854",
+      "page_number": 8,
+      "depth": 0,
+      "pdf_title": "第一章 化学反应的热效应",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "eb48dfb0-5de5-3026-816f-ae6b3aece09d",
+      "node_path": "ab53a3c4-8e07-355b-8144-333a46c3b854/eb48dfb0-5de5-3026-816f-ae6b3aece09d",
+      "page_number": 9,
+      "depth": 1,
+      "pdf_title": "第一节 反应热",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "2652e205-31fb-34f0-976f-dd424624a0cb",
+      "node_path": "ab53a3c4-8e07-355b-8144-333a46c3b854/2652e205-31fb-34f0-976f-dd424624a0cb",
+      "page_number": 19,
+      "depth": 1,
+      "pdf_title": "第二节 反应热的计算",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "e79012a4-ec82-35b7-be9f-03ac594a0b8f",
+      "node_path": "ab53a3c4-8e07-355b-8144-333a46c3b854/e79012a4-ec82-35b7-be9f-03ac594a0b8f",
+      "page_number": 25,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "22977b7f-5b09-388b-9543-f33e96dd4fa9",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9",
+      "page_number": 28,
+      "depth": 0,
+      "pdf_title": "第二章 化学反应速率与化学平衡",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "0a3e9174-1846-3883-b786-b54f1760e441",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/0a3e9174-1846-3883-b786-b54f1760e441",
+      "page_number": 29,
+      "depth": 1,
+      "pdf_title": "第一节 化学反应速率",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "9867926c-4f4e-3487-86a3-375e4d3eeb1d",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/9867926c-4f4e-3487-86a3-375e4d3eeb1d",
+      "page_number": 37,
+      "depth": 1,
+      "pdf_title": "第二节 化学平衡",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "46a74dc6-3085-314c-a704-83dca0486f6f",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/46a74dc6-3085-314c-a704-83dca0486f6f",
+      "page_number": 48,
+      "depth": 1,
+      "pdf_title": "第三节 化学反应的方向",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "5b56b08d-661c-3d32-843d-13a500bb3e9b",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/5b56b08d-661c-3d32-843d-13a500bb3e9b",
+      "page_number": 51,
+      "depth": 1,
+      "pdf_title": "第四节 化学反应的调控",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "c006f4e7-a0e8-3c5f-a5b4-8a2713ddf9cf",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/c006f4e7-a0e8-3c5f-a5b4-8a2713ddf9cf",
+      "page_number": 57,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "06cda786-912a-3328-9902-8d4b2ab35888",
+      "node_path": "22977b7f-5b09-388b-9543-f33e96dd4fa9/06cda786-912a-3328-9902-8d4b2ab35888",
+      "page_number": 60,
+      "depth": 1,
+      "pdf_title": "实验活动1 探究影响化学平衡移动的因素",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "ce91d025-0b68-3011-8fef-03501e472678",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678",
+      "page_number": 62,
+      "depth": 0,
+      "pdf_title": "第三章 水溶液中的离子反应与平衡",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "2c105929-4948-3fcb-add2-70eb0ffa56cc",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/2c105929-4948-3fcb-add2-70eb0ffa56cc",
+      "page_number": 63,
+      "depth": 1,
+      "pdf_title": "第一节 电离平衡",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "d8c6a277-2bcf-3643-b85b-447a70ce924e",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/d8c6a277-2bcf-3643-b85b-447a70ce924e",
+      "page_number": 68,
+      "depth": 1,
+      "pdf_title": "第二节 水的电离和溶液的pH",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "9c8995b9-9c84-3f6c-87d9-17699ed225a2",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/9c8995b9-9c84-3f6c-87d9-17699ed225a2",
+      "page_number": 76,
+      "depth": 1,
+      "pdf_title": "第三节 盐类的水解",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "3d10f6c6-c175-3ed8-a28b-6ab8606b81f6",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/3d10f6c6-c175-3ed8-a28b-6ab8606b81f6",
+      "page_number": 84,
+      "depth": 1,
+      "pdf_title": "第四节 沉淀溶解平衡",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "b6dd1d7c-74b2-38d8-bbd9-f488971dcc0c",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/b6dd1d7c-74b2-38d8-bbd9-f488971dcc0c",
+      "page_number": 93,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "b4a0ca3d-2403-3a6d-97dc-233e3d89b96d",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/b4a0ca3d-2403-3a6d-97dc-233e3d89b96d",
+      "page_number": 96,
+      "depth": 1,
+      "pdf_title": "实验活动2 强酸与强碱的中和滴定",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "0ec5c94f-ea34-3a08-8a34-49594e6bc088",
+      "node_path": "ce91d025-0b68-3011-8fef-03501e472678/0ec5c94f-ea34-3a08-8a34-49594e6bc088",
+      "page_number": 99,
+      "depth": 1,
+      "pdf_title": "实验活动3 盐类水解的应用",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932",
+      "page_number": 100,
+      "depth": 0,
+      "pdf_title": "第四章 化学反应与电能",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "3ea07ba3-956c-38c1-b49d-62af3c488510",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/3ea07ba3-956c-38c1-b49d-62af3c488510",
+      "page_number": 101,
+      "depth": 1,
+      "pdf_title": "第一节 原电池",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "9a0aee73-8afa-31ab-b7af-05b1bf918f70",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/9a0aee73-8afa-31ab-b7af-05b1bf918f70",
+      "page_number": 109,
+      "depth": 1,
+      "pdf_title": "第二节 电解池",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "1795e34d-9f0c-30c7-bf7e-460b0cddfed9",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/1795e34d-9f0c-30c7-bf7e-460b0cddfed9",
+      "page_number": 116,
+      "depth": 1,
+      "pdf_title": "第三节 金属的腐蚀与防护",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "ddc2945f-1a95-3d82-8430-4eb49138d041",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/ddc2945f-1a95-3d82-8430-4eb49138d041",
+      "page_number": 123,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "357f3b18-2c54-3101-9a4b-e02956fd666e",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/357f3b18-2c54-3101-9a4b-e02956fd666e",
+      "page_number": 127,
+      "depth": 1,
+      "pdf_title": "实验活动4 简单的电镀实验",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    },
+    {
+      "node_id": "8abc8a23-5505-3a29-8213-7c30c8a90d25",
+      "node_path": "4e082a34-8f3c-3f29-aa19-fcb0e3f20932/8abc8a23-5505-3a29-8213-7c30c8a90d25",
+      "page_number": 128,
+      "depth": 1,
+      "pdf_title": "实验活动5 制作简单的燃料电池",
+      "website_title_status": "mapping未返回标题字段，名称取同资源PDF目录及起始页",
+      "title_evidence": "PDF P4-P5及对应起始页视觉核对"
+    }
+  ],
+  "ordering": "章节、小节按网站同资源目录节点路径和物理页顺序；知识点依据教材正文细分。正文小标题、附录及章引言由原页补充，未虚构网站节点。",
+  "limitations": [
+    "网站ebook_mapping不含标题字符串，不能据此声称逐字核验网站末级名称。具体标题来自同资源PDF目录。"
+  ]
+}
