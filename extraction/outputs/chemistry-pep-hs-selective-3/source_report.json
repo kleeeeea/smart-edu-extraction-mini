@@ -1,0 +1,20 @@
+{
+  "source_pdf": "/Users/l/klee_code/git_repos/scientific_data/edu_kg/yr_smartedu_math/extraction/inputs/高中化学教材/05_高中_化学_人教版_高中年级_选择性必修3_有机化学基础_普通高中教科书·化学选择性必修3_有机化学基础_c561d8ee-7c06-4cb1-9a4d-e34036f02d53.pdf",
+  "sha256": "2ecb6f80c879131a0bb8cf14bb58751b638e5d849fa1cded2c6ef72cc70fab40",
+  "pdf_pages": 163,
+  "file_bytes": 22093382,
+  "subject": "化学",
+  "stage": "高中",
+  "volume": "选择性必修3 有机化学基础",
+  "publisher": "人民教育出版社",
+  "resource_id": "c561d8ee-7c06-4cb1-9a4d-e34036f02d53",
+  "curriculum_revision": "依据《普通高中化学课程标准（2017年版）》编写；2019年审核通过",
+  "curriculum_evidence_pages": [
+    1,
+    160
+  ],
+  "isbn": "978-7-107-34604-0",
+  "isbn_evidence_page": 163,
+  "edition_printing_status": "PDF未见可确认的版次、印次日期；不从文件名推断",
+  "local_md5": "253e2743011692207f12ce34fa66fa36"
+}

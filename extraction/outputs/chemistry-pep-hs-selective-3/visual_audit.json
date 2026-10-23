@@ -1,0 +1,2781 @@
+{
+  "total_pages": 163,
+  "reviewed_pages": 163,
+  "method": "逐物理页查看渲染图；文字层仅候选；逐条回读校正上下标、结构式、表格及跨栏；复杂二维原式和图示由对应整页图完整保留。",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-001.png",
+      "review_image": "review/pages-001-002.jpg",
+      "visual_status": "reviewed",
+      "role": "封面、书名与2019审核",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-002.png",
+      "review_image": "review/pages-001-002.jpg",
+      "visual_status": "reviewed",
+      "role": "编写人员",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-003.png",
+      "review_image": "review/pages-003-004.jpg",
+      "visual_status": "reviewed",
+      "role": "书名与出版信息",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-004.png",
+      "review_image": "review/pages-003-004.jpg",
+      "visual_status": "reviewed",
+      "role": "目录",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-005.png",
+      "review_image": "review/pages-005-006.jpg",
+      "visual_status": "reviewed",
+      "role": "目录",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 1,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-006.png",
+      "review_image": "review/pages-005-006.jpg",
+      "visual_status": "reviewed",
+      "role": "引言",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 2,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-007.png",
+      "review_image": "review/pages-007-008.jpg",
+      "visual_status": "reviewed",
+      "role": "引言及有效合成知识",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-001"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留碳骨架、官能团和分析仪器知识；一般愿景与评价排除。"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 3,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-008.png",
+      "review_image": "review/pages-007-008.jpg",
+      "visual_status": "reviewed",
+      "role": "第一章章引言",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-002"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 4,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-009.png",
+      "review_image": "review/pages-009-010.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-003"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "碳骨架分类图保留，不按分类树每个代表物另造重复记录。"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 5,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-010.png",
+      "review_image": "review/pages-009-010.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-004"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "表1-1各类别、官能团和代表物以表格与原图保留。"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 6,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-011.png",
+      "review_image": "review/pages-011-012.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-005"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 7,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-012.png",
+      "review_image": "review/pages-011-012.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-005",
+        "RJ-CHEMISTRY-HSS3-006"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "实验1-1的用量、反应程度和明示H₂结论保留。"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 8,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-013.png",
+      "review_image": "review/pages-013-014.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-006",
+        "RJ-CHEMISTRY-HSS3-007"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "戊烷实验空表与模型制作任务不填写；同分异构说明保留。"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 9,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-014.png",
+      "review_image": "review/pages-013-014.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-007"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "表1-2分类与给定结构原例保留。"
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 10,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-015.png",
+      "review_image": "review/pages-015-016.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-007",
+        "RJ-CHEMISTRY-HSS3-008",
+        "RJ-CHEMISTRY-HSS3-009"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "键线式、跨页表1-2和碳价四面体的必要对比保留；纯历史评价排除。"
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 11,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-016.png",
+      "review_image": "review/pages-015-016.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-009"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留对映异构及两模型对比，人物奖项评价排除。"
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 12,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-017.png",
+      "review_image": "review/pages-017-018.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 13,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-018.png",
+      "review_image": "review/pages-017-018.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-010",
+        "RJ-CHEMISTRY-HSS3-011"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 14,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-019.png",
+      "review_image": "review/pages-019-020.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-012",
+        "RJ-CHEMISTRY-HSS3-013",
+        "RJ-CHEMISTRY-HSS3-014"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "苯甲酸粗品杂质、数据表、溶剂条件保留。"
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 15,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-020.png",
+      "review_image": "review/pages-019-020.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-014"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "重结晶用品步骤与收率式保留，现象和质量空表不填。"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 16,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-021.png",
+      "review_image": "review/pages-021-022.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-015",
+        "RJ-CHEMISTRY-HSS3-016"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "色谱定义与植物色素分离方法保留；年代人物与获奖排除。"
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 17,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-022.png",
+      "review_image": "review/pages-021-022.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-016",
+        "RJ-CHEMISTRY-HSS3-017"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "元素分析的完整已解原例在detail，分式不按文字层乱序转录。"
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 18,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-023.png",
+      "review_image": "review/pages-023-024.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-017",
+        "RJ-CHEMISTRY-HSS3-018"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "质谱分子离子46与两候选结构、红外光谱跨页说明保留。"
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 19,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-024.png",
+      "review_image": "review/pages-023-024.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-018",
+        "RJ-CHEMISTRY-HSS3-019"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "红外峰和核磁3∶2∶1解释、δ脚注保留。"
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 20,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-025.png",
+      "review_image": "review/pages-025-026.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-019",
+        "RJ-CHEMISTRY-HSS3-020",
+        "RJ-CHEMISTRY-HSS3-021"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "X射线10⁻¹⁰ m、青蒿素有效分析方法保留。"
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 21,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-026.png",
+      "review_image": "review/pages-025-026.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-021"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "青蒿素测定方法续文保留，历史奖项评价排除。"
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 22,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-027.png",
+      "review_image": "review/pages-027-028.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 23,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-028.png",
+      "review_image": "review/pages-027-028.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 24,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-029.png",
+      "review_image": "review/pages-029-030.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 25,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-030.png",
+      "review_image": "review/pages-029-030.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 26,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-031.png",
+      "review_image": "review/pages-031-032.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 27,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-032.png",
+      "review_image": "review/pages-031-032.jpg",
+      "visual_status": "reviewed",
+      "role": "第二章章引言",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-022"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 28,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-033.png",
+      "review_image": "review/pages-033-034.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-023"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 29,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-034.png",
+      "review_image": "review/pages-033-034.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-023",
+        "RJ-CHEMISTRY-HSS3-024"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 30,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-035.png",
+      "review_image": "review/pages-035-036.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-024",
+        "RJ-CHEMISTRY-HSS3-025"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "表2-1甲烷/乙烷不同温度密度脚注保留。"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 31,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-036.png",
+      "review_image": "review/pages-035-036.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-026",
+        "RJ-CHEMISTRY-HSS3-027"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "支链异构沸点对比与系统命名四步保留。"
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 32,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-037.png",
+      "review_image": "review/pages-037-038.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-027"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "系统命名首讲结构和2,3-二甲基己烷保留；未解枚举表不填。"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 33,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-038.png",
+      "review_image": "review/pages-037-038.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-028"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "题8给定伯仲叔季碳定义及已给n₁～n₄例保留，其后氢原子关系式空格不填。"
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 34,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-039.png",
+      "review_image": "review/pages-039-040.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-029"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 35,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-040.png",
+      "review_image": "review/pages-039-040.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-029",
+        "RJ-CHEMISTRY-HSS3-030",
+        "RJ-CHEMISTRY-HSS3-031"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "顺反异构的给定讲解保留；让读者解释的练习不补解。"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 36,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-041.png",
+      "review_image": "review/pages-041-042.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-031",
+        "RJ-CHEMISTRY-HSS3-032",
+        "RJ-CHEMISTRY-HSS3-033"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "顺反物理数据与二烯烃1,2/1,4两种条件相关竞争反应保留。"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 37,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-042.png",
+      "review_image": "review/pages-041-042.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-033",
+        "RJ-CHEMISTRY-HSS3-034"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "乙炔结构、制法和除杂条件保留。"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 38,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-043.png",
+      "review_image": "review/pages-043-044.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-034"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "乙炔探究完整给定操作和装置保留；预测、空记录表及问题不答。"
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 39,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-044.png",
+      "review_image": "review/pages-043-044.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-035",
+        "RJ-CHEMISTRY-HSS3-036"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "分步溴加成、H₂/HCl/H₂O加成、乙烯醇不稳定脚注、聚乙炔及氧炔焰保留；发展史排除。"
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 40,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-045.png",
+      "review_image": "review/pages-045-046.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-037"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "导电聚合物的掺杂、共轭通路及应用保留，奖项历史排除。"
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 41,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-046.png",
+      "review_image": "review/pages-045-046.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "研究与实践均为自拟设计、指标和成果任务，不新增知识。"
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 42,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-047.png",
+      "review_image": "review/pages-047-048.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 43,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-048.png",
+      "review_image": "review/pages-047-048.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-038"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 44,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-049.png",
+      "review_image": "review/pages-049-050.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-038",
+        "RJ-CHEMISTRY-HSS3-039"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "苯σ键、大π键与取代反应保留。"
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 45,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-050.png",
+      "review_image": "review/pages-049-050.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-039",
+        "RJ-CHEMISTRY-HSS3-040",
+        "RJ-CHEMISTRY-HSS3-041"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "硝化、加氢、磺化不同条件保留；表示式的必要结构对比保留。"
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 46,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-051.png",
+      "review_image": "review/pages-051-052.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-042",
+        "RJ-CHEMISTRY-HSS3-043"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "表2-2与实验2-2对比步骤保留。"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 47,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-052.png",
+      "review_image": "review/pages-051-052.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-043",
+        "RJ-CHEMISTRY-HSS3-044"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "续实验空现象解释不填；甲基/苯环相互影响与TNT明示性质保留。"
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 48,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-053.png",
+      "review_image": "review/pages-053-054.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-045"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "稠环芳香烃、萘蒽有效补充保留。"
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 49,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-054.png",
+      "review_image": "review/pages-053-054.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 50,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-055.png",
+      "review_image": "review/pages-055-056.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 51,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-056.png",
+      "review_image": "review/pages-055-056.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 52,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-057.png",
+      "review_image": "review/pages-057-058.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 53,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-058.png",
+      "review_image": "review/pages-057-058.jpg",
+      "visual_status": "reviewed",
+      "role": "第三章章引言",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-046"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 54,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-059.png",
+      "review_image": "review/pages-059-060.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-047",
+        "RJ-CHEMISTRY-HSS3-048"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 55,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-060.png",
+      "review_image": "review/pages-059-060.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-047",
+        "RJ-CHEMISTRY-HSS3-049",
+        "RJ-CHEMISTRY-HSS3-050",
+        "RJ-CHEMISTRY-HSS3-051"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "水解实验的水层、酸化、浅黄AgBr明示结论及氯乙烷侧栏保留。"
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 56,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-061.png",
+      "review_image": "review/pages-061-062.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-051"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "消去与水解条件区别、1-溴丁烷不同用量实验保留，空表不填。"
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 57,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-062.png",
+      "review_image": "review/pages-061-062.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-052",
+        "RJ-CHEMISTRY-HSS3-053"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "PTFE、卤代烃用途与氟利昂/臭氧反应保留；历史评价排除。"
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 58,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-063.png",
+      "review_image": "review/pages-063-064.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 59,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-064.png",
+      "review_image": "review/pages-063-064.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-054"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 60,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-065.png",
+      "review_image": "review/pages-065-066.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-055"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "醇的两表数据与氢键跨页解释保留。"
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 61,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-066.png",
+      "review_image": "review/pages-065-066.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-055",
+        "RJ-CHEMISTRY-HSS3-056",
+        "RJ-CHEMISTRY-HSS3-057"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "浓氢溴酸取代、乙醇消去实验跨页完整合并。"
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 62,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-067.png",
+      "review_image": "review/pages-067-068.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-057",
+        "RJ-CHEMISTRY-HSS3-058"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "170/140℃不同反应、醚定义与氧化实验保留。"
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": 63,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-068.png",
+      "review_image": "review/pages-067-068.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-058",
+        "RJ-CHEMISTRY-HSS3-059",
+        "RJ-CHEMISTRY-HSS3-060"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "有机氧化还原、代谢两种酶、苯酚物理性质和条件保留。"
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": 64,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-069.png",
+      "review_image": "review/pages-069-070.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-061"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "苯酚酸性实验步骤与明示解释保留，空表不填。"
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": 65,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-070.png",
+      "review_image": "review/pages-069-070.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-061",
+        "RJ-CHEMISTRY-HSS3-062"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "通CO₂酸性比较和三溴苯酚实验保留。"
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": 66,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-071.png",
+      "review_image": "review/pages-071-072.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-063",
+        "RJ-CHEMISTRY-HSS3-064"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "FeCl₃显色与废水、消毒有效性质保留，人物年代排除。"
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 67,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-072.png",
+      "review_image": "review/pages-071-072.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": 68,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-073.png",
+      "review_image": "review/pages-073-074.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-065",
+        "RJ-CHEMISTRY-HSS3-066"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "羰基、醛基、乙醛结构及跨页加氢完整。"
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": 69,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-074.png",
+      "review_image": "review/pages-073-074.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-066",
+        "RJ-CHEMISTRY-HSS3-067",
+        "RJ-CHEMISTRY-HSS3-068"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "银镜与新制氢氧化铜实验用量、HCN加成方向提示保留。"
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 70,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-075.png",
+      "review_image": "review/pages-075-076.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-067",
+        "RJ-CHEMISTRY-HSS3-068",
+        "RJ-CHEMISTRY-HSS3-069"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "银镜和Cu₂O方程式、催化氧化与甲醛苯甲醛性质保留。"
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 71,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-076.png",
+      "review_image": "review/pages-075-076.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-070",
+        "RJ-CHEMISTRY-HSS3-071"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "桂皮/杏仁醛、酮和丙酮有效内容保留，不答搜索任务。"
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": 72,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-077.png",
+      "review_image": "review/pages-077-078.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 73,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-078.png",
+      "review_image": "review/pages-077-078.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-072",
+        "RJ-CHEMISTRY-HSS3-073",
+        "RJ-CHEMISTRY-HSS3-074"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "羧酸分类、甲酸双功能结构、乙二酸跨页句完整。"
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": 74,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-079.png",
+      "review_image": "review/pages-079-080.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-074",
+        "RJ-CHEMISTRY-HSS3-075",
+        "RJ-CHEMISTRY-HSS3-076"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "羧酸物理表、羟基酸及羧基断键位置保留。"
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": 75,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-080.png",
+      "review_image": "review/pages-079-080.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-076"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "给定弱酸性说明保留，自拟验证酸性实验任务不新增或作答。"
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": 76,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-081.png",
+      "review_image": "review/pages-081-082.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-077",
+        "RJ-CHEMISTRY-HSS3-078"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "酯化氧同位素示踪原式、酯定义及跨页天然酯实例完整。"
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 77,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-082.png",
+      "review_image": "review/pages-081-082.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-078",
+        "RJ-CHEMISTRY-HSS3-079"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "酯水解的给定酸碱条件与空设计表区分，不填后者。"
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 78,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-083.png",
+      "review_image": "review/pages-083-084.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-078",
+        "RJ-CHEMISTRY-HSS3-079",
+        "RJ-CHEMISTRY-HSS3-080"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "油脂组成原图和油/脂肪状态定义保留。"
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": 79,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-084.png",
+      "review_image": "review/pages-083-084.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-081",
+        "RJ-CHEMISTRY-HSS3-082"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "皂化与硬化不同反应原式保留。"
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": 80,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-085.png",
+      "review_image": "review/pages-085-086.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-082",
+        "RJ-CHEMISTRY-HSS3-083",
+        "RJ-CHEMISTRY-HSS3-084"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "顺式脂肪酸、反式风险限定及胺定义脚注保留。"
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": 81,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-086.png",
+      "review_image": "review/pages-085-086.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-084",
+        "RJ-CHEMISTRY-HSS3-085"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "酰胺结构及取代氨基脚注、酸碱水解原式保留。"
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": 82,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-087.png",
+      "review_image": "review/pages-087-088.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-086"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "仅录给定皂化/盐析/洗涤/成形工序和洗涤剂组成，排除自制、搜索、报告任务。"
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": 83,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-088.png",
+      "review_image": "review/pages-087-088.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": 84,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-089.png",
+      "review_image": "review/pages-089-090.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-087"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "碳骨架增长、缩短与HCN官能团转化原式保留。"
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": 85,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-090.png",
+      "review_image": "review/pages-089-090.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-087",
+        "RJ-CHEMISTRY-HSS3-088"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "羟醛缩合和环加成的有效补充保留。"
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": 86,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-091.png",
+      "review_image": "review/pages-091-092.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-089",
+        "RJ-CHEMISTRY-HSS3-090"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "引入、保护官能团与正向路线设计跨页完整。"
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": 87,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-092.png",
+      "review_image": "review/pages-091-092.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-090"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "正向与逆合成分析给定方法保留；计算产率未解题不作答。"
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": 88,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-093.png",
+      "review_image": "review/pages-093-094.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-090",
+        "RJ-CHEMISTRY-HSS3-091"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "乙二酸二乙酯首讲分析连同原结构式在detail。"
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": 89,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-094.png",
+      "review_image": "review/pages-093-094.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-091"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "完整五步合成及各条件、最佳路线选择依据留在detail。"
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 90,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-095.png",
+      "review_image": "review/pages-095-096.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "未解合成路线讨论和收集资料、报告任务不作答。"
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": 91,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-096.png",
+      "review_image": "review/pages-095-096.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-092"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "实验室装置的操作能力与工业小试中试有效说明保留。"
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": 92,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-097.png",
+      "review_image": "review/pages-097-098.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": 93,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-098.png",
+      "review_image": "review/pages-097-098.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": 94,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-099.png",
+      "review_image": "review/pages-099-100.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": 95,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-100.png",
+      "review_image": "review/pages-099-100.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 96,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-101.png",
+      "review_image": "review/pages-101-102.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": 97,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-102.png",
+      "review_image": "review/pages-101-102.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": 98,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-103.png",
+      "review_image": "review/pages-103-104.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-093"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "实验活动1完整用品与定量操作，导管0.5cm、先取下接收管、70～80℃、三管等总液量不漏，不补气味变化结果。"
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 99,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-104.png",
+      "review_image": "review/pages-103-104.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-094"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "实验活动2完整用品与不同配比1-己烯/1-溴丁烷步骤保留；苯酚醛基同法已首讲，不重复；空表现象和方程式不填。"
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 100,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-105.png",
+      "review_image": "review/pages-105-106.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-095"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "阿司匹林样品处理及羧基/酯基检验，NaHCO₃中和硫酸脚注保留，未解谱图不补。"
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 101,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-106.png",
+      "review_image": "review/pages-105-106.jpg",
+      "visual_status": "reviewed",
+      "role": "第四章章引言",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-096"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 102,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-107.png",
+      "review_image": "review/pages-107-108.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-097"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "单/寡/多糖边界、通式例外与缩合脚注保留。"
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 103,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-108.png",
+      "review_image": "review/pages-107-108.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-098"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "葡萄糖原实验、银镜/砖红现象、五羟基醛糖和酶氧化原式保留。"
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 104,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-109.png",
+      "review_image": "review/pages-109-110.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-099",
+        "RJ-CHEMISTRY-HSS3-100",
+        "RJ-CHEMISTRY-HSS3-101",
+        "RJ-CHEMISTRY-HSS3-102"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "环链平衡、果糖、戊糖和手性跨栏跨页完整。"
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 105,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-110.png",
+      "review_image": "review/pages-109-110.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-102",
+        "RJ-CHEMISTRY-HSS3-103",
+        "RJ-CHEMISTRY-HSS3-104"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "手性续文、蔗糖、麦芽糖跨页完整。"
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 106,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-111.png",
+      "review_image": "review/pages-111-112.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-104",
+        "RJ-CHEMISTRY-HSS3-105"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "乳糖有效侧栏保留，蔗糖麦芽糖自行设计与空结果表不填。"
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 107,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-112.png",
+      "review_image": "review/pages-111-112.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-106",
+        "RJ-CHEMISTRY-HSS3-107"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "甜味剂正文和三结构式保留；搜索问题排除；多糖组成保留。"
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 108,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-113.png",
+      "review_image": "review/pages-113-114.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-108",
+        "RJ-CHEMISTRY-HSS3-109"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "淀粉结构性质应用及纤维素实验保留，不补实验4-2未给现象。"
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 109,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-114.png",
+      "review_image": "review/pages-113-114.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-109",
+        "RJ-CHEMISTRY-HSS3-110",
+        "RJ-CHEMISTRY-HSS3-111"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "纤维素续文、衍生物与甲壳质/壳聚糖有效侧栏保留。"
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 110,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-115.png",
+      "review_image": "review/pages-115-116.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-112"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "纤维素制乙醇给定流程及5吨/1吨保留；产业评价和未解练习排除。"
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 111,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-116.png",
+      "review_image": "review/pages-115-116.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 112,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-117.png",
+      "review_image": "review/pages-117-118.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-113",
+        "RJ-CHEMISTRY-HSS3-114"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "蛋白质功能、氨基酸定义、21/8种照原书、α结构及给定五结构原图保留。"
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 113,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-118.png",
+      "review_image": "review/pages-117-118.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-115",
+        "RJ-CHEMISTRY-HSS3-116",
+        "RJ-CHEMISTRY-HSS3-117"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "两性与成肽原式保留；味精成分有效，历史/搜索任务排除。"
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": 114,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-119.png",
+      "review_image": "review/pages-119-120.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-117",
+        "RJ-CHEMISTRY-HSS3-118",
+        "RJ-CHEMISTRY-HSS3-119"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "肽链续文、蛋白质各级结构和氮含量16%、6.25倍测定保留。"
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 115,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-120.png",
+      "review_image": "review/pages-119-120.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-118",
+        "RJ-CHEMISTRY-HSS3-120",
+        "RJ-CHEMISTRY-HSS3-121"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "蛋白质两性、水解和盐析实验跨页完整。"
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 116,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-121.png",
+      "review_image": "review/pages-121-122.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-121",
+        "RJ-CHEMISTRY-HSS3-122"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "盐析可逆和变性不可逆的区别、全实验和影响因素保留。"
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 117,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-122.png",
+      "review_image": "review/pages-121-122.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-123",
+        "RJ-CHEMISTRY-HSS3-124"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "蛋白质显色实验和胰岛素双链结构有效片段保留；历史评价排除。"
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 118,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-123.png",
+      "review_image": "review/pages-123-124.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-124",
+        "RJ-CHEMISTRY-HSS3-125"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "胰岛素原结构图及烫发的二硫键/巯基知识保留；发现史不录。"
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": 119,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-124.png",
+      "review_image": "review/pages-123-124.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-126"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "酶定义、高效10⁷、温和条件与专一性保留。"
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": 120,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-125.png",
+      "review_image": "review/pages-125-126.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "大豆调查、研究目的与报告任务不录。"
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": 121,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-126.png",
+      "review_image": "review/pages-125-126.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": 122,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-127.png",
+      "review_image": "review/pages-127-128.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-127"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "核酸组成、核苷定义脚注、戊糖环式脚注和原图保留。"
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": 123,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-128.png",
+      "review_image": "review/pages-127-128.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-127",
+        "RJ-CHEMISTRY-HSS3-128"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "核酸基本单元、ATP侧栏跨栏跨页完整；指认任务不作答。"
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 124,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-129.png",
+      "review_image": "review/pages-129-130.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-128",
+        "RJ-CHEMISTRY-HSS3-129"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "ATP水解能量转换与DNA双螺旋跨页讲解保留；发现史排除。"
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": 125,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-130.png",
+      "review_image": "review/pages-129-130.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-129",
+        "RJ-CHEMISTRY-HSS3-130"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "碱基配对、RNA、基因与复制给定内容保留；未解类比不填。"
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": 126,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-131.png",
+      "review_image": "review/pages-131-132.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-131"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "PCR有效知识保留；人类基因组历史评价与练习排除。"
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 127,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-132.png",
+      "review_image": "review/pages-131-132.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 128,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-133.png",
+      "review_image": "review/pages-133-134.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": 129,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-134.png",
+      "review_image": "review/pages-133-134.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": 130,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-135.png",
+      "review_image": "review/pages-135-136.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-132"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "完整用品与蔗糖/淀粉水解前后新条件保留；同法葡萄糖原实验不重复；不补还原糖判断及结果。"
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": 131,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-136.png",
+      "review_image": "review/pages-135-136.jpg",
+      "visual_status": "reviewed",
+      "role": "第五章章引言",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-133"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "保留教材给定的核心讲解及有效图表；未解练习、任务指标、纯历史评价和重复片段排除。"
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": 132,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-137.png",
+      "review_image": "review/pages-137-138.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-134",
+        "RJ-CHEMISTRY-HSS3-135"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "高分子10⁴、平均量、单体链节聚合度和PVC原式保留。"
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": 133,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-138.png",
+      "review_image": "review/pages-137-138.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-136"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "己二酸/乙二醇缩聚首讲、端基与副产物条件跨页完整。"
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": 134,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-139.png",
+      "review_image": "review/pages-139-140.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-136"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "n−1/2n−1不同单体条件和两原式保留；施陶丁格纯史话与重复概念排除。"
+    },
+    {
+      "pdf_page": 140,
+      "printed_page": 135,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-140.png",
+      "review_image": "review/pages-139-140.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 141,
+      "printed_page": 136,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-141.png",
+      "review_image": "review/pages-141-142.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-137",
+        "RJ-CHEMISTRY-HSS3-138"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "材料分类、助剂和热塑/热固定义保留。"
+    },
+    {
+      "pdf_page": 142,
+      "printed_page": 137,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-142.png",
+      "review_image": "review/pages-141-142.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-139",
+        "RJ-CHEMISTRY-HSS3-140"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "PVC增塑原理，聚乙烯两条件全表和引发剂脚注保留。"
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": 138,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-143.png",
+      "review_image": "review/pages-143-144.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-140"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "链卷曲、支链及分子间作用力原因、图示与跨页用途保留。"
+    },
+    {
+      "pdf_page": 144,
+      "printed_page": 139,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-144.png",
+      "review_image": "review/pages-143-144.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-140",
+        "RJ-CHEMISTRY-HSS3-141",
+        "RJ-CHEMISTRY-HSS3-142"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "命名、降解的有效侧栏保留；聚乳酸复杂结构以图保留。"
+    },
+    {
+      "pdf_page": 145,
+      "printed_page": 140,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-145.png",
+      "review_image": "review/pages-145-146.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-142",
+        "RJ-CHEMISTRY-HSS3-143"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "CO₂稀土催化有效工艺保留，发展评价排除；酚醛实验定量步骤和酸催化过程保留。"
+    },
+    {
+      "pdf_page": 146,
+      "printed_page": 141,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-146.png",
+      "review_image": "review/pages-145-146.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-143",
+        "RJ-CHEMISTRY-HSS3-144"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "碱催化酚醛、网状结构与纤维分类保留；脲醛未解方程式不填写。"
+    },
+    {
+      "pdf_page": 147,
+      "printed_page": 142,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-147.png",
+      "review_image": "review/pages-147-148.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-144",
+        "RJ-CHEMISTRY-HSS3-145"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "纤维性能与混纺、涤纶的完整合成原式保留；人物年代排除。"
+    },
+    {
+      "pdf_page": 148,
+      "printed_page": 143,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-148.png",
+      "review_image": "review/pages-147-148.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-146",
+        "RJ-CHEMISTRY-HSS3-147"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "锦纶66/6/1010的区别与芳纶1414结构原式、500℃与1/5条件保留。"
+    },
+    {
+      "pdf_page": 149,
+      "printed_page": 144,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-149.png",
+      "review_image": "review/pages-149-150.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-148"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "顺丁橡胶、硫化原理与交联不宜过大条件保留。"
+    },
+    {
+      "pdf_page": 150,
+      "printed_page": 145,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-150.png",
+      "review_image": "review/pages-149-150.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-149",
+        "RJ-CHEMISTRY-HSS3-150"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "天然顺式聚异戊二烯与杜仲胶反式区别、性能用途保留，不补杜仲胶结构题。"
+    },
+    {
+      "pdf_page": 151,
+      "printed_page": 146,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-151.png",
+      "review_image": "review/pages-151-152.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-150",
+        "RJ-CHEMISTRY-HSS3-151"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "功能材料及高吸水树脂两条思路、交联与亲水基团保留。"
+    },
+    {
+      "pdf_page": 152,
+      "printed_page": 147,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-152.png",
+      "review_image": "review/pages-151-152.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-152"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "吸水对比实验、1g/70mL/100mL/5min与吸水率保留，数据空表不补。"
+    },
+    {
+      "pdf_page": 153,
+      "printed_page": 148,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-153.png",
+      "review_image": "review/pages-153-154.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [
+        "RJ-CHEMISTRY-HSS3-152",
+        "RJ-CHEMISTRY-HSS3-153"
+      ],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "探究空结论不填，分离膜正文与四类膜原图保留。"
+    },
+    {
+      "pdf_page": 154,
+      "printed_page": 149,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-154.png",
+      "review_image": "review/pages-153-154.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "海水淡化资料检索、报告任务排除。"
+    },
+    {
+      "pdf_page": 155,
+      "printed_page": 150,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-155.png",
+      "review_image": "review/pages-155-156.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 156,
+      "printed_page": 151,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-156.png",
+      "review_image": "review/pages-155-156.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 157,
+      "printed_page": 152,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-157.png",
+      "review_image": "review/pages-157-158.jpg",
+      "visual_status": "reviewed",
+      "role": "整理与提升及同页讲解或练习",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "整理框架与待填表均已首讲或未给答案，不重复。"
+    },
+    {
+      "pdf_page": 158,
+      "printed_page": 153,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-158.png",
+      "review_image": "review/pages-157-158.jpg",
+      "visual_status": "reviewed",
+      "role": "正文、实验和侧栏；含未解题或研究任务",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "复习题及已知条件属于未解任务，不答题、不独立拆出答案。"
+    },
+    {
+      "pdf_page": 159,
+      "printed_page": 154,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-159.png",
+      "review_image": "review/pages-159-160.jpg",
+      "visual_status": "reviewed",
+      "role": "名词索引",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "名词索引为导航，不重复抽取。"
+    },
+    {
+      "pdf_page": 160,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-160.png",
+      "review_image": "review/pages-159-160.jpg",
+      "visual_status": "reviewed",
+      "role": "后记及课标依据",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 161,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-161.png",
+      "review_image": "review/pages-161-162.jpg",
+      "visual_status": "reviewed",
+      "role": "图片来源致谢",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    },
+    {
+      "pdf_page": 162,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-162.png",
+      "review_image": "review/pages-161-162.jpg",
+      "visual_status": "reviewed",
+      "role": "元素周期表",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "参考元素周期表原图保留为核查附件，不按逐元素新增重复知识。"
+    },
+    {
+      "pdf_page": 163,
+      "printed_page": null,
+      "page_image": "images/chemistry-pep-hs-selective-3/page-163.png",
+      "review_image": "review/pages-163-163.jpg",
+      "visual_status": "reviewed",
+      "role": "封底与ISBN",
+      "record_ids": [],
+      "checks": [
+        "公式、结构式、上下标、电荷、箭头",
+        "单位、表格、图示与明示条件",
+        "跨页跨栏完整性与实验结果边界"
+      ],
+      "decision": "本页无新增知识正文；身份信息、目录、致谢或未解/重复内容按页性质排除。"
+    }
+  ]
+}

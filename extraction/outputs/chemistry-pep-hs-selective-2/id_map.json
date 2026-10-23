@@ -1,0 +1,632 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-001",
+    "knowledge_point": "物质组成、结构与性质的关系",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-002",
+    "knowledge_point": "分子组成、同分异构与相似结构的性质",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-003",
+    "knowledge_point": "相同组成、不同晶体结构与性质的比较",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-004",
+    "knowledge_point": "原子基本性质的周期性与结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-005",
+    "knowledge_point": "能层、能级及其能量和电子容量",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-006",
+    "knowledge_point": "基态、激发态与电子跃迁的能量变化",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-007",
+    "knowledge_point": "原子光谱与光谱分析",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-008",
+    "knowledge_point": "构造原理与基态原子电子排布式",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-009",
+    "knowledge_point": "能级交错与构造原理的模型限制",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-010",
+    "knowledge_point": "简化电子排布与价电子层",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-011",
+    "knowledge_point": "原子光谱离散谱线的结构解释",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-012",
+    "knowledge_point": "电子出现的概率密度与电子云",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-013",
+    "knowledge_point": "电子云轮廓图及s、p轨道的形状与取向",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-014",
+    "knowledge_point": "不同能层能级的原子轨道数与形状取向",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-015",
+    "knowledge_point": "电子自旋与泡利原理",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-016",
+    "knowledge_point": "电子自旋与光谱、磁性及ESR",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-017",
+    "knowledge_point": "电子排布的轨道表示式",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-018",
+    "knowledge_point": "洪特规则及其适用条件",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-019",
+    "knowledge_point": "能量最低原理及基态电子排布的三个原则",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-020",
+    "knowledge_point": "元素周期律、元素周期系和元素周期表",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-021",
+    "knowledge_point": "周期表排列形式与内层电子填充的结构依据",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-022",
+    "knowledge_point": "构造原理与周期长度、同族元素性质",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-023",
+    "knowledge_point": "元素周期表的五区与ds区的电子排布",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-024",
+    "knowledge_point": "主族元素的对角线规则",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-025",
+    "knowledge_point": "原子半径的影响因素与周期性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-026",
+    "knowledge_point": "第一电离能及其周期性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-027",
+    "knowledge_point": "电离能锯齿状变化的结构解释",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-028",
+    "knowledge_point": "逐级电离能的数据",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-029",
+    "knowledge_point": "电负性、键合电子及其周期性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-030",
+    "knowledge_point": "空气组分分离和光谱鉴别氩的方法",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-031",
+    "knowledge_point": "稀有气体的结构与化合物及Og的预测状态",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-032",
+    "knowledge_point": "元素周期律涵盖的性质变化",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-033",
+    "knowledge_point": "单原子分子、高分子与巨分子",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-034",
+    "knowledge_point": "ATP合酶的结构与工作方式",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-035",
+    "knowledge_point": "共价键的定义、饱和性与轨道重叠",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-036",
+    "knowledge_point": "σ键的轴对称性及s-s、s-p、p-p形成",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-037",
+    "knowledge_point": "π键的形成、镜面对称及与σ键的比较",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-038",
+    "knowledge_point": "乙炔两个π键的轨道形成提示",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-039",
+    "knowledge_point": "键能的定义、平均值与反应热估算",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-040",
+    "knowledge_point": "键长及其与键能的关系",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-041",
+    "knowledge_point": "键角、方向性与分子空间结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-042",
+    "knowledge_point": "常见元素的共价半径",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-043",
+    "knowledge_point": "红外光谱测定分子结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-044",
+    "knowledge_point": "质谱法测定相对分子质量",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-045",
+    "knowledge_point": "三、四、五原子分子的空间结构和键角",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-046",
+    "knowledge_point": "分子空间结构模型与构象稳定性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-047",
+    "knowledge_point": "VSEPR模型中的价层电子对",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-048",
+    "knowledge_point": "中心原子孤电子对数的计算与离子修正",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-049",
+    "knowledge_point": "由VSEPR模型推测空间结构及适用限制",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-050",
+    "knowledge_point": "sp³杂化与甲烷、水和氨的结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-051",
+    "knowledge_point": "sp、sp²杂化及杂化轨道的用途",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-052",
+    "knowledge_point": "VSEPR模型与中心原子杂化类型的对应",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-053",
+    "knowledge_point": "分子模型制作所用键长和键角数据",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-054",
+    "knowledge_point": "共价键极性、分子极性与判断依据",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-055",
+    "knowledge_point": "臭氧的极性、键极性与溶解性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-056",
+    "knowledge_point": "表面活性剂、胶束、单分子膜和双分子膜",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-057",
+    "knowledge_point": "键极性对羧酸酸性的影响",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-058",
+    "knowledge_point": "分子修饰与物质性质的改变",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-059",
+    "knowledge_point": "范德华力及其大小的影响因素",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-060",
+    "knowledge_point": "壁虎脚趾与范德华力",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-061",
+    "knowledge_point": "氢键的形成、分子缔合与分子内外氢键",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-062",
+    "knowledge_point": "氢键的键能与键长数据",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-063",
+    "knowledge_point": "生物大分子中的氢键",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-064",
+    "knowledge_point": "相似相溶、氢键与物质溶解性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-065",
+    "knowledge_point": "碘在水和四氯化碳中的溶解及与碘离子的作用",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-066",
+    "knowledge_point": "手性分子、对映异构与药物作用",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-067",
+    "knowledge_point": "手性合成与催化剂的选择性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-068",
+    "knowledge_point": "对映晶体的分离与霉菌选择性利用实验",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-069",
+    "knowledge_point": "晶体的分类与结构对性质的影响",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-070",
+    "knowledge_point": "物质聚集状态与构成粒子",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-071",
+    "knowledge_point": "等离子体的组成、性质和应用",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-072",
+    "knowledge_point": "热致液晶、溶致液晶与液晶显示",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-073",
+    "knowledge_point": "晶体与非晶体、自范性及其条件",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-074",
+    "knowledge_point": "获得晶体的三条途径与实验3-1",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-075",
+    "knowledge_point": "大晶体的制备：单晶硅、磷酸二氢钾与CVD钻石",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-076",
+    "knowledge_point": "晶体的各向异性与熔点",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-077",
+    "knowledge_point": "晶胞、无隙并置与均摊计数",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-078",
+    "knowledge_point": "X射线衍射鉴别晶体与测定晶体结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-079",
+    "knowledge_point": "分子晶体的组成、性质及典型物质",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-080",
+    "knowledge_point": "分子密堆积、冰与干冰结构和密度的对比",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-081",
+    "knowledge_point": "镁在干冰中燃烧的实验",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-082",
+    "knowledge_point": "天然气水合物与笼状结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-083",
+    "knowledge_point": "共价晶体与金刚石的三维骨架结构",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-084",
+    "knowledge_point": "二氧化硅晶体、螺旋结构与用途",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-085",
+    "knowledge_point": "常见共价晶体及结构取代制备发光材料",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-086",
+    "knowledge_point": "莫氏硬度、共价晶体熔点和受力断裂",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-087",
+    "knowledge_point": "天然金刚石的形成条件与表面稳定性",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-088",
+    "knowledge_point": "高压与低压人工合成金刚石",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-089",
+    "knowledge_point": "金属晶体、金属键与电子气理论",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-090",
+    "knowledge_point": "电子气理论对延展性、合金和导电性的解释",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-091",
+    "knowledge_point": "离子晶体的组成、作用力与性质",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-092",
+    "knowledge_point": "离子液体的组成、低熔点、性质与用途",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-093",
+    "knowledge_point": "过渡晶体与离子键成分",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-094",
+    "knowledge_point": "石墨的混合型晶体结构与导电方向",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-095",
+    "knowledge_point": "硅酸盐的阴离子结构与铝硅酸盐",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-096",
+    "knowledge_point": "纳米晶体、晶粒尺寸与熔点变化",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-097",
+    "knowledge_point": "明矾大晶体的制备与交替包覆",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-098",
+    "knowledge_point": "四水合铜离子、配位键与配合物",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-099",
+    "knowledge_point": "氨合铜配离子的形成与晶体析出实验",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-100",
+    "knowledge_point": "硫氰化铁配离子的形成与三价铁鉴定",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-101",
+    "knowledge_point": "氯化银沉淀溶解与银氨配合物",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-102",
+    "knowledge_point": "天然配合物、卟啉配体与中心离子",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-103",
+    "knowledge_point": "超分子、分子识别与杯酚分离C60和C70",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-104",
+    "knowledge_point": "冠醚识别碱金属离子与超分子自组装",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS2-105",
+    "knowledge_point": "简单离子与配离子的区别实验",
+    "reason": "新分册首次抽取，教材顺序连续编号"
+  }
+]

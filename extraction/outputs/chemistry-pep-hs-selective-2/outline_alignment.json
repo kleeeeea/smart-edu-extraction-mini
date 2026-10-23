@@ -1,0 +1,193 @@
+{
+  "resource_id": "b82cefe7-d631-4bde-baf9-352ca033cba4",
+  "website_resource_title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+  "resource_url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b82cefe7-d631-4bde-baf9-352ca033cba4",
+  "resource_metadata_url": "https://s-file-1.ykt.cbern.com.cn/zxx/ndrv2/resources/tch_material/details/b82cefe7-d631-4bde-baf9-352ca033cba4.json",
+  "identity_evidence": [
+    "资源ID与指定文件名一致",
+    "网站源文件与本地大小同为18413188字节",
+    "115个物理页；15个非空目录起始页均与本地目录/正文对应",
+    "书名、选择性必修2册次、2019审核、2017年版课标及封底ISBN经图像确认"
+  ],
+  "sha256": "80bd01587de4d10cd78949e707477df14b2b6848cbc37c9154c72dfc37eedce3",
+  "local_md5": "9c81ed1c01f61c58fa3c6cf70d1dec55",
+  "website_source_ti_md5": "6b9d438dc46e17139aedfc5bbc197267-3",
+  "hash_comparison": "ti_md5带-3后缀，是对象标识，不直接与本地MD5比较；不声称远端与本地逐字节相同",
+  "nodes": [
+    {
+      "node_id": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51",
+      "page_number": 8,
+      "depth": 0,
+      "pdf_title": "第一章 原子结构与性质",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "b55a7f4b-941f-306e-ba50-6106f0397014",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/b55a7f4b-941f-306e-ba50-6106f0397014",
+      "page_number": 9,
+      "depth": 1,
+      "pdf_title": "第一节 原子结构",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "0bf4a4f3-ad55-31d5-a881-e46ac5b3c92b",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/0bf4a4f3-ad55-31d5-a881-e46ac5b3c92b",
+      "page_number": 21,
+      "depth": 1,
+      "pdf_title": "第二节 原子结构与元素的性质",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "6fd177b6-9fa8-3c6d-bdd9-58748686dc0d",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/6fd177b6-9fa8-3c6d-bdd9-58748686dc0d",
+      "page_number": 33,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "6832c9bc-a926-3102-8cd5-8739ce770956",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956",
+      "page_number": 36,
+      "depth": 0,
+      "pdf_title": "第二章 分子结构与性质",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "1312481c-963f-37d1-aa4a-1f1c4f3e1d1c",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/1312481c-963f-37d1-aa4a-1f1c4f3e1d1c",
+      "page_number": 37,
+      "depth": 1,
+      "pdf_title": "第一节 共价键",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "e61a1561-59d5-35f1-981a-7e7ae1f1da8b",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/e61a1561-59d5-35f1-981a-7e7ae1f1da8b",
+      "page_number": 44,
+      "depth": 1,
+      "pdf_title": "第二节 分子的空间结构",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "5f62f2ad-8f9f-37a8-99b3-840836c5728b",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/5f62f2ad-8f9f-37a8-99b3-840836c5728b",
+      "page_number": 55,
+      "depth": 1,
+      "pdf_title": "第三节 分子结构与物质的性质",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f",
+      "page_number": 70,
+      "depth": 0,
+      "pdf_title": "第三章 晶体结构与性质",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "5cd0ef55-18f8-3570-8881-58a2e9ed5f0f",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/5cd0ef55-18f8-3570-8881-58a2e9ed5f0f",
+      "page_number": 71,
+      "depth": 1,
+      "pdf_title": "第一节 物质的聚集状态与晶体的常识",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "19cebf2b-115e-3453-8be5-d6c5b2f5c93c",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/19cebf2b-115e-3453-8be5-d6c5b2f5c93c",
+      "page_number": 81,
+      "depth": 1,
+      "pdf_title": "第二节 分子晶体与共价晶体",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "cc8bfdec-b197-3514-919b-0da565f11f9c",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/cc8bfdec-b197-3514-919b-0da565f11f9c",
+      "page_number": 89,
+      "depth": 1,
+      "pdf_title": "第三节 金属晶体与离子晶体",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "1e5ee9e3-97cb-3ebb-ba84-bbda084b71a9",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/1e5ee9e3-97cb-3ebb-ba84-bbda084b71a9",
+      "page_number": 98,
+      "depth": 1,
+      "pdf_title": "第四节 配合物与超分子",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "6a0709a4-0208-32a5-87bc-61716f350612",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/6a0709a4-0208-32a5-87bc-61716f350612",
+      "page_number": 104,
+      "depth": 1,
+      "pdf_title": "整理与提升",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "312b4d72-8468-35d5-8d90-0ef60e1147a5",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/312b4d72-8468-35d5-8d90-0ef60e1147a5",
+      "page_number": 107,
+      "depth": 1,
+      "pdf_title": "实验活动 简单配合物的形成",
+      "alignment_status": "对应同资源PDF目录及起始页",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": "PDF P4及对应正文起始页"
+    },
+    {
+      "node_id": "1bdd494a-fd42-34ce-8258-aec02a25e3aa",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/1bdd494a-fd42-34ce-8258-aec02a25e3aa",
+      "page_number": null,
+      "depth": 1,
+      "pdf_title": null,
+      "alignment_status": "网站节点页码为空，无法确认具体标题，保留未对齐状态",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": null
+    },
+    {
+      "node_id": "179988f4-ad20-3b75-94f5-30ac05975c57",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/179988f4-ad20-3b75-94f5-30ac05975c57",
+      "page_number": null,
+      "depth": 1,
+      "pdf_title": null,
+      "alignment_status": "网站节点页码为空，无法确认具体标题，保留未对齐状态",
+      "website_title_status": "接口不含标题字符串；不虚构名称",
+      "title_evidence": null
+    }
+  ],
+  "ordering": "按同资源网站节点层级与非空页码组织章节、小节；具体知识点按教材细分；章引言、正文小标题和平台未完整返回的整理栏目依PDF原位维护。",
+  "limitations": [
+    "网站ebook_mapping不返回标题字符串；具体名称来自同资源PDF目录。",
+    "17个节点中2个页码为空，无法逐节点确认；未用其他版本补齐。"
+  ]
+}

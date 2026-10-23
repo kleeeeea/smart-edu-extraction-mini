@@ -1,0 +1,93 @@
+{
+  "front_page": 3,
+  "ebook_id": "614ce40d-3b75-4760-9250-55fdb63875c0",
+  "ebook_tenant_id": 0,
+  "ebook_container_id": "00000000-0000-0000-0000-000000000000",
+  "mappings": [
+    {
+      "node_id": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51",
+      "page_number": 8
+    },
+    {
+      "node_id": "b55a7f4b-941f-306e-ba50-6106f0397014",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/b55a7f4b-941f-306e-ba50-6106f0397014",
+      "page_number": 9
+    },
+    {
+      "node_id": "0bf4a4f3-ad55-31d5-a881-e46ac5b3c92b",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/0bf4a4f3-ad55-31d5-a881-e46ac5b3c92b",
+      "page_number": 21
+    },
+    {
+      "node_id": "6fd177b6-9fa8-3c6d-bdd9-58748686dc0d",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/6fd177b6-9fa8-3c6d-bdd9-58748686dc0d",
+      "page_number": 33
+    },
+    {
+      "node_id": "6832c9bc-a926-3102-8cd5-8739ce770956",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956",
+      "page_number": 36
+    },
+    {
+      "node_id": "1312481c-963f-37d1-aa4a-1f1c4f3e1d1c",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/1312481c-963f-37d1-aa4a-1f1c4f3e1d1c",
+      "page_number": 37
+    },
+    {
+      "node_id": "e61a1561-59d5-35f1-981a-7e7ae1f1da8b",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/e61a1561-59d5-35f1-981a-7e7ae1f1da8b",
+      "page_number": 44
+    },
+    {
+      "node_id": "5f62f2ad-8f9f-37a8-99b3-840836c5728b",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/5f62f2ad-8f9f-37a8-99b3-840836c5728b",
+      "page_number": 55
+    },
+    {
+      "node_id": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f",
+      "page_number": 70
+    },
+    {
+      "node_id": "5cd0ef55-18f8-3570-8881-58a2e9ed5f0f",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/5cd0ef55-18f8-3570-8881-58a2e9ed5f0f",
+      "page_number": 71
+    },
+    {
+      "node_id": "19cebf2b-115e-3453-8be5-d6c5b2f5c93c",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/19cebf2b-115e-3453-8be5-d6c5b2f5c93c",
+      "page_number": 81
+    },
+    {
+      "node_id": "cc8bfdec-b197-3514-919b-0da565f11f9c",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/cc8bfdec-b197-3514-919b-0da565f11f9c",
+      "page_number": 89
+    },
+    {
+      "node_id": "1e5ee9e3-97cb-3ebb-ba84-bbda084b71a9",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/1e5ee9e3-97cb-3ebb-ba84-bbda084b71a9",
+      "page_number": 98
+    },
+    {
+      "node_id": "6a0709a4-0208-32a5-87bc-61716f350612",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/6a0709a4-0208-32a5-87bc-61716f350612",
+      "page_number": 104
+    },
+    {
+      "node_id": "312b4d72-8468-35d5-8d90-0ef60e1147a5",
+      "node_path": "bd9ff0c5-e9fa-346d-8fbd-7dc4a25d585f/312b4d72-8468-35d5-8d90-0ef60e1147a5",
+      "page_number": 107
+    },
+    {
+      "node_id": "1bdd494a-fd42-34ce-8258-aec02a25e3aa",
+      "node_path": "20dab8e8-b2ea-3b93-bcce-0dd1ebbf6d51/1bdd494a-fd42-34ce-8258-aec02a25e3aa",
+      "page_number": null
+    },
+    {
+      "node_id": "179988f4-ad20-3b75-94f5-30ac05975c57",
+      "node_path": "6832c9bc-a926-3102-8cd5-8739ce770956/179988f4-ad20-3b75-94f5-30ac05975c57",
+      "page_number": null
+    }
+  ]
+}

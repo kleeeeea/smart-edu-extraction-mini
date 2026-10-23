@@ -1,0 +1,522 @@
+[
+  {
+    "pdf_page": 5,
+    "scope": "引言",
+    "decision": "保留组成结构决定性质与变化，删除一般学习目标；末尾提问不拆成残句"
+  },
+  {
+    "pdf_page": 6,
+    "scope": "引言",
+    "decision": "乙醇/二甲醚同分异构、磺胺结构相似及模拟酶为有效原例；发现者、年代、获奖与评价删除"
+  },
+  {
+    "pdf_page": 7,
+    "scope": "引言",
+    "decision": "方解石与霰石壳体结构、功能对比保留"
+  },
+  {
+    "pdf_page": 9,
+    "scope": "能层能级",
+    "decision": "两表及能量顺序保留；未解讨论中的2n²概括不外补"
+  },
+  {
+    "pdf_page": 11,
+    "scope": "原子光谱",
+    "decision": "吸收/发射、光谱分析及特征谱线保留；纯发现史删除"
+  },
+  {
+    "pdf_page": 12,
+    "scope": "电子排布表",
+    "decision": "表1-1跨P12-P13完整转录，不补省略号所指其他元素"
+  },
+  {
+    "pdf_page": 13,
+    "scope": "能级交错",
+    "decision": "4s先于3d填入与Cr/Cu例外、经验性和模型限制保留"
+  },
+  {
+    "pdf_page": 14,
+    "scope": "思考与讨论",
+    "decision": "[Ne]3s¹、Fe[Ar]3d⁶4s²与价层定义为给定讲解；其他未解排布不填写"
+  },
+  {
+    "pdf_page": 14,
+    "scope": "离散的谱线",
+    "decision": "保留钠双线、定态和跃迁解释；人物年代奖项删除"
+  },
+  {
+    "pdf_page": 17,
+    "scope": "轨道表",
+    "decision": "d、f省略内容不外补；保留原图与轨道数"
+  },
+  {
+    "pdf_page": 18,
+    "scope": "自旋、洪特规则",
+    "decision": "有效ESR与光谱磁场情境保留；只恢复正确给定轨道表示，不解额外练习"
+  },
+  {
+    "pdf_page": 21,
+    "scope": "三张周期表",
+    "decision": "保留各表排列方法和结构依据，人物年代发展评价不单列"
+  },
+  {
+    "pdf_page": 24,
+    "scope": "再探元素周期表",
+    "decision": "给定五区定义及ds脚注保留；问题、解释整理任务与预测119号元素不作答"
+  },
+  {
+    "pdf_page": 25,
+    "scope": "原子半径",
+    "decision": "影响因素和图示保留；P26趋势问题不补答案"
+  },
+  {
+    "pdf_page": 27,
+    "scope": "电离能",
+    "decision": "锯齿状例外解释、逐级表给定数据保留；推理讨论空格不填"
+  },
+  {
+    "pdf_page": 29,
+    "scope": "稀有气体史话",
+    "decision": "保留两种氮气密度、假设、分离空气和光谱鉴别；人物年代删除"
+  },
+  {
+    "pdf_page": 30,
+    "scope": "稀有气体与Og",
+    "decision": "保留已知化合物、八电子结构及理论预测条件，不把历史惰性观点当绝对规律"
+  },
+  {
+    "pdf_page": 33,
+    "scope": "整理与提升",
+    "decision": "性质周期性清单有增补内容保留，其他重复及未解题不重录"
+  },
+  {
+    "pdf_page": 36,
+    "scope": "章引言",
+    "decision": "单原子/高分子/巨分子及ATP合酶结构例图有效；历史与奖项删除"
+  },
+  {
+    "pdf_page": 39,
+    "scope": "共价键探究",
+    "decision": "仅保留已给的乙炔p轨道形成π键提示；其余研究问题和空表不补"
+  },
+  {
+    "pdf_page": 40,
+    "scope": "键能表",
+    "decision": "298.15K、101kPa、气态原子及平均值条件、全表键级和数据保留"
+  },
+  {
+    "pdf_page": 41,
+    "scope": "键长键角",
+    "decision": "平衡位置条件及1pm=10⁻¹²m脚注保留"
+  },
+  {
+    "pdf_page": 42,
+    "scope": "共价半径",
+    "decision": "数据表保留；半径差值讨论不补"
+  },
+  {
+    "pdf_page": 44,
+    "scope": "红外光谱",
+    "decision": "羟基推测首讲原例与原图在detail，不能拆为example"
+  },
+  {
+    "pdf_page": 45,
+    "scope": "质谱",
+    "decision": "甲苯92/91/65峰、m/z、离子电荷和原解完整在detail"
+  },
+  {
+    "pdf_page": 47,
+    "scope": "空间模型",
+    "decision": "P4等模型图及S8皇冠、环己烷椅船稳定对比保留，评价删除"
+  },
+  {
+    "pdf_page": 48,
+    "scope": "孤电子对",
+    "decision": "(a−xb)/2与阳减阴加、SO2/NH4⁺/CO3²⁻表为核心，不解S/P价电子讨论"
+  },
+  {
+    "pdf_page": 49,
+    "scope": "VSEPR",
+    "decision": "先含孤电子对模型再略去的步骤完整；表2-4原图及数据保留"
+  },
+  {
+    "pdf_page": 50,
+    "scope": "杂化",
+    "decision": "sp³甲烷矛盾情境、形成过程与水氨孤电子对完整留detail；过渡金属限制保留"
+  },
+  {
+    "pdf_page": 52,
+    "scope": "模型制作",
+    "decision": "材料及给定键长键角表有效；自定目标、成果展示和气球问题不录"
+  },
+  {
+    "pdf_page": 55,
+    "scope": "极性",
+    "decision": "图2-17原图保留；P55判断极性未解题不填"
+  },
+  {
+    "pdf_page": 56,
+    "scope": "臭氧及表面活性剂",
+    "decision": "保留微弱极性28%、溶解对比、胶束去污；跨栏单分子膜句先合并"
+  },
+  {
+    "pdf_page": 57,
+    "scope": "羧酸酸性",
+    "decision": "pKₐ=−lgKₐ、七种酸数据及卤素种类/数量/烷基长度条件保留"
+  },
+  {
+    "pdf_page": 58,
+    "scope": "分子修饰",
+    "decision": "定义、三氯蔗糖及布洛芬酯化结构和明示性质保留，完美甜味剂评价删除"
+  },
+  {
+    "pdf_page": 59,
+    "scope": "范德华力",
+    "decision": "全表保留；壁虎实验、模拟方法和仿生材料保留，历史评价删除；卤素趋势问题不解"
+  },
+  {
+    "pdf_page": 60,
+    "scope": "氢键",
+    "decision": "保持分子内邻羟基苯甲醛与分子间对羟基苯甲醛的具体比较；不得换为未解练习中的苯甲酸"
+  },
+  {
+    "pdf_page": 61,
+    "scope": "氢键表与生物结构",
+    "decision": "键长指A—H…B的A至B距离，不能误作H…B；DNA及蛋白原图保留"
+  },
+  {
+    "pdf_page": 62,
+    "scope": "溶解性",
+    "decision": "相似相溶的一般性限定、戊醇对比保留；给定碘萃取/KI操作和I3⁻反应保留，不回答问题"
+  },
+  {
+    "pdf_page": 63,
+    "scope": "溶解度和手性",
+    "decision": "1.01×10⁵Pa、293K、每100g水及单位完整；手性异构和药物作用保留、经济评价删除"
+  },
+  {
+    "pdf_page": 64,
+    "scope": "巴斯德与手性",
+    "decision": "分晶实验、光学活性、假设及霉菌只利用一种的明示结论保留，奖项历史评价删除"
+  },
+  {
+    "pdf_page": 67,
+    "scope": "整理与提升",
+    "decision": "知识框架和待填表均已首讲或未给解，不重录"
+  },
+  {
+    "pdf_page": 71,
+    "scope": "状态及等离子体",
+    "decision": "非分子物质、三态模型图和等离子体构成/性质/应用保留；历史错误观点不作结论"
+  },
+  {
+    "pdf_page": 72,
+    "scope": "液晶",
+    "decision": "熔点至澄清点的加热情境、取向序无位置序和显示方法保留；发现史删除"
+  },
+  {
+    "pdf_page": 73,
+    "scope": "自范性",
+    "decision": "适当生长速率条件、玛瑙水晶对比及杂质脚注保留"
+  },
+  {
+    "pdf_page": 74,
+    "scope": "实验3-1",
+    "decision": "三条途径和三组器材步骤完整；未给出的实验现象不补；原图3-5明示例图保留"
+  },
+  {
+    "pdf_page": 75,
+    "scope": "各向异性",
+    "decision": "石蜡/红热铁针实验与现象、固定熔点及X射线鉴别方法保留"
+  },
+  {
+    "pdf_page": 77,
+    "scope": "晶胞",
+    "decision": "铜均摊8×1/8+6×1/2=4完整；NaCl与Na/Zn/I2/金刚石计数题不作答；准晶查阅任务无给定结论排除"
+  },
+  {
+    "pdf_page": 78,
+    "scope": "晶体结构测定",
+    "decision": "分立斑点/明锐峰与非晶体对比保留；准晶论文任务排除"
+  },
+  {
+    "pdf_page": 79,
+    "scope": "乙酸原例",
+    "decision": "晶胞4个分子及坐标到键长键角的首讲完整；后半页练习排除"
+  },
+  {
+    "pdf_page": 81,
+    "scope": "分子晶体",
+    "decision": "类别、性质、熔点表及分子密堆积的仅范德华力条件保留"
+  },
+  {
+    "pdf_page": 82,
+    "scope": "冰与干冰",
+    "decision": "氢键方向性、紧邻4/12、4℃密度变化与制冷用途保留"
+  },
+  {
+    "pdf_page": 83,
+    "scope": "镁与可燃冰",
+    "decision": "镁在干冰中继续燃烧实验含点燃条件与白光结论；笼状水合物假设式和实际占据差异跨页合并"
+  },
+  {
+    "pdf_page": 84,
+    "scope": "共价晶体",
+    "decision": "金刚石键长/键能/键角和SiO2首讲保留"
+  },
+  {
+    "pdf_page": 85,
+    "scope": "共价晶体",
+    "decision": "硅氧四面体螺旋、左右型及发光陶瓷取代保留；未解比较不外补"
+  },
+  {
+    "pdf_page": 86,
+    "scope": "硬度与金刚石",
+    "decision": "莫氏十级、断裂方向性、天然形成温压/急冷条件保留；断代历史与稀有价值评价删除"
+  },
+  {
+    "pdf_page": 87,
+    "scope": "人工金刚石",
+    "decision": "高压催化、爆炸、低压等离子体三法和条件差异保留；历史评价删除"
+  },
+  {
+    "pdf_page": 90,
+    "scope": "离子晶体",
+    "decision": "NaCl/CsCl熔沸点及分子/共价键/氢键可能共存条件跨页保留"
+  },
+  {
+    "pdf_page": 91,
+    "scope": "离子液体",
+    "decision": "CaO/NH4NO3/Ca(H2PO4)2/C2H5NH3NO3熔点反例保留，前面查阅空表不填"
+  },
+  {
+    "pdf_page": 92,
+    "scope": "过渡晶体",
+    "decision": "离子键成分62/50/41/33%及电负性差提示保留，不按纯离子/纯共价机械二分"
+  },
+  {
+    "pdf_page": 93,
+    "scope": "混合型晶体",
+    "decision": "石墨sp²、142/335pm、层内导电限定及轨道图保留，泛评价不单列"
+  },
+  {
+    "pdf_page": 94,
+    "scope": "硅酸盐和纳米晶体",
+    "decision": "硅氧阴离子电荷、铝取代、铅晶粒r/nm与T/K表完整保留"
+  },
+  {
+    "pdf_page": 95,
+    "scope": "纳米熔点",
+    "decision": "200nm（或250nm）限制及表面积原因保留"
+  },
+  {
+    "pdf_page": 96,
+    "scope": "明矾制备",
+    "decision": "六步操作、各温差、2～3粒晶核、中央悬挂和交替包覆保留；目的指标、查阅、结果问题不解"
+  },
+  {
+    "pdf_page": 98,
+    "scope": "实验3-2",
+    "decision": "六固体颜色、足量水操作、原图和四水合铜明示结论保留；空表不补"
+  },
+  {
+    "pdf_page": 99,
+    "scope": "实验3-3",
+    "decision": "原书所有用量、浓度、乙醇95%、摩擦步骤、沉淀到深蓝透明液再到晶体及反应式完整保留"
+  },
+  {
+    "pdf_page": 100,
+    "scope": "实验3-4和3-5",
+    "decision": "铁/SCN明示鉴定与Fe2+不红保留；AgCl消失及银氨反应保留，不扩写未给配离子式"
+  },
+  {
+    "pdf_page": 101,
+    "scope": "天然配合物和超分子",
+    "decision": "卟啉配体、中心离子及首讲杯酚分离全步骤保留"
+  },
+  {
+    "pdf_page": 102,
+    "scope": "超分子",
+    "decision": "完整分离流程图和冠醚原图保留；诺奖评价排除"
+  },
+  {
+    "pdf_page": 103,
+    "scope": "冠醚表",
+    "decision": "原表五种碱金属离子及直径数据照录，自组装关联双分子膜；后续未解练习不录"
+  },
+  {
+    "pdf_page": 104,
+    "scope": "整理与提升",
+    "decision": "已讲概念与空表不重复录入"
+  },
+  {
+    "pdf_page": 107,
+    "scope": "实验活动",
+    "decision": "Cu/Ag形成方法与前文同法重复不再次单录；Fe3+/[Fe(CN)6]3−对比有新条件，保留用品与两组给定步骤，现象解释空表不补"
+  },
+  {
+    "pdf_page": 108,
+    "scope": "索引",
+    "decision": "名词导航不重复抽取"
+  },
+  {
+    "pdf_page": 114,
+    "scope": "元素周期表",
+    "decision": "正文已讲周期表结构；整张参考表不逐元素新增同类型知识点，原图留作核查附件"
+  },
+  {
+    "pdf_page": 1,
+    "scope": "whole_page",
+    "decision": "封面及2019审核；不新增知识正文。"
+  },
+  {
+    "pdf_page": 2,
+    "scope": "whole_page",
+    "decision": "编写人员；不新增知识正文。"
+  },
+  {
+    "pdf_page": 3,
+    "scope": "whole_page",
+    "decision": "致同学们；不新增知识正文。"
+  },
+  {
+    "pdf_page": 4,
+    "scope": "whole_page",
+    "decision": "目录；不新增知识正文。"
+  },
+  {
+    "pdf_page": 20,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 31,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 32,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 34,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 35,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 43,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 53,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 54,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 65,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 66,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 67,
+    "scope": "whole_page",
+    "decision": "整理与提升：已讲知识、框架和待填表；不新增知识正文。"
+  },
+  {
+    "pdf_page": 68,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 69,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 80,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 88,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 97,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 104,
+    "scope": "whole_page",
+    "decision": "整理与提升：已讲知识、框架和待填表；不新增知识正文。"
+  },
+  {
+    "pdf_page": 105,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 106,
+    "scope": "whole_page",
+    "decision": "练习/复习题；不新增知识正文。"
+  },
+  {
+    "pdf_page": 108,
+    "scope": "whole_page",
+    "decision": "名词索引；不新增知识正文。"
+  },
+  {
+    "pdf_page": 109,
+    "scope": "whole_page",
+    "decision": "空白页；不新增知识正文。"
+  },
+  {
+    "pdf_page": 110,
+    "scope": "whole_page",
+    "decision": "后记及课标依据；不新增知识正文。"
+  },
+  {
+    "pdf_page": 111,
+    "scope": "whole_page",
+    "decision": "图片来源致谢；不新增知识正文。"
+  },
+  {
+    "pdf_page": 112,
+    "scope": "whole_page",
+    "decision": "空白页；不新增知识正文。"
+  },
+  {
+    "pdf_page": 113,
+    "scope": "whole_page",
+    "decision": "空白页；不新增知识正文。"
+  },
+  {
+    "pdf_page": 114,
+    "scope": "whole_page",
+    "decision": "元素周期表；不新增知识正文。"
+  },
+  {
+    "pdf_page": 115,
+    "scope": "whole_page",
+    "decision": "封底与ISBN；不新增知识正文。"
+  }
+]

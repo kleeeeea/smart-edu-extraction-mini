@@ -1,0 +1,1073 @@
+[
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-001",
+    "draft_position": 1,
+    "knowledge_point": "有机合成中的碳骨架、官能团与结构测定",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-002",
+    "draft_position": 2,
+    "knowledge_point": "有机化学的研究对象与有机化合物的一般特点",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-003",
+    "draft_position": 3,
+    "knowledge_point": "依据碳骨架对有机化合物分类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-004",
+    "draft_position": 4,
+    "knowledge_point": "烃的衍生物、官能团与有机化合物的主要类别",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-005",
+    "draft_position": 5,
+    "knowledge_point": "有机化合物中σ键、π键的形成与旋转特点",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-006",
+    "draft_position": 6,
+    "knowledge_point": "共价键极性、基团相互影响与有机反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-007",
+    "draft_position": 7,
+    "knowledge_point": "同分异构现象与构造异构的分类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-008",
+    "draft_position": 8,
+    "knowledge_point": "键线式的表示方法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-009",
+    "draft_position": 9,
+    "knowledge_point": "碳价四面体与对映异构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-010",
+    "draft_position": 10,
+    "knowledge_point": "研究有机化合物的一般步骤与分离提纯原理",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-011",
+    "draft_position": 11,
+    "knowledge_point": "蒸馏法的适用条件与原例",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-012",
+    "draft_position": 12,
+    "knowledge_point": "液液萃取、固液萃取与分液",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-013",
+    "draft_position": 13,
+    "knowledge_point": "重结晶提纯的原理与溶剂选择",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-014",
+    "draft_position": 14,
+    "knowledge_point": "重结晶法提纯苯甲酸的实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-015",
+    "draft_position": 15,
+    "knowledge_point": "色谱分离的原理与植物色素分离方法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-016",
+    "draft_position": 16,
+    "knowledge_point": "元素定量分析确定实验式及计算原例",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-017",
+    "draft_position": 17,
+    "knowledge_point": "质谱确定相对分子质量与分子式",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-018",
+    "draft_position": 18,
+    "knowledge_point": "红外光谱确定化学键和官能团",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-019",
+    "draft_position": 19,
+    "knowledge_point": "核磁共振氢谱、化学位移与结构鉴定",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-020",
+    "draft_position": 20,
+    "knowledge_point": "X射线衍射测定有机分子结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-021",
+    "draft_position": 21,
+    "knowledge_point": "青蒿素提取及结构测定的方法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-022",
+    "draft_position": 22,
+    "knowledge_point": "烃的定义、分类与反应预测依据",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-023",
+    "draft_position": 23,
+    "knowledge_point": "烷烃的sp³结构与甲烷的性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-024",
+    "draft_position": 24,
+    "knowledge_point": "同系物、链状烷烃通式与物理性质变化",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-025",
+    "draft_position": 25,
+    "knowledge_point": "烃基与不同结构的丙基",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-026",
+    "draft_position": 26,
+    "knowledge_point": "烷烃的支链异构与沸点比较",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-027",
+    "draft_position": 27,
+    "knowledge_point": "带支链烷烃的系统命名法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-028",
+    "draft_position": 28,
+    "knowledge_point": "伯、仲、叔、季碳原子的结构单元",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-029",
+    "draft_position": 29,
+    "knowledge_point": "烯烃的组成、乙烯的结构和性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-030",
+    "draft_position": 30,
+    "knowledge_point": "含碳碳双键化合物的加聚与聚氯乙烯",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-031",
+    "draft_position": 31,
+    "knowledge_point": "烯烃的顺反异构及性质比较",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-032",
+    "draft_position": 32,
+    "knowledge_point": "二烯烃的1,2-加成、1,4-加成与竞争反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-033",
+    "draft_position": 33,
+    "knowledge_point": "炔烃通式、乙炔的组成、性质和sp结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-034",
+    "draft_position": 34,
+    "knowledge_point": "乙炔的实验室制取、除杂及性质探究操作",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-035",
+    "draft_position": 35,
+    "knowledge_point": "乙炔的加成、加聚与炔烃的化学性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-036",
+    "draft_position": 36,
+    "knowledge_point": "氧炔焰的温度与金属焊接切割",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-037",
+    "draft_position": 37,
+    "knowledge_point": "导电高分子的掺杂与共轭体系",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-038",
+    "draft_position": 38,
+    "knowledge_point": "芳香烃、苯的物理性质及分子结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-039",
+    "draft_position": 39,
+    "knowledge_point": "苯的燃烧、溴代、硝化与催化加氢",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-040",
+    "draft_position": 40,
+    "knowledge_point": "苯的磺化及苯磺酸性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-041",
+    "draft_position": 41,
+    "knowledge_point": "苯的表示式与邻二氯苯结构等同性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-042",
+    "draft_position": 42,
+    "knowledge_point": "苯的同系物的组成、物理性质与反应特点",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-043",
+    "draft_position": 43,
+    "knowledge_point": "苯与甲苯的对比实验及甲基和苯环相互影响",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-044",
+    "draft_position": 44,
+    "knowledge_point": "甲苯的硝化与三硝基甲苯",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-045",
+    "draft_position": 45,
+    "knowledge_point": "稠环芳香烃、萘和蒽的结构性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-046",
+    "draft_position": 46,
+    "knowledge_point": "烃的衍生物与官能团决定的性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-047",
+    "draft_position": 47,
+    "knowledge_point": "卤代烃的分类、通式和物理性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-048",
+    "draft_position": 48,
+    "knowledge_point": "卤代烃的系统命名原例",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-049",
+    "draft_position": 49,
+    "knowledge_point": "溴乙烷水解实验与碳卤键极性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-050",
+    "draft_position": 52,
+    "knowledge_point": "氯乙烷汽化吸热与冷冻麻醉用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-051",
+    "draft_position": 50,
+    "knowledge_point": "卤代烃的消去反应及1-溴丁烷探究",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-052",
+    "draft_position": 51,
+    "knowledge_point": "卤代烯烃加聚与聚四氟乙烯",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-053",
+    "draft_position": 53,
+    "knowledge_point": "卤代烃的用途、氟利昂与臭氧层破坏反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-054",
+    "draft_position": 54,
+    "knowledge_point": "醇、酚的结构区别与醇的分类通式",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-055",
+    "draft_position": 55,
+    "knowledge_point": "醇的物理性质、氢键与沸点溶解性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-056",
+    "draft_position": 56,
+    "knowledge_point": "醇的羟基极性及与氢卤酸的取代反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-057",
+    "draft_position": 57,
+    "knowledge_point": "乙醇消去制乙烯与分子间脱水制乙醚",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-058",
+    "draft_position": 58,
+    "knowledge_point": "乙醇氧化与有机氧化还原反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-059",
+    "draft_position": 59,
+    "knowledge_point": "酒精代谢中的两种脱氢酶",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-060",
+    "draft_position": 60,
+    "knowledge_point": "苯酚的分子结构和物理性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-061",
+    "draft_position": 61,
+    "knowledge_point": "苯酚的弱酸性实验与苯环对羟基的影响",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-062",
+    "draft_position": 62,
+    "knowledge_point": "苯酚的溴代实验与邻对位取代",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-063",
+    "draft_position": 63,
+    "knowledge_point": "苯酚显色检验、用途与含酚废水",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-064",
+    "draft_position": 64,
+    "knowledge_point": "苯酚的消毒防腐与外用限制",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-065",
+    "draft_position": 65,
+    "knowledge_point": "羰基、醛基、醛的通式及乙醛的结构性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-066",
+    "draft_position": 66,
+    "knowledge_point": "乙醛催化加氢、醛基极性及与HCN加成",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-067",
+    "draft_position": 67,
+    "knowledge_point": "乙醛的银镜反应实验与醛基检验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-068",
+    "draft_position": 68,
+    "knowledge_point": "乙醛与新制氢氧化铜的反应及催化氧化",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-069",
+    "draft_position": 69,
+    "knowledge_point": "醛类的反应特点、甲醛与苯甲醛",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-070",
+    "draft_position": 70,
+    "knowledge_point": "植物中的醛与天然香料",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-071",
+    "draft_position": 71,
+    "knowledge_point": "酮的结构、丙酮的性质和催化加氢",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-072",
+    "draft_position": 72,
+    "knowledge_point": "羧酸和羧酸衍生物的结构及分类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-073",
+    "draft_position": 73,
+    "knowledge_point": "甲酸的羧基、醛基结构与性质用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-074",
+    "draft_position": 74,
+    "knowledge_point": "苯甲酸、乙二酸及羧酸物理性质的变化",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-075",
+    "draft_position": 75,
+    "knowledge_point": "天然有机酸和羟基酸",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-076",
+    "draft_position": 76,
+    "knowledge_point": "羧基的易断键部位及羧酸弱酸性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-077",
+    "draft_position": 77,
+    "knowledge_point": "酯化反应的断键方式与同位素示踪法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-078",
+    "draft_position": 78,
+    "knowledge_point": "酯的结构、物理性质与天然酯类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-079",
+    "draft_position": 79,
+    "knowledge_point": "酯的酸性水解与碱性水解",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-080",
+    "draft_position": 80,
+    "knowledge_point": "油脂的组成、结构与油和脂肪",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-081",
+    "draft_position": 81,
+    "knowledge_point": "油脂水解与皂化反应",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-082",
+    "draft_position": 82,
+    "knowledge_point": "油脂氢化、硬化油和人造脂肪",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-083",
+    "draft_position": 83,
+    "knowledge_point": "油酸、亚油酸的顺式结构与反式脂肪酸",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-084",
+    "draft_position": 84,
+    "knowledge_point": "胺的结构、碱性与用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-085",
+    "draft_position": 85,
+    "knowledge_point": "酰胺、酰基和酰胺基及其水解",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-086",
+    "draft_position": null,
+    "knowledge_point": "肥皂的工业工序与洗涤剂组成",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-087",
+    "draft_position": 86,
+    "knowledge_point": "有机合成中碳骨架的增长与缩短",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-088",
+    "draft_position": 87,
+    "knowledge_point": "羟醛缩合与第尔斯—阿尔德成环",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-089",
+    "draft_position": 88,
+    "knowledge_point": "官能团的引入及保护与复原",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-090",
+    "draft_position": 89,
+    "knowledge_point": "有机合成的正向设计与逆合成分析",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-091",
+    "draft_position": 90,
+    "knowledge_point": "乙二酸二乙酯的逆合成分析与五步合成原例",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-092",
+    "draft_position": 91,
+    "knowledge_point": "实验室有机合成装置与工业放大",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-093",
+    "draft_position": 92,
+    "knowledge_point": "乙酸乙酯的制备与水解条件对比实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-094",
+    "draft_position": 93,
+    "knowledge_point": "1-己烯与1-溴丁烷的官能团检验实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-095",
+    "draft_position": 94,
+    "knowledge_point": "阿司匹林中羧基与酯基的检验实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-096",
+    "draft_position": 95,
+    "knowledge_point": "生物大分子的组成结构特点",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-097",
+    "draft_position": 96,
+    "knowledge_point": "糖类的组成、结构定义及单糖寡糖多糖分类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-098",
+    "draft_position": 97,
+    "knowledge_point": "葡萄糖的结构、还原性实验和营养作用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-099",
+    "draft_position": 98,
+    "knowledge_point": "葡萄糖的环状结构与链环平衡",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-100",
+    "draft_position": 99,
+    "knowledge_point": "果糖的组成、结构与性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-101",
+    "draft_position": 100,
+    "knowledge_point": "核糖和脱氧核糖",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-102",
+    "draft_position": 101,
+    "knowledge_point": "糖分子的手性与对映异构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-103",
+    "draft_position": 102,
+    "knowledge_point": "蔗糖的组成、性质和水解",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-104",
+    "draft_position": 103,
+    "knowledge_point": "麦芽糖的组成、性质和水解",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-105",
+    "draft_position": 104,
+    "knowledge_point": "乳糖、乳酸发酵及乳糖不耐受",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-106",
+    "draft_position": 105,
+    "knowledge_point": "甜味剂的分类、特点与应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-107",
+    "draft_position": 106,
+    "knowledge_point": "多糖、淀粉与纤维素的组成",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-108",
+    "draft_position": 107,
+    "knowledge_point": "淀粉的结构、性质和应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-109",
+    "draft_position": 108,
+    "knowledge_point": "纤维素的结构、性质及水解实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-110",
+    "draft_position": 109,
+    "knowledge_point": "纤维素衍生物与再生纤维的应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-111",
+    "draft_position": 110,
+    "knowledge_point": "甲壳质与壳聚糖",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-112",
+    "draft_position": 111,
+    "knowledge_point": "纤维素制燃料乙醇的工艺",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-113",
+    "draft_position": 112,
+    "knowledge_point": "蛋白质的生物功能与组成单体",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-114",
+    "draft_position": 113,
+    "knowledge_point": "氨基酸的结构、分类及物理性质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-115",
+    "draft_position": 114,
+    "knowledge_point": "氨基酸的两性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-116",
+    "draft_position": 115,
+    "knowledge_point": "味精的主要成分",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-117",
+    "draft_position": 116,
+    "knowledge_point": "肽键、二肽、多肽与蛋白质",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-118",
+    "draft_position": 117,
+    "knowledge_point": "蛋白质的元素组成与各级结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-119",
+    "draft_position": 118,
+    "knowledge_point": "根据氮含量测定蛋白质含量",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-120",
+    "draft_position": 119,
+    "knowledge_point": "蛋白质的两性与水解",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-121",
+    "draft_position": 120,
+    "knowledge_point": "蛋白质盐析及分离提纯实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-122",
+    "draft_position": 121,
+    "knowledge_point": "蛋白质变性及影响因素、实验与应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-123",
+    "draft_position": 122,
+    "knowledge_point": "蛋白质与浓硝酸的显色反应实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-124",
+    "draft_position": 123,
+    "knowledge_point": "胰岛素的功能与肽链结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-125",
+    "draft_position": 124,
+    "knowledge_point": "烫发中的二硫键与巯基转化",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-126",
+    "draft_position": 125,
+    "knowledge_point": "酶的催化作用、条件与专一性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-127",
+    "draft_position": 126,
+    "knowledge_point": "核酸的分类、组成与核苷酸",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-128",
+    "draft_position": 127,
+    "knowledge_point": "ATP的组成、水解及能量转换",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-129",
+    "draft_position": 128,
+    "knowledge_point": "DNA双螺旋、碱基互补配对与RNA结构",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-130",
+    "draft_position": 129,
+    "knowledge_point": "基因、DNA复制和核酸的遗传功能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-131",
+    "draft_position": 130,
+    "knowledge_point": "聚合酶链反应（PCR）及用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-132",
+    "draft_position": 131,
+    "knowledge_point": "蔗糖、淀粉水解前后还原性对比实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-133",
+    "draft_position": 132,
+    "knowledge_point": "合成高分子材料的类别与功能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-134",
+    "draft_position": 133,
+    "knowledge_point": "高分子的相对分子质量与合成方法",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-135",
+    "draft_position": 134,
+    "knowledge_point": "加聚反应、单体、链节与聚合度",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-136",
+    "draft_position": 135,
+    "knowledge_point": "缩聚反应、端基与小分子副产物",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-137",
+    "draft_position": 136,
+    "knowledge_point": "高分子材料按用途和性能分类",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-138",
+    "draft_position": 137,
+    "knowledge_point": "塑料、加工助剂及热塑性与热固性",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-139",
+    "draft_position": 138,
+    "knowledge_point": "聚氯乙烯薄膜与增塑剂作用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-140",
+    "draft_position": 139,
+    "knowledge_point": "高压法与低压法聚乙烯的结构、性能和用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-141",
+    "draft_position": 140,
+    "knowledge_point": "高分子的命名",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-142",
+    "draft_position": 141,
+    "knowledge_point": "可降解高分子的降解原理与应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-143",
+    "draft_position": 142,
+    "knowledge_point": "酚醛树脂的合成实验、结构与性能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-144",
+    "draft_position": 143,
+    "knowledge_point": "天然纤维、再生纤维与合成纤维的性能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-145",
+    "draft_position": 144,
+    "knowledge_point": "涤纶的合成、性能与用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-146",
+    "draft_position": 145,
+    "knowledge_point": "聚酰胺纤维与锦纶的组成、合成和性能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-147",
+    "draft_position": 146,
+    "knowledge_point": "芳纶1414的合成与高强度耐热性能",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-148",
+    "draft_position": 147,
+    "knowledge_point": "合成橡胶、顺丁橡胶及硫化交联",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-149",
+    "draft_position": 148,
+    "knowledge_point": "天然橡胶与杜仲胶的顺反结构、性能与应用",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-150",
+    "draft_position": 149,
+    "knowledge_point": "功能高分子材料及结构设计",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-151",
+    "draft_position": 150,
+    "knowledge_point": "高吸水性树脂的亲水基团、改性与交联",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-152",
+    "draft_position": 151,
+    "knowledge_point": "高吸水性树脂与一般材料吸水性能对比实验",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  },
+  {
+    "old_id": null,
+    "new_id": "RJ-CHEMISTRY-HSS3-153",
+    "draft_position": 152,
+    "knowledge_point": "高分子分离膜的原理、分类及用途",
+    "reason": "新分册首次抽取；最终教材顺序编号，未替换已发布ID"
+  }
+]
